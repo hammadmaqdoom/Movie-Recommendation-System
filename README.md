@@ -1,4 +1,8 @@
-# Movie-Recommendation-System
+# Movie Recommendation System
+
+Made Movie Recommendation System using Python & Django with Bloom Filter for course project 'CS201: Data Structures II' at Habib University.
+
+## Overview
 
 ## Setup
 
@@ -31,6 +35,15 @@ Once `pip` has finished downloading the dependencies:
 ```
 And navigate to `http://127.0.0.1:8000/`.
 
+# Credits
+This project was jointly developed by 
+- Muhammad Hammad Maqdoom
+- Haris Karim Ladhani
+- Mustafa Madraswala
+- Sameer Faisal
 
+You may contact us about any bugs or errors at the following emails mmm05534@st.habib.edu.pk, @st.habib.edu.pk, @st.habib.edu.pk and @st.habib.edu.pk
+
+Happy testing :)
 
 
