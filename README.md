@@ -19,7 +19,7 @@ $ .\.venv\Scripts\Activate
 Then install the dependencies:
 
 ```sh
-(venv)$ pip install -r requirements.txt
+(venv)$ py -m pip install -r requirements.txt
 ```
 Note the `(env)` in front of the prompt. This indicates that this terminal
 session operates in a virtual environment set up by `virtualenv`.
