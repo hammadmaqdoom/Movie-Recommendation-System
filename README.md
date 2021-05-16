@@ -13,7 +13,7 @@ Create a virtual environment to install dependencies in and activate it:
 
 ```sh
 $ venv venv
-$ source env/bin/activate
+$ .\.venv\Scripts\Activate
 ```
 
 Then install the dependencies:
