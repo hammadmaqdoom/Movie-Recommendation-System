@@ -49,7 +49,7 @@ class bloomfilter():
 
         #formula below to calculate the false positive probability
         #the formula was extracted from one of the research articles
-        return (1- math.exp(-(self.hashfunctions * self.items) / self.bits)) ** self.hashfunctions
+        return (1- math.exp(-(self.hashfunctions * self.itemsadded) / self.bitsize)) ** self.hashfunctions
 
     def get_hashfunctions(self, bitsize, totalitems):
 
