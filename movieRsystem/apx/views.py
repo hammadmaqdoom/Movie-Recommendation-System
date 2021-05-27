@@ -1,12 +1,14 @@
-from django.shortcuts import render
+import django
+from django.shortcuts import redirect, render
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import login
 from django.contrib.auth.decorators import login_required
-from apx.forms import UserForm,UserProfileInfoForm
-from django.contrib.auth import authenticate, login, logout
+from apx.forms import UserForm,UserProfileInfoForm, LoginForm
+from django.contrib.auth import authenticate,login,logout
 from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
+from django.shortcuts import redirect
 
 
 def home(request):
@@ -15,43 +17,61 @@ def home(request):
 @login_required
 def user_logout(request):
     logout(request)
-    return HttpResponseRedirect(reverse('home'))
+    return redirect('home')
 
 def register(request):
-    registered = False
-    if request.method == 'POST':
-        user_form = UserForm(data=request.POST)
-        if user_form.is_valid():
-            user = user_form.save()
-            user.set_password(user.password)
-            user.save()
+    # registered = False
+    # if request.method == 'POST':
+    #     user_form = UserForm(data=request.POST)
+    #     if user_form.is_valid():
+    #         user = user_form.save()
+    #         user.set_password(user.password)
+    #         user.save()
 
-            registered = True
-        else:
-            print(user_form.errors)
-    else:
-        user_form = UserForm()
-    return render(request,'register.html',
-                          {'user_form':user_form,
-                           'registered':registered})
+    #         registered = True
+    #     else:
+    #         print(user_form.errors)
+    # else:
+    #     user_form = UserForm()
+    # return render(request,'register.html',
+    #                       {'user_form':user_form,
+    #                        'registered':registered})
+    
+# def RegisterPage(request):
+	if request.user.is_authenticated:
+		return redirect('dashboard')
+	else:
+		form = UserForm()
+		if request.method == 'POST':
+			form = UserForm(request.POST)
+			if form.is_valid():
+				form.save()
+				user = form.cleaned_data.get('username')
+				# messages = "Account was created for " + user
+				return redirect('userlogin')
+            
+		context = {'form':form}
+		return render(request,'register.html',context)
 
-def login(request):
-    if request.method == 'POST':
-        username = request.POST.get('username')
-        password = request.POST.get('password')
-        user = authenticate(username=username, password=password)
-        if user:
-            if user.is_active:
-                login(request,user)
-                return HttpResponseRedirect(reverse('dashboard.html'))
-            else:
-                return HttpResponse("Your account was inactive.")
-        else:
-            print("Someone tried to login and failed.")
-            print("They used username: {} and password: {}".format(username,password))
-            return HttpResponse("Invalid login details given")
+def userlogin(request):
+    if request.user.is_authenticated:
+        return redirect('dashboard')
     else:
-        return render(request, 'login.html', {})
+        if request.method == 'POST':
+            form = LoginForm(request.POST)
+            if form.is_valid():
+                username =  form.cleaned_data.get('username')
+                password =  form.cleaned_data.get('password')
+                user = authenticate(request,username=username,password=password)
+                if user is not None:
+                    login(request,user)
+                    return redirect('dashboard')
+                # else:
+                    # messages.info(request,'Username or password is incorrect')
+        # context = {}
+    return render(request,'login.html')
+        
+    
     
 
 @login_required

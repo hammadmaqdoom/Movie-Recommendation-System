@@ -91,11 +91,11 @@
                                 {% endfor %}
                             </ul>
                           {% endif %}
-                  <form class="form" method="POST">
-                    {% csrf_token %}
+                  {% comment %} <form class="form" method="POST">
+                    {% csrf_token %} {% endcomment %}
                     {% comment %} {{ form.as_table }} {% endcomment %}
 
-                     <div class="input-group">
+                     {% comment %} <div class="input-group">
                       <div class="input-group-prepend">
                         <div class="input-group-text">
                           <i class="tim-icons icon-single-02"></i>
@@ -118,7 +118,7 @@
                         </div>
                       </div>
                       <input type="password" class="form-control" placeholder="Password">
-                    </div>
+                    </div> {% endcomment %}
                     {% comment %} <div class="input-group">
                       <div class="input-group-prepend">
                         <div class="input-group-text">
@@ -127,11 +127,11 @@
                       </div>
                       <input type="password" class="form-control" placeholder="Re-enter Password">
                     </div> {% endcomment %}
-                    <div class="card-footer">
+                    {% comment %} <div class="card-footer">
                       <input  class="btn btn-info btn-round btn-lg" type="submit" name="" value="Register">
                     </div>
-                  </form>
-                  {% comment %} <form class="form" method="post" novalidate>
+                  </form> {% endcomment %}
+                  <form class="form" method="post" novalidate>
                   {% csrf_token %}
                   {% for hidden_field in form.hidden_fields %}
                     {{ hidden_field }}
@@ -168,16 +168,16 @@
                         <small class="form-text text-muted">{{ field.help_text }}</small>
                       {% endif %}
                     </div>
-                  {% endfor %} {% endcomment %}
-                  {% comment %} <div class="card-footer">
+                  {% endfor %} 
+                   <div class="card-footer">
                       <input  class="btn btn-info btn-round btn-lg" type="submit" name="" value="Register"> <br />
-                  </div> {% endcomment %}
+                  </div> 
                                         <p class="text-center">Do you have an account? <a href="{% url 'apx:userlogin' %}">Log in now</a>.</p>
 
                 </div>
                   </form>
                 </div>
-                {% comment %} <div class="card-footer">
+                 {% comment %} <div class="card-footer">
                   <a href="javascript:void(0)" class="btn btn-info btn-round btn-lg">Get Started</a>
                 </div> {% endcomment %}
               </div>

@@ -14,3 +14,9 @@ class UserProfileInfoForm(forms.ModelForm):
      class Meta():
          model = UserProfileInfo
          fields = ('interest',)
+
+class LoginForm(forms.ModelForm):
+    password = forms.CharField(widget=forms.PasswordInput())
+    class Meta():
+        model = User
+        fields = ('username','password')

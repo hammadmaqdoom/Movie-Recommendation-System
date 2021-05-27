@@ -10,7 +10,7 @@ urlpatterns=[
     # url(r'^register/$',views.register,name='register'),
     # url(r'^user_login/$',views.user_login,name='user_login'),
     path('register/', views.register, name='register'),
-    path('userlogin/', views.login,  name='userlogin'),
+    path('userlogin/', views.userlogin,  name='userlogin'),
     path('dashboard/', views.dashboard, name='dashboard'),
     path('', views.home, name='home'),
 
