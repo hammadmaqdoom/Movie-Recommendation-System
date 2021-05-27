@@ -1,0 +1,1799 @@
+id,title,imdbID,year,rtPictureURL
+1,Toy story,114709,1995,http://content7.flixster.com/movie/10/93/63/10936393_det.jpg
+2,Jumanji,113497,1995,http://content8.flixster.com/movie/56/79/73/5679734_det.jpg
+3,Grumpy Old Men,107050,1993,http://content6.flixster.com/movie/25/60/256020_det.jpg
+4,Waiting to Exhale,114885,1995,http://content9.flixster.com/movie/10/94/17/10941715_det.jpg
+5,Father of the Bride Part II,113041,1995,http://content8.flixster.com/movie/25/54/255426_det.jpg
+6,Heat,113277,1995,http://content9.flixster.com/movie/26/80/268099_det.jpg
+7,Sabrina,47437,1954,http://content7.flixster.com/movie/10/93/36/10933669_det.jpg
+8,Tom and Huck,112302,1995,http://content9.flixster.com/movie/26/16/261691_det.jpg
+9,Sudden Death,114576,1995,http://content8.flixster.com/movie/27/91/279122_det.jpg
+10,GoldenEye,113189,1995,http://content9.flixster.com/movie/26/66/266699_det.jpg
+11,The American President,112346,1995,http://content7.flixster.com/movie/25/42/254205_det.jpg
+12,Dracula: Dead and Loving It,112896,1995,http://content8.flixster.com/movie/10/89/17/10891774_det.jpg
+13,Balto,112453,1995,http://content7.flixster.com/movie/25/16/251605_det.jpg
+14,Nixon,113987,1995,http://content6.flixster.com/movie/28/30/283016_det.jpg
+15,Cutthroat Island,112760,1995,http://content6.flixster.com/movie/25/69/256908_det.jpg
+16,Casino,112641,1995,http://content8.flixster.com/movie/10/87/61/10876102_det.jpg
+17,Sense and Sensibility,114388,1995,http://content6.flixster.com/movie/11/12/50/11125040_det.jpg
+18,Four Rooms,113101,1995,http://content7.flixster.com/movie/93/49/77/9349773_det.jpg
+19,Ace Ventura: When Nature Calls,112281,1995,http://content7.flixster.com/movie/10/94/18/10941853_det.jpg
+20,Money Train,113845,1995,http://content9.flixster.com/movie/11/12/51/11125103_det.jpg
+21,Get Shorty,113161,1995,http://content7.flixster.com/movie/98/65/89/9865893_det.jpg
+22,Copycat,112722,1995,http://content9.flixster.com/movie/27/27/272723_det.jpg
+23,Ninja Assassin,1186367,2009,http://content6.flixster.com/movie/10/89/12/10891232_det.jpg
+24,Powder,114168,1995,http://content7.flixster.com/movie/25/59/255901_det.jpg
+25,Leaving Las Vegas,113627,1995,http://content7.flixster.com/movie/10/90/25/10902561_det.jpg
+26,Othello,114057,1995,http://content6.flixster.com/movie/10/92/98/10929892_det.jpg
+27,Now and Then,114011,1995,http://content6.flixster.com/movie/55/36/64/5536644_det.jpg
+28,Persuasion,114117,1995,http://content6.flixster.com/movie/11/12/73/11127360_det.jpg
+29,La citÃ© des enfants perdus,112682,1995,http://content6.flixster.com/movie/26/78/267824_det.jpg
+30,Yao a yao yao dao waipo qiao,115012,1995,http://content8.flixster.com/movie/10/90/31/10903162_det.jpg
+31,Dangerous Minds,112792,1995,http://content7.flixster.com/movie/26/98/269813_det.jpg
+32,Twelve Monkeys,114746,1995,http://content6.flixster.com/movie/10/93/02/10930244_det.jpg
+33,Wings of Courage,114952,1995,http://content7.flixster.com/movie/10/97/83/10978341_det.jpg
+34,Babe,112431,1995,http://content7.flixster.com/movie/25/32/253205_det.jpg
+35,Carrington,112637,1995,http://content7.flixster.com/movie/28/00/280009_det.jpg
+36,Dead Man Walking,112818,1995,http://content6.flixster.com/movie/10/88/77/10887764_det.jpg
+37,Across the Sea of Time,112286,1995,http://content6.flixster.com/movie/10/90/58/10905808_det.jpg
+38,It Takes Two,113442,1995,http://content7.flixster.com/movie/25/74/257417_det.jpg
+39,Clueless,112697,1995,http://content8.flixster.com/movie/10/85/01/10850110_det.jpg
+40,"Cry, the Beloved Country",112749,1995,http://content6.flixster.com/movie/10/89/59/10895996_det.jpg
+41,Richard III,114279,1995,http://content7.flixster.com/movie/26/89/268909_det.jpg
+42,Dead Presidents,112819,1995,http://content7.flixster.com/movie/26/95/269521_det.jpg
+43,Restoration,114272,1995,http://content6.flixster.com/movie/27/04/270404_det.jpg
+44,Mortal Kombat,113855,1995,http://content9.flixster.com/movie/25/63/256395_det.jpg
+45,Live Free or Die Hard,337978,2007,http://content8.flixster.com/movie/10/93/34/10933482_det.jpg
+46,How to Make an American Quilt,113347,1995,http://content8.flixster.com/movie/10/86/75/10867514_det.jpg
+47,Shichinin no samurai,47478,1954,http://content7.flixster.com/movie/39/91/08/3991085_det.jpg
+48,Pocahontas,114148,1995,http://content6.flixster.com/movie/25/15/251508_det.jpg
+49,When Night Is Falling,114916,1995,http://content6.flixster.com/movie/10/89/77/10897780_det.jpg
+50,The Usual Suspects,114814,1995,http://content7.flixster.com/movie/24/63/48/2463485_det.jpg
+52,Mighty Aphrodite,113819,1995,http://content7.flixster.com/movie/10/84/18/10841893_det.jpg
+53,Lamerica,110299,1994,http://content6.flixster.com/movie/29/78/297800_det.jpg
+54,The Big Green,112499,1995,http://content7.flixster.com/movie/25/93/259305_det.jpg
+55,Georgia Rule,791304,2007,http://content8.flixster.com/movie/63/82/23/6382238_det.jpg
+56,Kids of the Round Table,113541,1997,http://content7.flixster.com/movie/10/85/20/10852069_det.jpg
+57,Home for the Holidays,113321,1995,http://content6.flixster.com/movie/25/43/254392_det.jpg
+58,Il postino,110877,1994,http://content8.flixster.com/movie/10/86/74/10867406_det.jpg
+59,Le confessionnal,112714,1995,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+60,The Indian in the Cupboard,113419,1995,http://content9.flixster.com/movie/25/78/257803_det.jpg
+61,Eye for an Eye,116260,1996,http://content8.flixster.com/movie/10/99/01/10990146_det.jpg
+62,Mr. Holland's Opus,113862,1995,http://content8.flixster.com/movie/10/58/42/10584210_det.jpg
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,116126,1996,http://content8.flixster.com/movie/28/69/286926_det.jpg
+64,Two If by Sea,118002,1996,http://content6.flixster.com/movie/27/80/278004_det.jpg
+65,Bio-Dome,115683,1996,http://content6.flixster.com/movie/25/94/259420_det.jpg
+66,Lawnmower Man 2: Beyond Cyberspace,116839,1996,http://content7.flixster.com/movie/10/86/80/10868017_det.jpg
+67,Two Bits,114753,1995,http://content6.flixster.com/movie/26/66/266612_det.jpg
+68,Gazon maudit,113149,1995,http://content7.flixster.com/movie/27/76/277609_det.jpg
+69,Friday,113118,1995,http://content7.flixster.com/movie/10/88/03/10880345_det.jpg
+70,From Dusk Till Dawn,116367,1996,http://content9.flixster.com/movie/62/82/01/6282011_det.jpg
+71,Fair Game,113010,1995,http://content8.flixster.com/movie/27/69/276994_det.jpg
+72,Kicking & Screaming,384642,2005,http://content9.flixster.com/movie/24/97/249715_det.jpg
+73,Les misÃ©rables,119683,1998,http://content9.flixster.com/movie/25/51/255107_det.jpg
+74,Bed of Roses,115644,1996,http://content9.flixster.com/movie/25/92/259203_det.jpg
+75,Big Bully,115676,1996,http://content9.flixster.com/movie/26/51/265195_det.jpg
+76,Screamers,114367,1995,http://content7.flixster.com/movie/27/23/272301_det.jpg
+77,Nico Icon,113973,1995,http://content9.flixster.com/movie/10/84/77/10847739_det.jpg
+78,The Crossing Guard,112744,1995,http://content7.flixster.com/movie/27/69/276905_det.jpg
+79,The Juror,116731,1996,http://content6.flixster.com/movie/27/93/279316_det.jpg
+80,Badkonake sefid,112445,1995,http://content9.flixster.com/movie/54/93/06/5493067_det.jpg
+81,Things to Do in Denver When You're Dead,114660,1995,http://content8.flixster.com/movie/27/06/270606_det.jpg
+82,Antonia,112379,1995,http://content6.flixster.com/movie/28/20/282096_det.jpg
+83,Once Upon a Time... When We Were Colored,114039,1995,http://content8.flixster.com/movie/10/92/29/10922994_det.jpg
+84,Last Summer in the Hamptons,113612,1995,http://content8.flixster.com/movie/92/06/07/9206078_det.jpg
+85,Angels and Insects,112365,1995,http://content6.flixster.com/movie/10/89/39/10893928_det.jpg
+86,White Squall,118158,1996,http://content9.flixster.com/movie/10/90/52/10905259_det.jpg
+87,Dunston Checks In,116151,1996,http://content8.flixster.com/movie/10/85/22/10852206_det.jpg
+88,Black Sheep,779982,2006,http://content6.flixster.com/movie/58/07/67/5807672_det.jpg
+89,Nick of Time,113972,1995,http://content9.flixster.com/movie/10/84/01/10840163_det.jpg
+90,The Journey of August King,113490,1995,http://content8.flixster.com/movie/26/54/265406_det.jpg
+92,Mary Reilly,117002,1996,http://content6.flixster.com/movie/27/56/275628_det.jpg
+93,Vampire in Brooklyn,114825,1995,http://content7.flixster.com/movie/10/88/64/10886457_det.jpg
+94,Beautiful Girls,115639,1996,http://content7.flixster.com/movie/10/84/53/10845361_det.jpg
+95,Broken Arrow,115759,1996,http://content6.flixster.com/movie/27/12/271208_det.jpg
+96,In the Bleak Midwinter,113403,1995,http://content6.flixster.com/movie/52/63/38/5263388_det.jpg
+97,La haine,113247,1995,http://content8.flixster.com/movie/10/84/15/10841502_det.jpg
+98,Going Shopping,295605,2005,http://content8.flixster.com/movie/25/02/250226_det.jpg
+99,Heidi Fleiss: Hollywood Madam,113283,1995,http://content7.flixster.com/movie/30/49/304921_det.jpg
+100,City Hall,115907,1996,http://content8.flixster.com/movie/27/59/275902_det.jpg
+101,Bottle Rocket,115734,1996,http://content6.flixster.com/movie/26/73/267324_det.jpg
+102,Mr. Wrong,117102,1996,http://content8.flixster.com/movie/10/92/04/10920478_det.jpg
+103,Unforgettable,118040,1996,http://content8.flixster.com/movie/11/13/35/11133586_det.jpg
+104,Happy Gilmore,116483,1996,http://content7.flixster.com/movie/25/96/259613_det.jpg
+105,The Bridges of Madison County,112579,1995,http://content6.flixster.com/movie/10/92/73/10927328_det.jpg
+106,Keiner liebt mich,110251,1994,http://content6.flixster.com/movie/10/89/61/10896152_det.jpg
+107,Muppet Treasure Island,117110,1996,http://content6.flixster.com/movie/10/88/15/10881572_det.jpg
+110,Braveheart,112573,1995,http://content9.flixster.com/movie/16/90/54/1690543_det.jpg
+111,Taxi Driver,75314,1976,http://content9.flixster.com/movie/10/91/39/10913987_det.jpg
+112,Hung fan kui,113326,1995,http://content6.flixster.com/movie/10/88/62/10886212_det.jpg
+113,Before and After,115645,1996,http://content8.flixster.com/movie/26/53/265310_det.jpg
+114,Margaret's Museum,113774,1995,http://content7.flixster.com/movie/10/43/62/10436297_det.jpg
+115,Le bonheur est dans le prÃ©,112556,1995,http://content8.flixster.com/movie/10/91/13/10911350_det.jpg
+116,Anne Frank Remembered,112373,1995,http://content9.flixster.com/movie/10/87/14/10871419_det.jpg
+117,The Young Poisoner's Handbook,115033,1995,http://content8.flixster.com/movie/52/63/47/5263478_det.jpg
+118,If Lucy Fell,116606,1996,http://content7.flixster.com/movie/10/36/17/10361777_det.jpg
+119,Steal Big Steal Little,114536,1995,http://content9.flixster.com/movie/10/86/77/10867755_det.jpg
+120,Race the Sun,117427,1996,http://content7.flixster.com/movie/10/88/81/10888113_det.jpg
+121,The Boys of St. Vincent,106473,1992,http://content7.flixster.com/movie/11/12/44/11124449_det.jpg
+122,Boomerang,103859,1992,http://content6.flixster.com/movie/26/81/268128_det.jpg
+123,Chung Hing sam lam,109424,1994,http://content6.flixster.com/movie/10/85/69/10856936_det.jpg
+124,L'uomo delle stelle,114808,1995,http://content9.flixster.com/movie/27/57/275715_det.jpg
+125,Flirting with Disaster,116324,1996,http://content9.flixster.com/movie/92/18/93/9218931_det.jpg
+126,The Neverending Story III,110647,1994,http://content9.flixster.com/movie/10/88/07/10880743_det.jpg
+128,Jupiter's Wife,110217,1995,http://content7.flixster.com/movie/10/97/52/10975293_det.jpg
+129,Pie in the Sky,114131,1996,http://content9.flixster.com/movie/28/42/284295_det.jpg
+130,Angela's Ashes,145653,1999,http://content6.flixster.com/movie/10/92/31/10923132_det.jpg
+131,Frankie Starlight,113107,1995,http://content6.flixster.com/movie/93/50/48/9350484_det.jpg
+132,The Curse of the Jade Scorpion,256524,2001,http://content6.flixster.com/movie/26/26/262600_det.jpg
+134,Sonic Outlaws,114500,1995,http://content9.flixster.com/movie/10/83/90/10839055_det.jpg
+135,Down Periscope,116130,1996,http://content9.flixster.com/movie/25/41/254115_det.jpg
+136,From the Journals of Jean Seberg,113125,1995,http://content8.flixster.com/movie/10/87/54/10875446_det.jpg
+137,Man of the Year,483726,2006,http://content9.flixster.com/movie/11/12/89/11128939_det.jpg
+139,Hard Target,107076,1993,http://content6.flixster.com/movie/27/33/273300_det.jpg
+140,Up Close & Personal,118055,1996,http://content9.flixster.com/movie/25/89/258991_det.jpg
+141,The Birdcage,115685,1996,http://content9.flixster.com/movie/26/71/267195_det.jpg
+143,Gospa,113200,1995,\N
+144,The Brothers McMullen,112585,1995,http://content8.flixster.com/movie/10/87/96/10879638_det.jpg
+145,Bad Boys,112442,1995,http://content8.flixster.com/movie/28/27/282798_det.jpg
+146,The Amazing Panda Adventure,112342,1995,http://content9.flixster.com/movie/11/15/28/11152831_det.jpg
+147,The Basketball Diaries,112461,1995,http://content7.flixster.com/movie/10/93/25/10932577_det.jpg
+148,An Awfully Big Adventure,112427,1995,http://content8.flixster.com/movie/10/90/97/10909738_det.jpg
+149,The Moguls,405163,2005,http://content7.flixster.com/movie/11/13/35/11133545_det.jpg
+150,Apollo 13,112384,1995,http://content7.flixster.com/movie/10/93/70/10937057_det.jpg
+151,Rob Roy,114287,1995,http://content9.flixster.com/movie/26/89/268991_det.jpg
+152,Basic Instinct 2,430912,2006,http://content8.flixster.com/movie/10/89/83/10898386_det.jpg
+153,Batman Forever,112462,1995,http://content7.flixster.com/movie/55/34/97/5534977_det.jpg
+154,Belle de jour,61395,1967,http://content9.flixster.com/movie/10/86/32/10863255_det.jpg
+155,Beyond Rangoon,112495,1995,http://content8.flixster.com/movie/10/86/97/10869758_det.jpg
+156,Blue in the Face,112541,1995,http://content8.flixster.com/movie/27/68/276818_det.jpg
+157,Canadian Bacon,109370,1995,http://content7.flixster.com/movie/26/00/260017_det.jpg
+158,Casper,112642,1995,http://content9.flixster.com/movie/31/28/312827_det.jpg
+159,Clockers,112688,1995,http://content8.flixster.com/movie/10/84/06/10840642_det.jpg
+160,Congo,112715,1995,http://content7.flixster.com/movie/25/85/258597_det.jpg
+161,Crimson Tide,112740,1995,http://content7.flixster.com/movie/26/84/268417_det.jpg
+162,Crumb,109508,1994,http://content7.flixster.com/movie/27/41/274197_det.jpg
+163,Desperado,112851,1995,http://content6.flixster.com/movie/10/87/27/10872728_det.jpg
+164,Devil in a Blue Dress,112857,1995,http://content9.flixster.com/movie/27/13/271303_det.jpg
+165,Die Hard: With a Vengeance,112864,1995,http://content8.flixster.com/movie/10/93/34/10933486_det.jpg
+166,The Doom Generation,112887,1995,http://content8.flixster.com/movie/10/92/11/10921130_det.jpg
+167,Feast of July,113044,1995,http://content8.flixster.com/movie/10/87/63/10876398_det.jpg
+168,First Knight,113071,1995,http://content9.flixster.com/movie/84/22/90/8422907_det.jpg
+169,Free Willy 2: The Adventure Home,113114,1995,http://content9.flixster.com/movie/26/44/264407_det.jpg
+170,Hackers,113243,1995,http://content7.flixster.com/movie/25/64/256409_det.jpg
+171,Jeffrey,113464,1995,http://content7.flixster.com/movie/27/11/271117_det.jpg
+172,Johnny Mnemonic,113481,1995,http://content7.flixster.com/movie/28/53/285317_det.jpg
+173,Judge Dredd,113492,1995,http://content9.flixster.com/movie/27/05/270591_det.jpg
+174,Jury Duty,113500,1995,http://content6.flixster.com/movie/10/50/99/10509940_det.jpg
+175,Kids,113540,1995,http://content6.flixster.com/movie/10/89/38/10893852_det.jpg
+176,Living in Oblivion,113677,1995,http://content6.flixster.com/movie/10/87/12/10871220_det.jpg
+177,Lord of Illusions,113690,1995,http://content9.flixster.com/movie/28/75/287599_det.jpg
+178,Love & Human Remains,107447,1993,http://content9.flixster.com/movie/84/22/68/8422687_det.jpg
+179,Mad Love,113729,1995,http://content9.flixster.com/movie/10/97/32/10973279_det.jpg
+180,Mallrats,113749,1995,http://content6.flixster.com/movie/11/15/34/11153460_det.jpg
+181,Mighty Morphin Power Rangers: The Movie,113820,1995,http://content8.flixster.com/movie/26/01/260110_det.jpg
+182,Moonlight and Valentino,113851,1995,http://content9.flixster.com/movie/10/91/91/10919195_det.jpg
+183,Mute Witness,110604,1994,http://content6.flixster.com/movie/27/75/277592_det.jpg
+184,Nadja,110620,1994,http://content8.flixster.com/movie/10/89/08/10890894_det.jpg
+185,The Net,113957,1995,http://content9.flixster.com/movie/68/77/57/6877579_det.jpg
+186,Nine Months,113986,1995,http://content7.flixster.com/movie/10/91/49/10914937_det.jpg
+187,Party Girl,114095,1995,http://content8.flixster.com/movie/10/85/91/10859166_det.jpg
+188,The Prophecy,114194,1995,http://content6.flixster.com/movie/26/79/267992_det.jpg
+189,The Reckless Moment,41786,1949,http://content6.flixster.com/movie/55/32/82/5532828_det.jpg
+190,Fail-Safe,58083,1964,http://content9.flixster.com/movie/29/23/292315_det.jpg
+191,The Scarlet Letter,114345,1995,http://content7.flixster.com/movie/10/86/16/10861633_det.jpg
+193,Showgirls,114436,1995,http://content8.flixster.com/movie/28/55/285598_det.jpg
+194,Smoke,114478,1995,http://content7.flixster.com/movie/27/30/273025_det.jpg
+195,Something to Talk About,114496,1995,http://content8.flixster.com/movie/93/24/35/9324358_det.jpg
+196,Species,114508,1995,http://content7.flixster.com/movie/66/42/83/6642833_det.jpg
+197,The Stars Fell on Henrietta,114534,1995,http://content7.flixster.com/movie/10/85/18/10851893_det.jpg
+198,Strange Days,114558,1995,http://content8.flixster.com/movie/27/10/271010_det.jpg
+199,Les parapluies de Cherbourg,58450,1964,http://content9.flixster.com/movie/30/89/308923_det.jpg
+200,The Tie That Binds,114666,1995,http://content9.flixster.com/movie/10/91/94/10919459_det.jpg
+201,Three Wishes,114663,1995,http://content7.flixster.com/movie/26/05/260509_det.jpg
+202,Total Eclipse,114702,1995,http://content6.flixster.com/movie/11/14/92/11149252_det.jpg
+203,"To Wong Foo Thanks for Everything, Julie Newmar",114682,1995,http://content9.flixster.com/movie/10/88/06/10880663_det.jpg
+204,Under Siege 2: Dark Territory,114781,1995,http://content6.flixster.com/movie/27/23/272392_det.jpg
+205,Unstrung Heroes,114798,1995,http://content8.flixster.com/movie/26/44/264406_det.jpg
+206,Unzipped,114805,1995,http://content6.flixster.com/movie/10/86/36/10863660_det.jpg
+207,A Walk in the Clouds,114887,1995,http://content7.flixster.com/movie/10/89/20/10892013_det.jpg
+208,Waterworld,114898,1995,http://content9.flixster.com/movie/25/75/257591_det.jpg
+209,White Man's Burden,114928,1995,http://content7.flixster.com/movie/27/54/275405_det.jpg
+210,Wild Bill,114938,1995,\N
+211,The Browning Version,43362,1951,http://content7.flixster.com/movie/10/83/88/10838841_det.jpg
+212,Bushwhacked,112602,1995,http://content9.flixster.com/movie/91/58/09/9158095_det.jpg
+213,Utomlyonnye solntsem,111579,1994,http://content8.flixster.com/movie/27/23/272326_det.jpg
+214,Before the Rain,110882,1994,http://content6.flixster.com/movie/10/89/78/10897876_det.jpg
+215,Before Sunrise,112471,1995,http://content7.flixster.com/movie/10/85/60/10856081_det.jpg
+216,Billy Madison,112508,1995,http://content6.flixster.com/movie/26/12/261212_det.jpg
+217,The Babysitters,796302,2007,http://content9.flixster.com/movie/10/84/14/10841411_det.jpg
+218,Boys on the Side,112571,1995,http://content6.flixster.com/movie/27/12/271228_det.jpg
+219,The Cure,112757,1995,http://content9.flixster.com/movie/10/86/12/10861271_det.jpg
+220,Castle Freak,112643,1995,http://content9.flixster.com/movie/10/89/86/10898627_det.jpg
+222,Circle of Friends,112679,1995,http://content7.flixster.com/movie/10/91/53/10915357_det.jpg
+223,Clerks.,109445,1994,http://content8.flixster.com/movie/10/93/69/10936950_det.jpg
+224,Don Juan DeMarco,112883,1994,http://content9.flixster.com/movie/25/52/255207_det.jpg
+225,Disclosure,109635,1994,http://content8.flixster.com/movie/27/42/274202_det.jpg
+226,Tucker: The Man and His Dream,96316,1988,http://content7.flixster.com/movie/25/57/255709_det.jpg
+227,Drop Zone,109676,1994,http://content9.flixster.com/movie/27/31/273103_det.jpg
+228,Destiny Turns on the Radio,112854,1995,http://content8.flixster.com/movie/71/21/48/7121486_det.jpg
+229,Death and the Maiden,109579,1994,http://content9.flixster.com/movie/10/92/35/10923515_det.jpg
+230,Dolores Claiborne,109642,1995,http://content6.flixster.com/movie/26/92/269216_det.jpg
+231,Dumb & Dumber,109686,1994,http://content6.flixster.com/movie/25/45/254516_det.jpg
+232,Yin shi nan nu,111797,1994,http://content8.flixster.com/movie/28/62/286218_det.jpg
+233,Exotica,109759,1994,http://content8.flixster.com/movie/27/34/273426_det.jpg
+234,Exit to Eden,109758,1994,http://content8.flixster.com/movie/26/84/268410_det.jpg
+235,Ed Wood,109707,1994,http://content9.flixster.com/movie/10/88/97/10889755_det.jpg
+236,French Kiss,113117,1995,http://content6.flixster.com/movie/10/83/82/10838220_det.jpg
+237,Forget Paris,113097,1995,http://content7.flixster.com/movie/25/90/259029_det.jpg
+238,Far from Home: The Adventures of Yellow Dog,113028,1995,http://content8.flixster.com/movie/26/37/263710_det.jpg
+239,A Goofy Movie,113198,1995,http://content6.flixster.com/movie/25/16/251608_det.jpg
+240,Hideaway,113303,1995,http://content6.flixster.com/movie/28/06/280696_det.jpg
+241,Fluke,113089,1995,http://content9.flixster.com/movie/25/77/257791_det.jpg
+242,Farinelli,109771,1994,http://content8.flixster.com/movie/27/15/271518_det.jpg
+243,Flash Gordon,80745,1980,http://content7.flixster.com/movie/25/73/257321_det.jpg
+244,Gumby: The Movie,113234,1995,http://content9.flixster.com/movie/10/94/41/10944103_det.jpg
+245,The Glass Shield,109906,1994,http://content9.flixster.com/movie/26/60/266023_det.jpg
+246,Hoop Dreams,110057,1994,http://content6.flixster.com/movie/76/93/769348_det.jpg
+247,Heavenly Creatures,110005,1994,http://content9.flixster.com/movie/10/90/75/10907555_det.jpg
+248,Houseguest,110066,1995,http://content7.flixster.com/movie/26/06/260693_det.jpg
+249,Immortal Beloved,110116,1994,http://content7.flixster.com/movie/26/75/267513_det.jpg
+250,Heavy Weights,110006,1995,http://content6.flixster.com/movie/10/93/03/10930316_det.jpg
+251,The Hunted,269347,2003,http://content9.flixster.com/movie/11/13/64/11136427_det.jpg
+252,I.Q.,110099,1994,http://content8.flixster.com/movie/10/91/74/10917466_det.jpg
+253,Interview with the Vampire: The Vampire Chronicles,110148,1994,http://content6.flixster.com/movie/28/01/280124_det.jpg
+254,Jefferson in Paris,113463,1995,http://content6.flixster.com/movie/26/30/263024_det.jpg
+255,The Jerky Boys,110189,1995,http://content8.flixster.com/movie/62/23/13/6223134_det.jpg
+256,Junior,110216,1994,http://content8.flixster.com/movie/10/84/29/10842998_det.jpg
+257,Just Cause,113501,1995,http://content8.flixster.com/movie/10/87/09/10870958_det.jpg
+258,A Kid in King Arthur's Court,113538,1995,http://content9.flixster.com/movie/26/31/263115_det.jpg
+259,Kiss of Death,113552,1995,http://content6.flixster.com/movie/27/76/277616_det.jpg
+260,Star Wars,76759,1977,http://content9.flixster.com/movie/10/94/47/10944715_det.jpg
+261,Little Women,110367,1994,http://content7.flixster.com/movie/10/86/52/10865225_det.jpg
+262,A Little Princess,113670,1995,http://content6.flixster.com/movie/29/07/290716_det.jpg
+263,Ladybird Ladybird,110296,1994,http://content9.flixster.com/movie/92/74/35/9274359_det.jpg
+264,L'enfer,109731,1994,http://content8.flixster.com/movie/10/88/73/10887306_det.jpg
+265,Como agua para chocolate,103994,1992,http://content9.flixster.com/movie/10/89/25/10892515_det.jpg
+266,Legends of the Fall,110322,1994,http://content6.flixster.com/movie/10/90/03/10900344_det.jpg
+267,Major Payne,110443,1995,http://content9.flixster.com/movie/25/69/256903_det.jpg
+268,Little Odessa,110365,1994,http://content9.flixster.com/movie/28/36/283627_det.jpg
+269,Mi vida loca,107566,1993,http://content8.flixster.com/movie/10/85/41/10854174_det.jpg
+270,Love Affair,110391,1994,http://content8.flixster.com/movie/25/75/257510_det.jpg
+271,Losing Isaiah,113691,1995,http://content7.flixster.com/movie/27/48/274897_det.jpg
+272,The Madness of King George,110428,1994,http://content6.flixster.com/movie/10/88/81/10888184_det.jpg
+273,Frankenstein,21884,1931,http://content8.flixster.com/movie/28/83/288310_det.jpg
+274,Man of the House,331933,2005,http://content9.flixster.com/movie/10/91/27/10912719_det.jpg
+275,Mixed Nuts,110538,1994,http://content9.flixster.com/movie/10/93/94/10939467_det.jpg
+276,Milk Money,110516,1994,http://content7.flixster.com/movie/25/98/259809_det.jpg
+277,Miracle on 34th Street,39628,1947,http://content7.flixster.com/movie/29/05/290513_det.jpg
+278,Miami Rhapsody,113808,1995,http://content6.flixster.com/movie/26/49/264916_det.jpg
+279,My Family,113896,1995,http://content8.flixster.com/movie/26/95/269594_det.jpg
+280,Murder in the First,113870,1995,http://content6.flixster.com/movie/27/53/275304_det.jpg
+281,Nobody's Fool,91642,1986,http://content6.flixster.com/movie/26/56/265692_det.jpg
+282,Nell,110638,1994,http://content8.flixster.com/movie/25/69/256906_det.jpg
+283,New Jersey Drive,113967,1995,http://content6.flixster.com/movie/28/25/282508_det.jpg
+284,NyÃ» YÃ´ku no koppu,117169,1993,http://content6.flixster.com/movie/10/97/24/10972404_det.jpg
+285,Beyond Bedlam,106402,1994,http://content8.flixster.com/movie/10/80/07/10800750_det.jpg
+286,Nemesis 2: Nebula,113948,1995,http://content8.flixster.com/movie/10/88/48/10884886_det.jpg
+287,Nina Takes a Lover,110671,1994,http://content8.flixster.com/movie/62/32/18/6232186_det.jpg
+288,Natural Born Killers,110632,1994,http://content8.flixster.com/movie/10/88/54/10885402_det.jpg
+289,Only You,110737,1994,http://content9.flixster.com/movie/25/51/255111_det.jpg
+290,Once Were Warriors,110729,1994,http://content7.flixster.com/movie/29/03/290325_det.jpg
+291,Poison Ivy II,114151,1996,http://content6.flixster.com/movie/27/08/270820_det.jpg
+292,Outbreak,114069,1995,http://content7.flixster.com/movie/55/37/06/5537065_det.jpg
+293,LÃ©on,110413,1994,http://content7.flixster.com/movie/28/62/286221_det.jpg
+294,The Perez Family,114113,1995,http://content9.flixster.com/movie/27/83/278323_det.jpg
+295,A Pyromaniac's Love Story,114210,1995,http://content6.flixster.com/movie/26/55/265524_det.jpg
+296,Pulp Fiction,110912,1994,http://content9.flixster.com/movie/10/88/65/10886599_det.jpg
+297,The Pink Panther 2,838232,2009,http://content7.flixster.com/movie/10/86/24/10862497_det.jpg
+298,Tui shou,105652,1992,http://content8.flixster.com/movie/10/84/00/10840038_det.jpg
+299,Priest,110889,1994,http://content9.flixster.com/movie/11/12/75/11127515_det.jpg
+300,Quiz Show,110932,1994,http://content6.flixster.com/movie/25/87/258704_det.jpg
+301,Picture Bride,114129,1994,http://content8.flixster.com/movie/26/07/260722_det.jpg
+302,La reine Margot,110963,1994,http://content7.flixster.com/movie/10/88/68/10886821_det.jpg
+303,The Quick and the Dead,114214,1995,http://content8.flixster.com/movie/27/21/272198_det.jpg
+304,Roommates,114296,1995,http://content7.flixster.com/movie/26/08/260809_det.jpg
+305,PrÃªt-Ã -Porter,110907,1994,http://content6.flixster.com/movie/27/50/275000_det.jpg
+306,Trois couleurs: Rouge,111495,1994,http://content7.flixster.com/movie/10/87/54/10875473_det.jpg
+307,Trois couleurs: Bleu,108394,1993,http://content7.flixster.com/movie/11/12/07/11120777_det.jpg
+308,Trzy kolory: Bialy,111507,1994,http://content8.flixster.com/movie/10/87/62/10876274_det.jpg
+309,Pao Da Shuang Deng,110769,1994,http://content9.flixster.com/movie/10/89/26/10892695_det.jpg
+310,Rent-a-Kid,114268,1995,http://content6.flixster.com/movie/96/79/10/9679108_det.jpg
+312,Stuart Saves His Family,114571,1995,http://content9.flixster.com/movie/10/84/58/10845847_det.jpg
+313,The Swan Princess,111333,1994,http://content9.flixster.com/movie/10/89/44/10894435_det.jpg
+314,The Secret of Roan Inish,111112,1994,http://content8.flixster.com/movie/10/88/77/10887722_det.jpg
+315,The Specialist,111255,1994,http://content8.flixster.com/movie/27/73/277302_det.jpg
+316,Stargate,111282,1994,http://content6.flixster.com/movie/26/48/264812_det.jpg
+317,Santa Claus,89961,1985,http://content7.flixster.com/movie/25/49/254909_det.jpg
+318,The Shawshank Redemption,111161,1994,http://content9.flixster.com/movie/11/12/45/11124527_det.jpg
+319,Shallow Grave,111149,1994,http://content7.flixster.com/movie/28/27/282713_det.jpg
+320,Suture,108260,1993,http://content7.flixster.com/movie/10/91/57/10915785_det.jpg
+321,Fresa y chocolate,106966,1994,http://content6.flixster.com/movie/10/89/25/10892516_det.jpg
+322,Swimming with Sharks,114594,1994,http://content7.flixster.com/movie/27/81/278121_det.jpg
+324,The Sum of Us,111309,1994,http://content6.flixster.com/movie/27/41/274112_det.jpg
+325,Senior Trip,113936,1995,http://content7.flixster.com/movie/10/86/94/10869433_det.jpg
+326,Huozhe,110081,1994,http://content8.flixster.com/movie/10/97/19/10971966_det.jpg
+327,Tank Girl,114614,1995,http://content8.flixster.com/movie/10/91/40/10914042_det.jpg
+328,Tales from the Crypt: Demon Knight,114608,1995,http://content9.flixster.com/movie/10/88/79/10887979_det.jpg
+329,Star Trek: Generations,111280,1994,http://content6.flixster.com/movie/10/88/86/10888600_det.jpg
+330,Tales from the Hood,114609,1995,http://content9.flixster.com/movie/27/30/273091_det.jpg
+331,Tom & Viv,111454,1994,http://content7.flixster.com/movie/26/43/264309_det.jpg
+332,Village of the Damned,114852,1995,http://content6.flixster.com/movie/11/15/07/11150724_det.jpg
+333,Tommy Boy,114694,1995,http://content6.flixster.com/movie/26/58/265820_det.jpg
+334,Vanya on 42nd Street,111590,1994,http://content8.flixster.com/movie/10/92/26/10922666_det.jpg
+335,Underneath,114788,1995,http://content8.flixster.com/movie/28/03/280322_det.jpg
+336,Incubo sulla cittÃ  contaminata,80931,1980,http://content6.flixster.com/movie/10/89/70/10897052_det.jpg
+337,What's Eating Gilbert Grape,108550,1993,http://content8.flixster.com/movie/25/42/254226_det.jpg
+338,Virtuosity,114857,1995,http://content7.flixster.com/movie/27/58/275825_det.jpg
+339,While You Were Sleeping,114924,1995,http://content7.flixster.com/movie/63/59/09/6359097_det.jpg
+340,War,499556,2007,http://content7.flixster.com/movie/10/84/31/10843105_det.jpg
+341,Double Happiness,109655,1994,http://content9.flixster.com/movie/51/27/62/5127627_det.jpg
+342,Muriel's Wedding,110598,1994,http://content7.flixster.com/movie/26/76/267629_det.jpg
+343,The Baby-Sitters Club,112435,1995,http://content6.flixster.com/movie/26/16/261608_det.jpg
+344,Ace Ventura: Pet Detective,109040,1994,http://content7.flixster.com/movie/11/14/42/11144273_det.jpg
+345,"The Adventures of Priscilla, Queen of the Desert",109045,1994,http://content8.flixster.com/movie/11/15/32/11153218_det.jpg
+346,Backbeat,106339,1994,http://content7.flixster.com/movie/28/07/280793_det.jpg
+347,Bitter Moon,104779,1992,http://content8.flixster.com/movie/27/35/273518_det.jpg
+348,Bullets Over Broadway,109348,1994,http://content8.flixster.com/movie/26/94/269498_det.jpg
+349,Clear and Present Danger,109444,1994,http://content6.flixster.com/movie/26/52/265216_det.jpg
+350,The Client,109446,1994,http://content8.flixster.com/movie/26/01/260102_det.jpg
+351,"Corrina, Corrina",109484,1994,http://content7.flixster.com/movie/25/88/258897_det.jpg
+352,Crooklyn,109504,1994,http://content7.flixster.com/movie/25/71/257101_det.jpg
+353,The Crow,109506,1994,http://content6.flixster.com/movie/10/93/21/10932156_det.jpg
+354,Cobb,109450,1994,http://content7.flixster.com/movie/27/09/270909_det.jpg
+355,The Flintstones,109813,1994,http://content7.flixster.com/movie/10/87/96/10879629_det.jpg
+356,Forrest Gump,109830,1994,http://content7.flixster.com/movie/60/49/71/6049713_det.jpg
+357,Four Weddings and a Funeral,109831,1994,http://content7.flixster.com/movie/28/17/281725_det.jpg
+358,Higher Learning,113305,1995,http://content7.flixster.com/movie/33/06/29/3306293_det.jpg
+359,I Like It Like That,110091,1994,http://content8.flixster.com/movie/27/50/275006_det.jpg
+360,I Love Trouble,110093,1994,\N
+361,It Could Happen to You,110167,1994,http://content9.flixster.com/movie/25/86/258695_det.jpg
+362,The Jungle Book,61852,1967,http://content7.flixster.com/movie/25/07/250701_det.jpg
+363,Die Macht der Bilder: Leni Riefenstahl,107472,1993,http://content7.flixster.com/movie/29/44/294405_det.jpg
+364,The Lion King,110357,1994,http://content7.flixster.com/movie/25/07/250709_det.jpg
+365,Little Buddha,107426,1993,http://content8.flixster.com/movie/25/64/256422_det.jpg
+366,New Nightmare,111686,1994,http://content7.flixster.com/movie/11/13/01/11130129_det.jpg
+367,The Mask,110475,1994,http://content6.flixster.com/movie/62/33/43/6233432_det.jpg
+368,Maverick,110478,1994,http://content7.flixster.com/movie/25/61/256125_det.jpg
+369,Mrs. Parker and the Vicious Circle,110588,1994,http://content8.flixster.com/movie/10/93/78/10937814_det.jpg
+370,Naked Gun 33 1/3: The Final Insult,110622,1994,http://content6.flixster.com/movie/10/93/73/10937364_det.jpg
+371,The Paper,110771,1994,http://content9.flixster.com/movie/10/95/42/10954299_det.jpg
+372,Reality Bites,110950,1994,http://content6.flixster.com/movie/10/87/05/10870532_det.jpg
+373,Red Rock West,105226,1993,http://content6.flixster.com/movie/27/59/275920_det.jpg
+374,RiÂ¢hie RiÂ¢h,110989,1994,http://content6.flixster.com/movie/10/94/80/10948008_det.jpg
+375,Safe Passage,111054,1994,http://content8.flixster.com/movie/10/86/70/10867050_det.jpg
+376,The River Wild,110997,1994,http://content8.flixster.com/movie/10/92/73/10927394_det.jpg
+377,Speed,111257,1994,http://content6.flixster.com/movie/27/61/276116_det.jpg
+378,Speechless,111256,1994,http://content9.flixster.com/movie/11/12/48/11124819_det.jpg
+379,Timecop,111438,1994,http://content6.flixster.com/movie/11/12/53/11125356_det.jpg
+380,True Lies,111503,1994,http://content8.flixster.com/movie/31/37/313714_det.jpg
+381,When a Man Loves a Woman,111693,1994,http://content6.flixster.com/movie/26/88/268892_det.jpg
+382,Wolf,111742,1994,http://content7.flixster.com/movie/10/26/03/10260341_det.jpg
+383,Wyatt Earp,111756,1994,http://content7.flixster.com/movie/55/06/10/5506105_det.jpg
+384,Bad Company,280486,2002,http://content6.flixster.com/movie/26/66/266604_det.jpg
+385,A Man of No Importance,110455,1994,http://content9.flixster.com/movie/10/88/98/10889863_det.jpg
+386,S.F.W.,111048,1994,http://content7.flixster.com/movie/27/88/278813_det.jpg
+387,A Low Down Dirty Shame,110399,1994,http://content7.flixster.com/movie/27/42/274201_det.jpg
+388,This Boy's Life,108330,1993,http://content7.flixster.com/movie/10/89/12/10891257_det.jpg
+389,Le colonel Chabert,109454,1994,http://content6.flixster.com/movie/10/92/93/10929336_det.jpg
+390,"Faster, Pussycat! Kill! Kill!",59170,1965,http://content8.flixster.com/movie/11/69/36/1169362_det.jpg
+391,Jason's Lyric,110186,1994,http://content9.flixster.com/movie/52/53/79/5253791_det.jpg
+392,The Secret Adventures of Tom Thumb,108069,1993,http://content8.flixster.com/movie/10/86/72/10867206_det.jpg
+393,Street Fighter,111301,1994,http://content9.flixster.com/movie/10/87/27/10872731_det.jpg
+394,In Cold Blood,61809,1967,http://content6.flixster.com/movie/10/87/75/10877588_det.jpg
+395,Desert Winds,112849,1995,http://content7.flixster.com/movie/10/85/18/10851869_det.jpg
+396,Fall Time,113014,1995,http://content9.flixster.com/movie/63/57/62/6357627_det.jpg
+397,Cape Fear,101540,1991,http://content9.flixster.com/movie/10/93/72/10937223_det.jpg
+398,Frank and Ollie,113104,1995,http://content9.flixster.com/movie/26/14/261491_det.jpg
+401,Mirage,59448,1965,http://content8.flixster.com/movie/10/85/38/10853846_det.jpg
+402,Open Season,400717,2006,http://content8.flixster.com/movie/10/91/66/10916662_det.jpg
+404,Brother Minister: The Assassination of Malcolm X,109339,1994,http://content6.flixster.com/movie/10/88/20/10882016_det.jpg
+405,Highlander III: The Sorcerer,110027,1994,http://content6.flixster.com/movie/10/94/47/10944768_det.jpg
+406,Federal Hill,109785,1994,http://content7.flixster.com/movie/28/10/281025_det.jpg
+407,In the Mouth of Madness,113409,1995,http://content9.flixster.com/movie/10/88/81/10888183_det.jpg
+408,8 Seconds,109021,1994,http://content8.flixster.com/movie/25/61/256194_det.jpg
+409,Above the Rim,109035,1994,http://content9.flixster.com/movie/26/96/269603_det.jpg
+410,Addams Family Values,106220,1993,http://content9.flixster.com/movie/26/62/266215_det.jpg
+412,The Age of Innocence,106226,1993,\N
+413,Airheads,109068,1994,http://content6.flixster.com/movie/26/02/260296_det.jpg
+414,The Air Up There,109067,1994,http://content8.flixster.com/movie/10/89/39/10893994_det.jpg
+415,Another Stakeout,106292,1993,http://content6.flixster.com/movie/10/88/81/10888176_det.jpg
+416,Bad Girls,109198,1994,http://content6.flixster.com/movie/10/87/26/10872684_det.jpg
+417,Vicky Cristina Barcelona,497465,2008,http://content7.flixster.com/movie/11/13/43/11134349_det.jpg
+418,Being Human,1349938,2008,\N
+419,The Beverly Hillbillies,106400,1993,http://content8.flixster.com/movie/37/13/33/3713338_det.jpg
+420,Beverly Hills Cop III,109254,1994,http://content8.flixster.com/movie/10/84/44/10844414_det.jpg
+421,Black Beauty,109279,1994,http://content8.flixster.com/movie/10/93/24/10932426_det.jpg
+423,Blown Away,109303,1994,http://content7.flixster.com/movie/27/66/276629_det.jpg
+424,Blue Chips,109305,1994,http://content8.flixster.com/movie/26/12/261294_det.jpg
+425,Blue Sky,109306,1994,http://content8.flixster.com/movie/10/90/79/10907954_det.jpg
+426,Invasion of the Body Snatchers,49366,1956,http://content8.flixster.com/movie/10/95/44/10954478_det.jpg
+427,Boxing Helena,106471,1993,http://content8.flixster.com/movie/10/88/01/10880190_det.jpg
+428,A Bronx Tale,106489,1993,http://content7.flixster.com/movie/10/88/62/10886213_det.jpg
+429,Cabin Boy,109361,1994,http://content8.flixster.com/movie/26/13/261398_det.jpg
+430,Calendar Girls,337909,2003,http://content6.flixster.com/movie/10/90/15/10901532_det.jpg
+431,Carlito's Way,106519,1993,http://content8.flixster.com/movie/14/81/59/1481590_det.jpg
+432,City Slickers II: The Legend of Curly's Gold,109439,1994,http://content9.flixster.com/movie/10/84/98/10849883_det.jpg
+433,Clean Slate,109443,1994,http://content6.flixster.com/movie/26/42/264200_det.jpg
+434,Cliffhanger,106582,1993,http://content8.flixster.com/movie/10/88/05/10880598_det.jpg
+435,Coneheads,106598,1993,http://content9.flixster.com/movie/25/66/256607_det.jpg
+436,Color of Night,109456,1994,http://content9.flixster.com/movie/27/04/270403_det.jpg
+437,Cops and Robbersons,109480,1994,http://content7.flixster.com/movie/10/93/94/10939473_det.jpg
+438,The Cowboy Way,109493,1994,http://content9.flixster.com/movie/10/88/51/10885187_det.jpg
+440,Dave,106673,1993,http://content7.flixster.com/movie/11/12/76/11127633_det.jpg
+441,Dazed and Confused,106677,1993,http://content9.flixster.com/movie/10/84/23/10842359_det.jpg
+442,Demolition Man,106697,1993,http://content6.flixster.com/movie/26/97/269712_det.jpg
+443,The Endless Summer 2,109729,1994,http://content6.flixster.com/movie/25/72/257204_det.jpg
+444,Even Cowgirls Get the Blues,106834,1993,http://content7.flixster.com/movie/10/85/48/10854861_det.jpg
+445,Fatal Instinct,106873,1993,http://content9.flixster.com/movie/10/88/78/10887875_det.jpg
+446,Ba wang bie ji,106332,1993,http://content7.flixster.com/movie/10/89/59/10895913_det.jpg
+447,The Favor,109783,1994,http://content9.flixster.com/movie/27/86/278691_det.jpg
+448,Huo Yuan Jia,446059,2006,http://content9.flixster.com/movie/10/85/48/10854871_det.jpg
+449,Fear of a Black Hat,106880,1994,http://content9.flixster.com/movie/27/00/270091_det.jpg
+450,With Honors,111732,1994,http://content8.flixster.com/movie/25/81/258122_det.jpg
+451,Flesh and Bone,106926,1993,http://content9.flixster.com/movie/28/02/280207_det.jpg
+452,Widows' Peak,111712,1994,http://content6.flixster.com/movie/11/13/22/11132224_det.jpg
+453,For Love or Money,106941,1993,\N
+454,The Firm,106918,1993,http://content8.flixster.com/movie/28/38/283822_det.jpg
+455,Free Willy,106965,1993,http://content8.flixster.com/movie/10/88/31/10883198_det.jpg
+456,Fresh,109842,1994,http://content7.flixster.com/movie/27/16/271605_det.jpg
+457,The Fugitive,106977,1993,http://content9.flixster.com/movie/11/12/17/11121787_det.jpg
+458,Geronimo: An American Legend,107004,1993,http://content8.flixster.com/movie/25/94/259426_det.jpg
+459,A Perfect Getaway,971209,2009,http://content7.flixster.com/movie/10/91/93/10919317_det.jpg
+460,Getting Even with Dad,109891,1994,http://content7.flixster.com/movie/10/92/22/10922209_det.jpg
+461,Go Fish,109913,1994,http://content9.flixster.com/movie/27/62/276227_det.jpg
+462,A Good Man in Africa,109920,1994,http://content9.flixster.com/movie/10/87/38/10873887_det.jpg
+463,Guilty as Sin,107057,1993,http://content7.flixster.com/movie/27/69/276993_det.jpg
+464,Hard Target,107076,1993,http://content6.flixster.com/movie/27/33/273300_det.jpg
+465,Heaven & Earth,107096,1993,http://content8.flixster.com/movie/10/86/70/10867030_det.jpg
+466,Hot Shots! Part Deux,107144,1993,http://content8.flixster.com/movie/25/63/256302_det.jpg
+467,Live Nude Girls,113674,1995,http://content8.flixster.com/movie/49/96/89/4996890_det.jpg
+468,The Englishman Who Went Up a Hill But Came Down a Mountain,112966,1995,http://content9.flixster.com/movie/25/71/257199_det.jpg
+469,The House of the Spirits,107151,1993,http://content6.flixster.com/movie/10/86/83/10868328_det.jpg
+470,House Party 3,110064,1994,http://content6.flixster.com/movie/27/44/274420_det.jpg
+471,The Hudsucker Proxy,110074,1994,http://content9.flixster.com/movie/10/87/85/10878555_det.jpg
+472,I'll Do Anything,110097,1994,http://content7.flixster.com/movie/26/50/265009_det.jpg
+473,In the Army Now,110123,1994,http://content6.flixster.com/movie/25/72/257292_det.jpg
+474,In the Line of Fire,107206,1993,http://content8.flixster.com/movie/10/80/52/10805270_det.jpg
+475,In the Name of the Father,107207,1993,http://content8.flixster.com/movie/27/01/270126_det.jpg
+476,The Inkwell,110137,1994,http://content9.flixster.com/movie/27/42/274219_det.jpg
+477,What's Love Got to Do with It,108551,1993,http://content6.flixster.com/movie/10/90/34/10903400_det.gif
+478,Jimmy Hollywood,110197,1994,http://content6.flixster.com/movie/28/19/281900_det.jpg
+479,Judgment Night,107286,1993,http://content9.flixster.com/movie/27/97/279711_det.jpg
+480,Jurassic Park,107290,1993,http://content9.flixster.com/movie/25/84/258423_det.jpg
+481,Kalifornia,107302,1993,http://content9.flixster.com/movie/28/45/284507_det.jpg
+482,Killing Zoe,110265,1993,http://content6.flixster.com/movie/28/49/284992_det.jpg
+483,King of the Hill,107322,1993,http://content8.flixster.com/movie/85/27/98/8527986_det.jpg
+484,Lassie,110305,1994,http://content8.flixster.com/movie/26/34/263402_det.jpg
+485,Last Action Hero,107362,1993,http://content6.flixster.com/movie/55/36/01/5536016_det.jpg
+486,Life with Mikey,107413,1993,http://content9.flixster.com/movie/26/48/264827_det.jpg
+487,Lightning Jack,110353,1994,http://content9.flixster.com/movie/10/91/89/10918935_det.jpg
+488,M. Butterfly,107468,1993,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+489,Made in America,107478,1993,http://content7.flixster.com/movie/10/87/20/10872029_det.jpg
+490,Malice,107497,1993,http://content8.flixster.com/movie/28/45/284522_det.jpg
+491,The Man Without a Face,107501,1993,http://content8.flixster.com/movie/10/88/44/10884478_det.jpg
+492,Manhattan Murder Mystery,107507,1993,http://content8.flixster.com/movie/11/12/42/11124250_det.jpg
+493,Menace II Society,107554,1993,http://content6.flixster.com/movie/10/84/96/10849636_det.jpg
+494,Executive Decision,116253,1996,http://content6.flixster.com/movie/10/89/53/10895300_det.jpg
+495,Ai no korÃ®da,74102,1976,http://content8.flixster.com/movie/12/84/25/1284250_det.jpg
+496,What Happened Was...,111689,1994,http://content6.flixster.com/movie/10/19/72/10197236_det.jpg
+497,Much Ado About Nothing,107616,1993,http://content8.flixster.com/movie/26/63/266326_det.jpg
+498,Mr. Jones,107611,1993,http://content7.flixster.com/movie/10/84/75/10847577_det.jpg
+499,Mr. Wonderful,107613,1993,http://content6.flixster.com/movie/26/28/262824_det.jpg
+500,Mrs. Doubtfire,107614,1993,http://content6.flixster.com/movie/25/85/258512_det.jpg
+501,Naked,107653,1993,http://content9.flixster.com/movie/10/84/20/10842067_det.jpg
+502,The Next Karate Kid,110657,1994,http://content8.flixster.com/movie/26/25/262502_det.jpg
+503,The New Age,110649,1994,http://content8.flixster.com/movie/10/85/39/10853990_det.jpg
+504,No Escape,110678,1994,http://content6.flixster.com/movie/28/52/285208_det.jpg
+505,North,110687,1994,http://content9.flixster.com/movie/41/65/59/4165591_det.jpg
+506,Orlando,107756,1992,http://content9.flixster.com/movie/11/12/17/11121747_det.jpg
+507,A Perfect World,107808,1993,http://content8.flixster.com/movie/10/83/83/10838374_det.jpg
+508,Philadelphia,107818,1993,http://content6.flixster.com/movie/10/93/80/10938004_det.jpg
+509,The Piano,107822,1993,http://content7.flixster.com/movie/10/87/64/10876465_det.jpg
+510,Poetic Justice,107840,1993,http://content7.flixster.com/movie/10/85/49/10854961_det.jpg
+511,The Program,107889,1993,http://content8.flixster.com/movie/46/25/25/4625250_det.jpg
+512,The Puppet Masters,111003,1994,http://content6.flixster.com/movie/10/93/87/10938732_det.jpg
+513,Radioland Murders,110939,1994,http://content6.flixster.com/movie/10/89/14/10891492_det.jpg
+514,The Ref,110955,1994,http://content6.flixster.com/movie/26/83/268316_det.jpg
+515,The Remains of the Day,107943,1993,http://content8.flixster.com/movie/25/57/255706_det.jpg
+516,Renaissance Man,110971,1994,http://content8.flixster.com/movie/25/80/258018_det.jpg
+517,Rising Sun,107969,1993,http://content6.flixster.com/movie/11/12/51/11125172_det.jpg
+518,The Road to Wellville,111001,1994,http://content8.flixster.com/movie/27/26/272698_det.jpg
+519,RoboCop 3,107978,1993,http://content6.flixster.com/movie/26/64/266400_det.jpg
+520,Robin Hood: Men in Tights,107977,1993,http://content9.flixster.com/movie/10/93/73/10937331_det.jpg
+521,Romeo Is Bleeding,107983,1993,http://content7.flixster.com/movie/27/18/271821_det.jpg
+522,Romper Stomper,105275,1992,http://content7.flixster.com/movie/10/94/01/10940169_det.jpg
+523,Ruby in Paradise,108000,1993,http://content6.flixster.com/movie/10/83/91/10839188_det.jpg
+524,Rudy,108002,1993,http://content7.flixster.com/movie/10/84/77/10847749_det.jpg
+525,The Saint of Fort Washington,108026,1993,http://content8.flixster.com/movie/10/86/88/10868814_det.jpg
+526,Les nuits fauves,105032,1992,http://content7.flixster.com/movie/10/89/94/10899445_det.jpg
+527,Schindler's List,108052,1993,http://content6.flixster.com/movie/26/71/267112_det.jpg
+528,The Last Boy Scout,102266,1991,http://content9.flixster.com/movie/10/92/20/10922043_det.jpg
+529,Searching for Bobby Fischer,108065,1993,http://content6.flixster.com/movie/25/59/255904_det.jpg
+530,Second Best,328390,2004,http://content8.flixster.com/movie/30/99/309926_det.jpg
+531,The Secret Garden,108071,1993,http://content9.flixster.com/movie/11/15/28/11152871_det.jpg
+532,Serial Mom,111127,1994,http://content6.flixster.com/movie/27/10/271008_det.jpg
+533,Kagemusha,80979,1980,http://content6.flixster.com/movie/10/93/41/10934152_det.jpg
+534,Shadowlands,108101,1993,http://content7.flixster.com/movie/25/57/255701_det.jpg
+535,Short Cuts,108122,1993,http://content9.flixster.com/movie/11/12/17/11121735_det.jpg
+536,A Simple Twist of Fate,111194,1994,http://content9.flixster.com/movie/26/22/262291_det.jpg
+537,Sairen,494815,2006,http://content7.flixster.com/movie/10/82/85/10828537_det.jpg
+538,Six Degrees of Separation,108149,1993,http://content6.flixster.com/movie/10/84/47/10844780_det.jpg
+539,Sleepless in Seattle,108160,1993,http://content7.flixster.com/movie/11/12/06/11120641_det.jpg
+540,Sliver,108162,1993,http://content9.flixster.com/movie/19/52/73/1952731_det.jpg
+541,Blade Runner,83658,1982,http://content8.flixster.com/movie/10/85/39/10853986_det.jpg
+542,Son in Law,108186,1993,http://content8.flixster.com/movie/25/67/256726_det.jpg
+543,So I Married an Axe Murderer,108174,1993,http://content8.flixster.com/movie/10/86/72/10867222_det.jpg
+544,Striking Distance,108238,1993,http://content8.flixster.com/movie/27/27/272702_det.jpg
+545,Harem suarÃ©,179841,1999,http://content9.flixster.com/movie/27/77/277707_det.jpg
+546,Super Mario Bros.,108255,1993,\N
+547,Surviving the Game,111323,1994,http://content7.flixster.com/movie/27/64/276405_det.jpg
+548,Terminal Velocity,111400,1994,http://content8.flixster.com/movie/90/84/39/9084394_det.jpg
+549,Thirty Two Short Films About Glenn Gould,108328,1993,http://content6.flixster.com/movie/11/13/76/11137636_det.jpg
+550,Threesome,111418,1994,http://content8.flixster.com/movie/27/55/275526_det.jpg
+551,The Nightmare Before Christmas,107688,1993,http://content7.flixster.com/movie/10/87/87/10878797_det.jpg
+552,The Three Musketeers,108333,1993,http://content7.flixster.com/movie/50/26/53/5026533_det.jpg
+553,Tombstone,108358,1993,http://content7.flixster.com/movie/26/73/267317_det.jpg
+554,Law & Order: Trial by Jury,406429,2005,\N
+555,True Romance,108399,1993,http://content9.flixster.com/movie/38/28/09/3828095_det.jpg
+556,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012,1964,http://content8.flixster.com/movie/26/51/265102_det.jpg
+558,The Pagemaster,110763,1994,http://content8.flixster.com/movie/10/88/87/10888782_det.jpg
+559,2 Days in Paris,841044,2007,http://content6.flixster.com/movie/93/43/00/9343004_det.jpg
+560,"The Beans of Egypt, Maine",109226,1994,http://content8.flixster.com/movie/10/97/04/10970454_det.jpg
+561,Killer Movie,988083,2008,http://content7.flixster.com/movie/10/83/93/10839337_det.jpg
+562,Welcome to the Dollhouse,114906,1995,http://content9.flixster.com/movie/10/88/33/10883391_det.jpg
+563,Germinal,107002,1993,http://content7.flixster.com/movie/39/89/93/3989933_det.jpg
+564,Chugyeogja,1190539,2008,http://content8.flixster.com/movie/10/85/52/10855238_det.jpg
+565,Cronos,104029,1993,http://content9.flixster.com/movie/27/72/277211_det.jpg
+566,Naked in New York,110623,1993,http://content8.flixster.com/movie/28/30/283098_det.jpg
+567,Kika,107315,1993,http://content7.flixster.com/movie/10/91/08/10910897_det.jpg
+568,Bhaji on the Beach,106408,1993,http://content7.flixster.com/movie/10/90/24/10902481_det.jpg
+569,Little Big League,110363,1994,http://content6.flixster.com/movie/25/93/259304_det.jpg
+570,KÃ¥disbellan,107349,1993,http://content8.flixster.com/movie/10/84/06/10840610_det.jpg
+571,Wide-Eyed and Legless,111709,1993,http://content6.flixster.com/movie/10/91/81/10918184_det.jpg
+572,Foreign Student,109828,1994,http://content7.flixster.com/movie/10/97/01/10970101_det.jpg
+573,Io speriamo che me la cavo,107225,1992,http://content8.flixster.com/movie/10/88/08/10880806_det.jpg
+574,Spanking the Monkey,111252,1994,http://content8.flixster.com/movie/31/19/311926_det.jpg
+575,The Little Rascals,110366,1994,http://content6.flixster.com/movie/11/13/24/11132400_det.jpg
+577,Andre,109120,1994,http://content9.flixster.com/movie/25/89/258903_det.jpg
+579,La scorta,108059,1993,http://content9.flixster.com/movie/10/91/35/10913527_det.jpg
+580,Princess Caraboo,110892,1994,http://content8.flixster.com/movie/26/16/261614_det.jpg
+581,The Celluloid Closet,112651,1995,http://content9.flixster.com/movie/10/87/44/10874435_det.jpg
+582,MÃ©tisse,107642,1993,http://content8.flixster.com/movie/10/89/42/10894274_det.jpg
+583,Caro diario,109382,1993,http://content6.flixster.com/movie/43/98/42/4398424_det.jpg
+585,The Brady Bunch Movie,112572,1995,http://content8.flixster.com/movie/10/70/30/10703022_det.jpg
+586,Home Alone,99785,1990,http://content6.flixster.com/movie/31/21/312104_det.jpg
+587,Ghost,99653,1990,http://content7.flixster.com/movie/25/44/254497_det.jpg
+588,Aladdin,103639,1992,\N
+589,Terminator 2: Judgment Day,103064,1991,http://content7.flixster.com/movie/10/94/47/10944701_det.jpg
+590,Dances with Wolves,99348,1990,http://content6.flixster.com/movie/10/87/82/10878268_det.jpg
+591,Tough and Deadly,114706,1995,\N
+592,Batman,60153,1966,http://content8.flixster.com/movie/10/85/60/10856086_det.jpg
+593,The Silence of the Lambs,102926,1991,http://content7.flixster.com/movie/55/12/86/5512865_det.jpg
+594,Snow White and the Seven Dwarfs,29583,1937,http://content6.flixster.com/movie/10/85/16/10851672_det.jpg
+595,Beauty and the Beast,101414,1991,http://content6.flixster.com/movie/10/92/78/10927816_det.jpg
+596,Pinocchio,32910,1940,http://content8.flixster.com/movie/10/87/27/10872762_det.jpg
+597,Pretty Woman,100405,1990,http://content8.flixster.com/movie/16/90/52/1690526_det.jpg
+598,Okno v Parizh,110719,1994,http://content6.flixster.com/movie/11/13/77/11137744_det.jpg
+599,The Wild Bunch,65214,1969,http://content7.flixster.com/movie/26/74/267417_det.jpg
+600,Love and a .45,110395,1994,http://content8.flixster.com/movie/10/89/20/10892046_det.jpg
+602,A Great Day in Harlem,109934,1994,http://content7.flixster.com/movie/10/93/45/10934505_det.jpg
+603,Bye Bye Love,112606,1995,http://content7.flixster.com/movie/26/11/261109_det.jpg
+605,One Fine Day,117247,1996,http://content9.flixster.com/movie/26/59/265991_det.jpg
+606,Candyman: Farewell to the Flesh,112625,1995,http://content9.flixster.com/movie/10/89/43/10894315_det.jpg
+608,Fargo,116282,1996,http://content6.flixster.com/movie/31/32/313212_det.jpg
+609,Homeward Bound II: Lost in San Francisco,116552,1996,http://content6.flixster.com/movie/25/14/251408_det.jpg
+610,Heavy Metal,82509,1981,http://content8.flixster.com/movie/26/90/269098_det.jpg
+611,Hellraiser: Bloodline,116514,1996,http://content9.flixster.com/movie/11/14/29/11142947_det.jpg
+612,The Pallbearer,117283,1996,http://content8.flixster.com/movie/26/35/263502_det.jpg
+613,Jane Eyre,780362,2006,\N
+614,Loaded,893406,2008,http://content9.flixster.com/movie/10/88/27/10882795_det.jpg
+615,Pane e cioccolata,70506,1973,http://content7.flixster.com/movie/10/89/25/10892525_det.jpg
+616,The AristoCats,65421,1970,http://content7.flixster.com/movie/25/07/250797_det.jpg
+617,La flor de mi secreto,113083,1995,http://content6.flixster.com/movie/49/69/26/4969268_det.jpg
+618,Two Much,118001,1995,http://content9.flixster.com/movie/26/48/264899_det.jpg
+619,Ed,247091,2000,\N
+620,Cerro Torre: Schrei aus Stein,102855,1991,http://content7.flixster.com/movie/91/73/48/9173489_det.jpg
+621,Ma saison prÃ©fÃ©rÃ©e,107471,1993,http://content7.flixster.com/movie/29/64/296417_det.jpg
+623,A Modern Affair,113839,1995,http://content8.flixster.com/movie/10/86/39/10863938_det.jpg
+624,Condition Red,112712,1995,\N
+625,Asfour Stah,90665,1990,http://content9.flixster.com/movie/28/87/288711_det.jpg
+626,A Thin Line Between Love and Hate,117891,1996,http://content6.flixster.com/movie/97/03/07/9703076_det.jpg
+627,The Last Supper,113613,1995,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+628,Primal Fear,117381,1996,http://content8.flixster.com/movie/26/88/268822_det.jpg
+629,Rude Boy,81441,1980,http://content6.flixster.com/movie/10/91/31/10913120_det.jpg
+630,Carried Away,115837,1996,http://content9.flixster.com/movie/10/83/80/10838051_det.jpg
+631,All Dogs Go to Heaven 2,115509,1996,http://content6.flixster.com/movie/10/87/85/10878596_det.jpg
+632,Land and Freedom,114671,1995,http://content7.flixster.com/movie/10/92/30/10923065_det.jpg
+633,Denise Calls Up,112844,1995,http://content8.flixster.com/movie/10/86/34/10863458_det.jpg
+634,Theodore Rex,114658,1995,http://content9.flixster.com/movie/10/87/46/10874623_det.jpg
+635,A Family Thing,116275,1996,http://content6.flixster.com/movie/26/40/264000_det.jpg
+636,Nina Frisk,827729,2007,http://content7.flixster.com/movie/10/50/90/10509049_det.jpg
+637,Sgt. Bilko,117608,1996,http://content8.flixster.com/movie/11/13/42/11134258_det.jpg
+638,Jack & Sarah,113448,1995,http://content6.flixster.com/movie/10/84/03/10840396_det.jpg
+639,Girl 6,116414,1996,http://content6.flixster.com/movie/23/16/94/2316944_det.jpg
+640,Diabolique,116095,1996,http://content7.flixster.com/movie/27/67/276705_det.jpg
+641,Un indien dans la ville,111543,1994,http://content8.flixster.com/movie/10/83/92/10839294_det.jpg
+643,Peanuts - Die Bank zahlt alles,117312,1996,\N
+645,Nelly & Monsieur Arnaud,113947,1995,http://content6.flixster.com/movie/44/35/10/4435104_det.jpg
+647,Courage Under Fire,115956,1996,http://content8.flixster.com/movie/10/91/78/10917802_det.jpg
+648,Mission: Impossible III,317919,2006,http://content6.flixster.com/movie/10/93/36/10933612_det.jpg
+649,Cold Fever,109028,1995,http://content7.flixster.com/movie/39/10/58/3910585_det.jpg
+650,Moll Flanders,117071,1996,http://content7.flixster.com/movie/36/25/75/3625753_det.jpg
+651,Das Superweib,117788,1996,\N
+652,"301, 302",112257,1995,http://content7.flixster.com/movie/10/12/38/10123817_det.jpg
+653,DragonHeart,116136,1996,http://content6.flixster.com/movie/10/86/38/10863888_det.jpg
+655,Mutters Courage,117117,1995,http://content9.flixster.com/movie/10/86/25/10862575_det.jpg
+656,48 Hrs.,83511,1982,http://content8.flixster.com/movie/26/94/269494_det.jpg
+658,Billy's Holiday,112509,1995,http://content7.flixster.com/movie/10/99/00/10990029_det.jpg
+659,Plein soleil,54189,1960,http://content7.flixster.com/movie/26/19/261905_det.jpg
+660,August Rush,426931,2007,http://content6.flixster.com/movie/96/76/16/9676160_det.jpg
+661,James and the Giant Peach,116683,1996,http://content8.flixster.com/movie/25/48/254806_det.jpg
+662,Fear,116287,1996,http://content8.flixster.com/movie/27/03/270322_det.jpg
+663,Kids in the Hall: Brain Candy,116768,1996,http://content6.flixster.com/movie/11/14/71/11147180_det.jpg
+664,Faithful,116269,1996,http://content9.flixster.com/movie/10/01/10/10011047_det.jpg
+665,Underground,114787,1995,http://content7.flixster.com/movie/10/89/31/10893197_det.jpg
+666,Lust och fÃ¤gring stor,113720,1995,http://content7.flixster.com/movie/11/13/47/11134717_det.jpg
+667,Bloodsport 2,112536,1996,http://content7.flixster.com/movie/23/38/23/2338233_det.jpg
+668,Pather Panchali,48473,1955,http://content8.flixster.com/movie/10/08/39/10083902_det.jpg
+670,Apur Sansar,52572,1959,http://content6.flixster.com/movie/10/83/97/10839708_det.jpg
+671,Mystery Science Theater 3000: The Movie,117128,1996,http://content7.flixster.com/movie/11/13/40/11134021_det.jpg
+673,Space Jam,117705,1996,http://content9.flixster.com/movie/10/91/96/10919615_det.jpg
+674,Barbarella,62711,1968,http://content9.flixster.com/movie/25/64/256403_det.jpg
+678,Some Folks Call It a Sling Blade,108181,1994,http://content8.flixster.com/movie/10/93/85/10938546_det.jpg
+679,The Run of the Country,114307,1995,http://content8.flixster.com/movie/31/34/313418_det.jpg
+680,"Alphaville, une Ã©trange aventure de Lemmy Caution",58898,1965,http://content8.flixster.com/movie/29/56/295614_det.jpg
+681,Coup de torchon,82206,1981,http://content7.flixster.com/movie/10/89/65/10896517_det.jpg
+682,Tigrero: A Film That Was Never Made,111430,1994,http://content8.flixster.com/movie/10/91/28/10912866_det.jpg
+683,L'oeil de Vichy,107727,1993,http://content8.flixster.com/movie/30/67/306718_det.jpg
+685,It's My Party,113443,1996,http://content7.flixster.com/movie/27/32/273209_det.jpg
+687,Country Life,109491,1994,http://content6.flixster.com/movie/26/40/264012_det.jpg
+688,Operation Dumbo Drop,114048,1995,http://content9.flixster.com/movie/26/35/263511_det.jpg
+690,Das Versprechen,111613,1995,http://content7.flixster.com/movie/97/48/50/9748505_det.jpg
+691,Mrs. Winterbourne,117104,1996,http://content9.flixster.com/movie/25/92/259299_det.jpg
+692,Solo,117688,1996,http://content9.flixster.com/movie/10/87/64/10876463_det.jpg
+693,Etz Hadomim Tafus,109751,1995,http://content7.flixster.com/movie/69/02/55/6902553_det.jpg
+694,The Substitute,117774,1996,http://content7.flixster.com/movie/27/97/279729_det.jpg
+695,True Crime,139668,1999,http://content6.flixster.com/movie/27/47/274704_det.jpg
+696,Butterfly Kiss,112604,1995,http://content8.flixster.com/movie/11/13/63/11136386_det.jpg
+697,Feeling Minnesota,116289,1996,http://content9.flixster.com/movie/27/52/275291_det.jpg
+698,Delta of Venus,109593,1995,http://content8.flixster.com/movie/10/88/75/10887538_det.jpg
+700,"Angus, Thongs and Perfect Snogging",963743,2008,http://content8.flixster.com/movie/10/85/35/10853566_det.jpg
+701,Daens,104046,1992,http://content7.flixster.com/movie/34/78/39/3478397_det.jpg
+702,Face/Off,119094,1997,http://content8.flixster.com/movie/10/85/08/10850854_det.jpg
+703,Boy A,1078188,2007,http://content8.flixster.com/movie/10/85/07/10850786_det.jpg
+704,Galaxy Quest,177789,1999,http://content7.flixster.com/movie/10/91/52/10915261_det.jpg
+705,CosÃ¬ fan tutte,104014,1992,http://content8.flixster.com/movie/10/90/53/10905374_det.jpg
+706,Sunset Park,117784,1996,http://content8.flixster.com/movie/27/80/278094_det.jpg
+707,Mulholland Falls,117107,1996,http://content6.flixster.com/movie/93/68/00/9368008_det.jpg
+708,The Truth About Cats & Dogs,117979,1996,http://content9.flixster.com/movie/10/88/92/10889235_det.jpg
+709,Oliver & Company,95776,1988,http://content6.flixster.com/movie/25/15/251504_det.jpg
+710,Celtic Pride,115851,1996,http://content8.flixster.com/movie/95/04/97/9504978_det.jpg
+711,Flipper,116322,1996,http://content7.flixster.com/movie/25/69/256925_det.jpg
+712,La captive,216605,2000,http://content8.flixster.com/movie/10/84/16/10841618_det.jpg
+713,Of Love and Shadows,110712,1994,http://content8.flixster.com/movie/10/89/11/10891186_det.jpg
+714,Dead Man,112817,1995,http://content7.flixster.com/movie/26/72/267209_det.jpg
+715,Le hussard sur le toit,113362,1995,http://content6.flixster.com/movie/10/91/67/10916740_det.jpg
+716,The Jezebels,73778,1975,http://content7.flixster.com/movie/10/89/70/10897085_det.jpg
+717,Boca a boca,112546,1995,http://content9.flixster.com/movie/10/88/66/10886619_det.jpg
+718,Les visiteurs,108500,1993,http://content6.flixster.com/movie/34/10/61/3410616_det.jpg
+719,Multiplicity,117108,1996,http://content6.flixster.com/movie/20/48/10/2048108_det.jpg
+720,Wallace & Gromit: The Best of Aardman Animation,118114,1996,\N
+722,The Haunted World of Edward D. Wood Jr.,113270,1995,http://content7.flixster.com/movie/10/88/97/10889749_det.jpg
+724,The Craft,115963,1996,http://content6.flixster.com/movie/10/85/08/10850868_det.jpg
+725,The Great White Hype,116448,1996,http://content6.flixster.com/movie/27/89/278916_det.jpg
+726,Save the Last Dance,206275,2001,http://content7.flixster.com/movie/10/87/40/10874033_det.jpg
+727,War Stories,315091,2003,http://content7.flixster.com/movie/11/13/53/11135357_det.jpg
+728,Cold Comfort Farm,112701,1995,http://content7.flixster.com/movie/25/59/255913_det.jpg
+729,"Institute Benjamenta, or This Dream People Call Human Life",113429,1995,http://content7.flixster.com/movie/29/72/297297_det.jpg
+730,The Riches,496343,2007,\N
+731,Heaven's Prisoners,116508,1996,http://content6.flixster.com/movie/10/85/99/10859980_det.jpg
+733,The Rock,117500,1996,http://content6.flixster.com/movie/10/87/70/10877064_det.jpg
+734,Getting Away with Murder,116405,1996,http://content8.flixster.com/movie/10/92/22/10922206_det.jpg
+735,Dellamorte Dellamore,109592,1994,http://content9.flixster.com/movie/10/87/59/10875991_det.jpg
+736,Twister,117998,1996,http://content8.flixster.com/movie/26/63/266302_det.jpg
+737,Barb Wire,115624,1996,\N
+738,Le garÃ§u,113145,1995,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+741,KÃ´kaku kidÃ´tai,113568,1995,http://content7.flixster.com/movie/10/93/13/10931385_det.jpg
+742,Thinner,117894,1996,http://content6.flixster.com/movie/10/87/05/10870524_det.jpg
+743,Spy Hard,117723,1996,http://content7.flixster.com/movie/10/37/12/10371241_det.jpg
+744,Brothers in Trouble,112586,1995,http://content6.flixster.com/movie/10/97/76/10977688_det.jpg
+745,Wallace and Gromit in A Close Shave,112691,1995,http://content6.flixster.com/movie/41/62/60/4162608_det.jpg
+746,Force of Evil,40366,1948,http://content6.flixster.com/movie/26/25/262520_det.jpg
+747,The Stupids,117768,1996,http://content7.flixster.com/movie/10/84/55/10845557_det.jpg
+748,The Arrival,115571,1996,http://content7.flixster.com/movie/11/14/58/11145801_det.jpg
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012,1964,http://content8.flixster.com/movie/26/51/265102_det.jpg
+751,Careful,103926,1992,http://content8.flixster.com/movie/10/70/70/10707046_det.jpg
+753,A Month by the Lake,113849,1995,http://content9.flixster.com/movie/25/76/257691_det.jpg
+754,Gold Diggers: The Secret of Bear Mountain,113188,1995,http://content7.flixster.com/movie/28/52/58/2852585_det.jpg
+755,Kim,42644,1950,http://content7.flixster.com/movie/10/85/81/10858125_det.jpg
+756,Carmen Miranda: Bananas Is My Business,109381,1995,http://content6.flixster.com/movie/10/90/14/10901436_det.jpg
+757,Dung che sai duk,1233247,1994,http://content8.flixster.com/movie/10/93/19/10931906_det.jpg
+759,Maya Lin: A Strong Clear Vision,110480,1994,http://content8.flixster.com/movie/10/86/99/10869926_det.jpg
+760,Stalingrad,108211,1993,http://content7.flixster.com/movie/29/21/292121_det.jpg
+761,Star Wars: Episode I - The Phantom Menace,120915,1999,http://content9.flixster.com/movie/10/80/46/10804663_det.jpg
+762,Striptease,117765,1996,http://content7.flixster.com/movie/11/13/78/11137861_det.jpg
+763,The Last of the High Kings,116833,1996,http://content6.flixster.com/movie/10/89/13/10891324_det.jpg
+764,This Is Spinal Tap,88258,1984,http://content9.flixster.com/movie/28/14/281499_det.jpg
+765,Jack,116669,1996,http://content9.flixster.com/movie/26/14/261407_det.jpg
+766,I Shot Andy Warhol,116594,1996,http://content6.flixster.com/movie/27/78/277800_det.jpg
+767,The Grass Harp,113211,1995,http://content8.flixster.com/movie/11/15/29/11152922_det.jpg
+769,Marlene Dietrich: Shadow and Light,116992,1996,\N
+771,La mÃ´me,450188,2007,http://content9.flixster.com/movie/10/84/43/10844375_det.jpg
+774,Wend Kuuni,84898,1982,http://content9.flixster.com/movie/10/96/91/10969179_det.jpg
+775,Histoires extraordinaires,63715,1968,http://content6.flixster.com/movie/10/86/83/10868324_det.jpg
+778,Trainspotting,117951,1996,http://content7.flixster.com/movie/10/93/17/10931725_det.jpg
+779,'Til There Was You,118523,1997,http://content6.flixster.com/movie/10/91/72/10917256_det.jpg
+780,Independence Day,116629,1996,http://content9.flixster.com/movie/10/94/47/10944707_det.jpg
+781,Stealing Beauty,117737,1996,http://content9.flixster.com/movie/10/85/38/10853863_det.jpg
+782,The Fan,116277,1996,http://content9.flixster.com/movie/27/82/278295_det.jpg
+783,The Hunchback of Notre Dame,31455,1939,http://content9.flixster.com/movie/29/39/293991_det.jpg
+784,The Cable Guy,115798,1996,http://content9.flixster.com/movie/10/87/05/10870531_det.jpg
+785,Kingpin,116778,1996,http://content6.flixster.com/movie/26/91/269116_det.jpg
+786,Eraser,116213,1996,http://content7.flixster.com/movie/27/12/271217_det.jpg
+787,The Gate of Heavenly Peace,113147,1995,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+788,The Nutty Professor,117218,1996,http://content8.flixster.com/movie/25/91/259122_det.jpg
+789,"Yo, la peor de todas",100990,1990,\N
+791,"The Last Klezmer: Leopold Kozlowski, His Life and Music",113610,1994,http://content6.flixster.com/movie/11/13/72/11137256_det.jpg
+792,"Hol volt, hol nem volt",93199,1987,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+793,En compagnie d'Antonin Artaud,106810,1993,http://content9.flixster.com/movie/11/02/74/11027443_det.jpg
+795,Somebody to Love,111237,1994,\N
+796,A Very Natural Thing,72362,1974,http://content9.flixster.com/movie/28/04/280491_det.jpg
+798,Daylight,116040,1996,http://content8.flixster.com/movie/26/51/265110_det.jpg
+799,The Frighteners,116365,1996,http://content8.flixster.com/movie/10/93/70/10937094_det.jpg
+800,Lone Star State of Mind,269483,2002,http://content7.flixster.com/movie/10/89/20/10892061_det.jpg
+801,Harriet the Spy,116493,1996,http://content6.flixster.com/movie/10/86/90/10869000_det.jpg
+802,Phenomenon,117333,1996,http://content9.flixster.com/movie/25/58/255899_det.jpg
+803,Walking and Talking,118113,1996,http://content9.flixster.com/movie/27/92/279207_det.jpg
+804,She's the One,117628,1996,http://content9.flixster.com/movie/27/16/271699_det.jpg
+805,A Time to Kill,117913,1996,http://content8.flixster.com/movie/10/86/86/10868614_det.jpg
+806,American Buffalo,115530,1996,http://content8.flixster.com/movie/10/87/71/10877182_det.jpg
+807,Les rendez-vous de Paris,114266,1995,http://content8.flixster.com/movie/11/13/71/11137142_det.jpg
+808,"Mystery, Alaska",134618,1999,http://content6.flixster.com/movie/26/75/267504_det.jpg
+809,Fled,116320,1996,http://content9.flixster.com/movie/28/22/282227_det.jpg
+810,Kazaam,116756,1996,http://content6.flixster.com/movie/26/47/264728_det.jpg
+813,Larger Than Life,116823,1996,http://content9.flixster.com/movie/18/83/22/1883227_det.jpg
+814,A Boy Called Hate,112568,1995,http://content6.flixster.com/movie/10/97/39/10973916_det.jpg
+815,Power 98,114170,1996,\N
+818,A Very Brady Sequel,118073,1996,http://content6.flixster.com/movie/10/89/53/10895312_det.jpg
+820,La mort en ce jardin,49521,1956,http://content7.flixster.com/movie/10/84/99/10849941_det.jpg
+821,The Crude Oasis,112746,1995,http://content9.flixster.com/movie/10/89/37/10893795_det.jpg
+823,La collectionneuse,61495,1967,http://content6.flixster.com/movie/29/83/298328_det.jpg
+824,Jeder fÃ¼r sich und Gott gegen alle,71691,1974,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+827,O Convento,112716,1995,http://content6.flixster.com/movie/10/85/90/10859028_det.jpg
+828,The Adventures of Pinocchio,115472,1996,http://content6.flixster.com/movie/10/86/08/10860880_det.jpg
+829,Joe's Apartment,116707,1996,http://content9.flixster.com/movie/11/15/13/11151375_det.jpg
+830,The First Wives Club,116313,1996,http://content9.flixster.com/movie/25/55/255511_det.jpg
+831,Stonewall,114550,1995,http://content9.flixster.com/movie/10/85/48/10854819_det.jpg
+832,Ransom,117438,1996,http://content9.flixster.com/movie/10/91/77/10917783_det.jpg
+833,High School Musical 3: Senior Year,962726,2008,http://content9.flixster.com/movie/10/89/47/10894743_det.jpg
+834,Phat Beach,117332,1996,http://content6.flixster.com/movie/10/85/88/10858856_det.jpg
+835,Foxfire,116353,1996,http://content8.flixster.com/movie/10/87/90/10879038_det.jpg
+836,Chain Reaction,115857,1996,http://content8.flixster.com/movie/10/94/13/10941374_det.jpg
+837,Matilda,117008,1996,http://content6.flixster.com/movie/10/88/58/10885848_det.jpg
+838,Emma,116191,1996,http://content7.flixster.com/movie/73/95/22/7395229_det.jpg
+839,The Crow: City of Angels,115986,1996,http://content6.flixster.com/movie/10/93/21/10932152_det.jpg
+840,House Arrest,116571,1996,http://content9.flixster.com/movie/55/06/07/5506075_det.jpg
+841,Les yeux sans visage,53459,1960,http://content9.flixster.com/movie/10/85/78/10857831_det.jpg
+842,Bordello of Blood,117826,1996,http://content8.flixster.com/movie/10/88/79/10887978_det.jpg
+844,Xinghua san yue tian,108227,1994,http://content6.flixster.com/movie/10/97/41/10974180_det.jpg
+845,Tian guo ni zi,111424,1994,http://content9.flixster.com/movie/10/97/43/10974335_det.jpg
+846,Flirt,113080,1995,http://content7.flixster.com/movie/10/88/38/10883881_det.jpg
+847,The Big Squeeze,115680,1996,http://content8.flixster.com/movie/10/85/19/10851946_det.jpg
+848,The Spitfire Grill,117718,1996,http://content8.flixster.com/movie/10/88/20/10882010_det.jpg
+849,Escape from L.A.,116225,1996,http://content9.flixster.com/movie/27/26/272607_det.jpg
+850,Xich lo,112767,1995,http://content6.flixster.com/movie/29/56/295620_det.jpg
+851,Basquiat,115632,1996,http://content6.flixster.com/movie/10/85/19/10851952_det.jpg
+852,Tin Cup,117918,1996,http://content9.flixster.com/movie/26/86/268607_det.jpg
+853,Evil Angels,94924,1988,http://content6.flixster.com/movie/26/47/264712_det.jpg
+858,The Godfather,68646,1972,http://content9.flixster.com/movie/11/12/76/11127687_det.jpg
+860,Der bewegte Mann,109255,1994,http://content7.flixster.com/movie/10/85/95/10859537_det.jpg
+861,Ging chat goo si 3: Chiu kup ging chat,104558,1992,http://content9.flixster.com/movie/10/86/39/10863979_det.jpg
+862,Manny & Lo,116985,1996,http://content7.flixster.com/movie/10/86/80/10868093_det.jpg
+864,The Time Traveler's Wife,452694,2009,http://content7.flixster.com/movie/10/92/43/10924397_det.jpg
+865,Small Faces,114474,1996,http://content6.flixster.com/movie/10/93/94/10939484_det.jpg
+866,Bound,115736,1996,http://content7.flixster.com/movie/60/48/98/6048989_det.jpg
+867,Carpool,115836,1996,http://content7.flixster.com/movie/10/52/89/10528985_det.jpg
+868,Death in Brunswick,101692,1991,http://content6.flixster.com/movie/21/54/85/2154856_det.jpg
+869,Kansas City,116745,1996,http://content8.flixster.com/movie/28/25/282598_det.jpg
+870,Gone Fishin',119214,1997,http://content6.flixster.com/movie/10/94/35/10943536_det.jpg
+872,Ai qing wan sui,109066,1994,http://content7.flixster.com/movie/30/50/305029_det.jpg
+875,Nothing to Lose,119807,1997,http://content7.flixster.com/movie/10/45/21/10452197_det.jpg
+876,Chao ji ji hua,106544,1993,http://content6.flixster.com/movie/28/07/280704_det.jpg
+877,Girls Town,116418,1996,http://content9.flixster.com/movie/66/25/56/6625567_det.jpg
+879,The Relic,120004,1997,http://content8.flixster.com/movie/63/26/07/6326074_det.jpg
+880,The Island of Dr. Moreau,116654,1996,http://content7.flixster.com/movie/28/70/287025_det.jpg
+881,First Kid,116311,1996,http://content9.flixster.com/movie/26/04/260491_det.jpg
+882,The Trigger Effect,117965,1996,http://content7.flixster.com/movie/27/74/277421_det.jpg
+884,Sweet Nothing in My Ear,1158793,2008,http://content7.flixster.com/movie/10/89/53/10895381_det.jpg
+885,Bill & Ted's Bogus Journey,101452,1991,http://content9.flixster.com/movie/10/88/19/10881967_det.jpg
+886,Bulletproof Monk,245803,2003,http://content8.flixster.com/movie/10/88/61/10886106_det.jpg
+887,Talk of Angels,120271,1998,http://content9.flixster.com/movie/28/97/76/2897767_det.jpg
+888,The Land Before Time III: The Time of the Great Giving,113596,1995,http://content7.flixster.com/movie/10/92/43/10924385_det.jpg
+889,Miami Vice,430357,2006,http://content8.flixster.com/movie/78/65/786578_det.jpg
+891,Halloween: The Curse of Michael Myers,113253,1995,http://content6.flixster.com/movie/97/82/14/9782144_det.jpg
+892,Twelfth Night,117991,1996,http://content9.flixster.com/movie/10/89/35/10893535_det.jpg
+893,Mother Night,117093,1996,http://content9.flixster.com/movie/10/92/33/10923347_det.jpg
+896,Les roseaux sauvages,111019,1994,http://content8.flixster.com/movie/11/12/23/11122346_det.jpg
+897,For Whom the Bell Tolls,35896,1943,http://content7.flixster.com/movie/29/51/295129_det.jpg
+898,The Philadelphia Story,32904,1940,http://content7.flixster.com/movie/10/08/01/10080157_det.jpg
+899,Singin' in the Rain,45152,1952,http://content7.flixster.com/movie/10/93/77/10937761_det.jpg
+900,An American in Paris,43278,1951,http://content6.flixster.com/movie/10/85/50/10855056_det.jpg
+901,Funny Face,50419,1957,http://content8.flixster.com/movie/10/88/03/10880354_det.jpg
+902,Breakfast at Tiffany's,54698,1961,http://content9.flixster.com/movie/28/57/285711_det.jpg
+903,Vertigo,52357,1958,http://content6.flixster.com/movie/57/58/575852_det.jpg
+904,Rear Window,47396,1954,http://content6.flixster.com/movie/89/52/98/8952988_det.jpg
+905,It Happened One Night,25316,1934,http://content8.flixster.com/movie/29/14/291410_det.jpg
+906,Gaslight,36855,1944,http://content8.flixster.com/movie/10/85/60/10856082_det.jpg
+907,The Gay Divorcee,25164,1934,http://content8.flixster.com/movie/37/40/82/3740826_det.jpg
+908,North by Northwest,53125,1959,http://content9.flixster.com/movie/10/93/42/10934207_det.jpg
+909,The Apartment,53604,1960,http://content8.flixster.com/movie/11/15/13/11151366_det.jpg
+910,Some Like It Hot,53291,1959,http://content9.flixster.com/movie/10/55/31/10553171_det.jpg
+911,Charade,56923,1963,http://content6.flixster.com/movie/40/80/61/4080612_det.jpg
+912,Casablanca,34583,1942,http://content9.flixster.com/movie/10/84/88/10848811_det.jpg
+913,The Maltese Falcon,33870,1941,http://content9.flixster.com/movie/10/87/69/10876999_det.jpg
+914,My Fair Lady,58385,1964,http://content8.flixster.com/movie/10/93/43/10934366_det.jpg
+915,Sabrina,47437,1954,http://content7.flixster.com/movie/10/93/36/10933669_det.jpg
+916,Roman Holiday,46250,1953,http://content6.flixster.com/movie/29/08/290804_det.jpg
+917,A Little Princess,113670,1995,http://content6.flixster.com/movie/29/07/290716_det.jpg
+918,Meet Me in St. Louis,37059,1944,http://content9.flixster.com/movie/53/80/62/5380627_det.jpg
+919,The Wizard of Oz,32138,1939,http://content6.flixster.com/movie/25/30/253028_det.jpg
+920,Gone with the Wind,31381,1939,http://content9.flixster.com/movie/10/93/18/10931807_det.jpg
+921,My Favorite Year,84370,1982,http://content7.flixster.com/movie/10/92/21/10922157_det.jpg
+922,Sunset Blvd.,43014,1950,http://content7.flixster.com/movie/10/88/29/10882989_det.jpg
+923,Citizen Kane,33467,1941,http://content7.flixster.com/movie/10/93/41/10934161_det.jpg
+924,2001: A Space Odyssey,62622,1968,http://content6.flixster.com/movie/10/87/27/10872760_det.jpg
+925,Golden Earrings,39428,1947,http://content7.flixster.com/movie/10/86/24/10862449_det.jpg
+926,All About Eve,42192,1950,http://content8.flixster.com/movie/10/95/54/10955402_det.jpg
+927,The Women,430770,2008,http://content6.flixster.com/movie/10/85/30/10853064_det.jpg
+928,Rebecca,32976,1940,http://content9.flixster.com/movie/28/61/286199_det.jpg
+929,Foreign Correspondent,32484,1940,http://content9.flixster.com/movie/99/05/70/9905707_det.jpg
+930,Notorious,472198,2009,http://content8.flixster.com/movie/10/88/40/10884038_det.jpg
+931,Spellbound,38109,1945,http://content7.flixster.com/movie/10/93/88/10938881_det.jpg
+932,An Affair to Remember,50105,1957,http://content6.flixster.com/movie/30/79/307928_det.jpg
+933,To Catch a Thief,48728,1955,http://content7.flixster.com/movie/10/93/55/10935581_det.jpg
+934,Father of the Bride,101862,1991,http://content9.flixster.com/movie/25/83/258323_det.jpg
+935,The Band Wagon,45537,1953,http://content8.flixster.com/movie/10/93/42/10934214_det.jpg
+936,Ninotchka,31725,1939,http://content9.flixster.com/movie/97/89/92/9789927_det.png
+937,Love in the Afternoon,50658,1957,http://content8.flixster.com/movie/29/21/292126_det.jpg
+938,Gigi,51658,1958,http://content8.flixster.com/movie/10/88/00/10880022_det.jpg
+939,The Reluctant Debutante,52126,1958,http://content8.flixster.com/movie/51/06/96/5106962_det.jpg
+940,The Adventures of Robin Hood,29843,1938,http://content9.flixster.com/movie/11/14/22/11142287_det.jpg
+941,The Mask of Zorro,120746,1998,http://content8.flixster.com/movie/75/96/759614_det.jpg
+942,Laura,37008,1944,http://content8.flixster.com/movie/29/04/290494_det.jpg
+943,The Ghost and Mrs. Muir,39420,1947,http://content8.flixster.com/movie/10/85/60/10856078_det.jpg
+944,Lost Horizon,29162,1937,http://content7.flixster.com/movie/98/97/81/9897817_det.jpg
+945,Top Hat,27125,1935,http://content9.flixster.com/movie/10/13/03/10130383_det.jpg
+946,To Be or Not to Be,35446,1942,http://content8.flixster.com/movie/91/04/09/9104098_det.jpg
+947,My Man Godfrey,28010,1936,http://content7.flixster.com/movie/31/11/311193_det.jpg
+948,Giant,49261,1956,http://content9.flixster.com/movie/60/48/83/6048835_det.jpg
+949,East of Eden,48028,1955,http://content7.flixster.com/movie/10/93/17/10931781_det.jpg
+950,The Thin Man,25878,1934,http://content6.flixster.com/movie/10/43/19/10431924_det.jpg
+951,His Girl Friday,32599,1940,http://content9.flixster.com/movie/10/93/46/10934643_det.jpg
+952,Around the World in 80 Days,327437,2004,http://content7.flixster.com/movie/11/14/86/11148613_det.jpg
+953,It's a Wonderful Life,38650,1946,http://content9.flixster.com/movie/29/04/290427_det.jpg
+954,Mr. Smith Goes to Washington,31679,1939,http://content8.flixster.com/movie/10/86/77/10867718_det.jpg
+955,Bringing Up Baby,29947,1938,http://content7.flixster.com/movie/10/85/69/10856933_det.jpg
+956,Penny Serenade,34012,1941,http://content7.flixster.com/movie/28/93/289325_det.jpg
+957,The Scarlet Letter,114345,1995,http://content7.flixster.com/movie/10/86/16/10861633_det.jpg
+958,Lady of Burlesque,36094,1943,http://content8.flixster.com/movie/10/83/91/10839118_det.jpg
+959,Of Human Bondage,25586,1934,http://content6.flixster.com/movie/11/13/92/11139204_det.jpg
+960,Angel on My Shoulder,38300,1946,http://content9.flixster.com/movie/10/39/82/10398203_det.jpg
+961,Little Lord Fauntleroy,27893,1936,http://content9.flixster.com/movie/49/60/85/4960855_det.jpg
+963,The Inspector General,41509,1949,http://content8.flixster.com/movie/28/75/287514_det.jpg
+964,Angel and the Badman,39152,1947,http://content6.flixster.com/movie/10/91/88/10918872_det.jpg
+965,The 39 Steps,26029,1935,http://content6.flixster.com/movie/10/87/29/10872908_det.jpg
+966,A Walk in the Sun,38235,1945,http://content8.flixster.com/movie/10/84/92/10849294_det.jpg
+967,Outlaw,758771,2007,http://content7.flixster.com/movie/10/86/83/10868301_det.jpg
+968,Night of the Living Dead,63350,1968,http://content6.flixster.com/movie/10/91/62/10916208_det.jpg
+969,The African Queen,43265,1951,http://content7.flixster.com/movie/20/48/78/2048785_det.jpg
+970,Beat the Devil,46414,1953,http://content6.flixster.com/movie/31/14/311416_det.jpg
+971,Cat on a Hot Tin Roof,51459,1958,http://content9.flixster.com/movie/30/75/307523_det.jpg
+972,The Last Time I Saw Paris,47162,1954,http://content9.flixster.com/movie/10/87/75/10877599_det.jpg
+973,Meet John Doe,33891,1941,http://content8.flixster.com/movie/30/06/300618_det.jpg
+974,La battaglia di Algeri,58946,1966,http://content9.flixster.com/movie/10/94/26/10942603_det.jpg
+976,A Farewell to Arms,22879,1932,http://content6.flixster.com/movie/10/90/60/10906004_det.jpg
+980,Huang jia shi jie,93229,1985,http://content7.flixster.com/movie/35/59/28/3559281_det.jpg
+981,On Dangerous Ground,43879,1952,http://content8.flixster.com/movie/28/52/91/2852910_det.jpg
+982,Picnic,48491,1955,http://content8.flixster.com/movie/25/80/258002_det.jpg
+983,Madagascar Skin,113730,1995,http://content6.flixster.com/movie/10/83/80/10838088_det.jpg
+984,The Pompatus of Love,117357,1995,http://content7.flixster.com/movie/10/85/36/10853669_det.jpg
+985,Small Wonder,88610,1985,\N
+986,Fly Away Home,116329,1996,http://content6.flixster.com/movie/26/54/265420_det.jpg
+987,Bliss,118742,1997,http://content8.flixster.com/movie/27/47/274702_det.jpg
+988,Grace of My Heart,116442,1996,http://content9.flixster.com/movie/27/44/274423_det.jpg
+989,Schlafes Bruder,114354,1995,http://content7.flixster.com/movie/10/97/64/10976437_det.jpg
+990,Maximum Risk,117011,1996,http://content9.flixster.com/movie/27/74/277423_det.jpg
+991,Michael Collins,117039,1996,http://content8.flixster.com/movie/26/86/268618_det.jpg
+992,The Rich Man's Wife,117473,1996,http://content7.flixster.com/movie/28/19/281925_det.jpg
+993,Infinity,116635,1996,http://content7.flixster.com/movie/26/46/264697_det.jpg
+994,Big Night,115678,1996,http://content7.flixster.com/movie/10/87/40/10874069_det.jpg
+996,Last Man Standing,116830,1996,http://content7.flixster.com/movie/10/94/88/10948865_det.jpg
+997,Caught,115847,1996,http://content9.flixster.com/movie/28/09/280923_det.jpg
+998,Set It Off,117603,1996,http://content8.flixster.com/movie/26/90/269030_det.jpg
+999,2 Days in the Valley,115438,1996,http://content6.flixster.com/movie/26/94/269408_det.jpg
+1000,Curdled,115994,1996,http://content9.flixster.com/movie/43/21/04/4321043_det.jpg
+1001,The Associate,115580,1996,http://content7.flixster.com/movie/25/98/259813_det.jpg
+1002,Ed's Next Move,116167,1996,http://content8.flixster.com/movie/10/85/80/10858018_det.jpg
+1003,Extreme Measures,116259,1996,http://content7.flixster.com/movie/28/29/282909_det.jpg
+1004,The Glimmer Man,116421,1996,http://content7.flixster.com/movie/27/22/272217_det.jpg
+1005,D3: The Mighty Ducks,116000,1996,http://content7.flixster.com/movie/26/31/263193_det.jpg
+1006,The Chamber,115862,1996,http://content7.flixster.com/movie/10/88/80/10888009_det.jpg
+1007,The Apple Dumpling Gang,72653,1975,http://content8.flixster.com/movie/25/12/251202_det.jpg
+1008,"Davy Crockett, King of the Wild Frontier",47977,1955,http://content7.flixster.com/movie/11/14/51/11145149_det.jpg
+1009,Escape to Witch Mountain,72951,1975,http://content8.flixster.com/movie/10/89/29/10892994_det.jpg
+1010,The Love Bug,64603,1968,http://content8.flixster.com/movie/25/11/251198_det.jpg
+1011,Herbie Rides Again,71607,1974,http://content8.flixster.com/movie/25/21/252102_det.jpg
+1012,Old Yeller,50798,1957,http://content8.flixster.com/movie/10/94/43/10944394_det.jpg
+1013,The Parent Trap,120783,1998,http://content9.flixster.com/movie/10/88/10/10881003_det.jpg
+1014,Pollyanna,54195,1960,http://content7.flixster.com/movie/25/10/251005_det.jpg
+1015,Homeward Bound: The Incredible Journey,107131,1993,http://content8.flixster.com/movie/10/91/53/10915370_det.jpg
+1016,The Shaggy Dog,393735,2006,http://content9.flixster.com/movie/10/89/84/10898411_det.jpg
+1017,Swiss Family Robinson,54357,1960,http://content8.flixster.com/movie/10/86/95/10869530_det.jpg
+1018,That Darn Cat,120317,1997,http://content6.flixster.com/movie/10/86/44/10864404_det.jpg
+1019,20000 Leagues Under the Sea,46672,1954,http://content6.flixster.com/movie/11/14/17/11141728_det.jpg
+1020,Cool Runnings,106611,1993,http://content8.flixster.com/movie/25/47/254718_det.jpg
+1021,Angels in the Outfield,43286,1951,http://content8.flixster.com/movie/10/89/81/10898186_det.jpg
+1022,Cinderella,42332,1950,http://content9.flixster.com/movie/25/06/250619_det.jpg
+1023,Winnie the Pooh and the Blustery Day,63819,1968,\N
+1024,The Three Caballeros,38166,1944,http://content9.flixster.com/movie/10/88/70/10887063_det.jpg
+1025,The Sword in the Stone,57546,1963,http://content6.flixster.com/movie/25/07/250724_det.jpg
+1026,So Dear to My Heart,41890,1948,http://content8.flixster.com/movie/56/75/49/5675490_det.jpg
+1027,Robin Hood: Prince of Thieves,102798,1991,http://content6.flixster.com/movie/10/93/73/10937328_det.jpg
+1028,Mary Poppins,58331,1964,http://content6.flixster.com/movie/62/99/53/6299532_det.jpg
+1029,Dumbo,33563,1941,http://content8.flixster.com/movie/10/83/83/10838302_det.jpg
+1030,Pete's Dragon,76538,1977,http://content6.flixster.com/movie/25/09/250924_det.jpg
+1031,Bedknobs and Broomsticks,66817,1971,http://content6.flixster.com/movie/11/15/24/11152484_det.jpg
+1032,Alice in Wonderland,43274,1951,http://content8.flixster.com/movie/10/83/99/10839910_det.jpg
+1033,The Fox and the Hound,82406,1981,http://content8.flixster.com/movie/10/84/96/10849638_det.jpg
+1034,Freeway,116361,1996,http://content7.flixster.com/movie/27/08/270821_det.jpg
+1035,The Sound of Music,59742,1965,http://content6.flixster.com/movie/35/91/82/3591824_det.jpg
+1036,Die Hard,95016,1988,http://content8.flixster.com/movie/10/93/34/10933490_det.gif
+1037,The Lawnmower Man,104692,1992,http://content8.flixster.com/movie/10/85/16/10851698_det.jpg
+1038,Unhook the Stars,118044,1996,http://content9.flixster.com/movie/27/66/276699_det.jpg
+1039,Synthetic Pleasures,114597,1995,http://content7.flixster.com/movie/10/97/63/10976305_det.jpg
+1040,Secret Agent,28231,1936,http://content8.flixster.com/movie/10/35/29/10352954_det.jpg
+1041,Secrets & Lies,117589,1996,http://content6.flixster.com/movie/10/86/84/10868484_det.jpg
+1042,That Thing You Do!,117887,1996,http://content9.flixster.com/movie/10/89/08/10890851_det.jpg
+1043,To Gillian on Her 37th Birthday,117924,1996,http://content9.flixster.com/movie/26/66/266615_det.jpg
+1044,Surviving Picasso,117791,1996,http://content8.flixster.com/movie/74/43/17/7443178_det.jpg
+1045,Love Is All There Is,116928,1996,http://content6.flixster.com/movie/27/61/276104_det.jpg
+1046,Beautiful Thing,115640,1996,http://content8.flixster.com/movie/26/94/269414_det.jpg
+1047,The Long Kiss Goodnight,116908,1996,http://content8.flixster.com/movie/59/86/77/5986778_det.jpg
+1049,The Ghost and the Darkness,116409,1996,http://content9.flixster.com/movie/10/86/46/10864623_det.jpg
+1050,Looking for Richard,116913,1996,http://content6.flixster.com/movie/10/91/36/10913644_det.jpg
+1051,Trees Lounge,117958,1996,http://content9.flixster.com/movie/28/39/283995_det.jpg
+1053,Normal Life,117202,1996,http://content7.flixster.com/movie/10/88/24/10882453_det.jpg
+1054,Get on the Bus,116404,1996,http://content6.flixster.com/movie/10/86/99/10869944_det.jpg
+1055,Shadow Conspiracy,120107,1997,http://content9.flixster.com/movie/31/37/313791_det.jpg
+1056,Jude,116722,1996,http://content9.flixster.com/movie/27/59/275991_det.jpg
+1057,Everyone Says I Love You,116242,1996,http://content6.flixster.com/movie/10/89/31/10893116_det.jpg
+1058,AzÃºcar amarga,115600,1996,http://content9.flixster.com/movie/10/91/32/10913275_det.jpg
+1059,Romeo + Juliet,117509,1996,http://content6.flixster.com/movie/10/85/38/10853892_det.jpg
+1060,Swingers,117802,1996,http://content9.flixster.com/movie/11/12/17/11121759_det.jpg
+1061,Sleepers,117665,1996,http://content9.flixster.com/movie/27/01/270111_det.jpg
+1062,The Sunchaser,117781,1996,http://content8.flixster.com/movie/83/85/33/8385330_det.jpg
+1063,Indiana Jones and the Last Crusade,97576,1989,http://content7.flixster.com/movie/10/91/96/10919621_det.jpg
+1064,Aladdin and the King of Thieves,115491,1995,http://content6.flixster.com/movie/10/93/64/10936432_det.jpg
+1066,Shall We Dance,358135,2004,http://content9.flixster.com/movie/10/84/66/10846607_det.jpg
+1067,A Damsel in Distress,28757,1937,http://content9.flixster.com/movie/10/87/43/10874351_det.jpg
+1068,Crossfire,39286,1947,http://content7.flixster.com/movie/11/12/18/11121857_det.jpg
+1069,"Murder, My Sweet",37101,1944,http://content6.flixster.com/movie/10/89/53/10895388_det.jpg
+1070,Macao,44863,1952,http://content6.flixster.com/movie/10/92/51/10925124_det.jpg
+1071,For the Moment,109823,1993,http://content6.flixster.com/movie/10/88/39/10883976_det.jpg
+1073,Willy Wonka & the Chocolate Factory,67992,1971,http://content9.flixster.com/movie/25/32/253203_det.jpg
+1076,The Innocents,55018,1961,http://content7.flixster.com/movie/28/56/285693_det.jpg
+1077,Sleeper,70707,1973,http://content8.flixster.com/movie/25/67/256722_det.jpg
+1078,Bananas,66808,1971,http://content8.flixster.com/movie/10/90/14/10901434_det.jpg
+1079,A Fish Called Wanda,95159,1988,http://content9.flixster.com/movie/26/75/267511_det.jpg
+1080,Life of Brian,79470,1979,http://content7.flixster.com/movie/10/94/54/10945437_det.jpg
+1081,Victor Victoria,84865,1982,http://content6.flixster.com/movie/25/53/255300_det.jpg
+1082,The Manchurian Candidate,56218,1962,http://content7.flixster.com/movie/26/56/265601_det.jpg
+1083,The Great Race,59243,1965,http://content6.flixster.com/movie/10/88/81/10888116_det.jpg
+1084,Bonnie and Clyde,61418,1967,http://content6.flixster.com/movie/11/14/98/11149888_det.jpg
+1085,The Old Man and the Sea,52027,1958,http://content8.flixster.com/movie/10/88/22/10882258_det.jpg
+1086,Dial M for Murder,46912,1954,http://content7.flixster.com/movie/10/86/71/10867193_det.jpg
+1087,M. Butterfly,107468,1993,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+1088,Dirty Dancing,92890,1987,http://content6.flixster.com/movie/10/91/46/10914656_det.jpg
+1089,Reservoir Dogs,105236,1992,http://content6.flixster.com/movie/10/83/91/10839128_det.jpg
+1090,Platoon,91763,1986,http://content7.flixster.com/movie/10/86/50/10865025_det.jpg
+1091,Weekend at Bernie's,98627,1989,http://content9.flixster.com/movie/10/88/30/10883063_det.jpg
+1092,Basic Instinct,103772,1992,http://content7.flixster.com/movie/28/33/283309_det.jpg
+1093,The Doors,101761,1991,http://content7.flixster.com/movie/28/48/284817_det.jpg
+1094,The Crying Game,104036,1992,http://content7.flixster.com/movie/27/86/278613_det.jpg
+1095,Glengarry Glen Ross,104348,1992,http://content6.flixster.com/movie/10/93/46/10934652_det.jpg
+1096,Sophie's Choice,84707,1982,http://content6.flixster.com/movie/10/88/09/10880940_det.jpg
+1097,E.T.: The Extra-Terrestrial,83866,1982,http://content8.flixster.com/movie/16/90/48/1690482_det.jpg
+1098,The Search for One-eye Jimmy,117577,1994,http://content9.flixster.com/movie/35/55/91/3555915_det.jpg
+1099,A Christmas Carol,87056,1984,http://content9.flixster.com/movie/10/99/61/10996135_det.jpg
+1100,Days of Thunder,99371,1990,http://content9.flixster.com/movie/25/70/257091_det.jpg
+1101,Top Gun,92099,1986,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+1102,American Strays,115531,1996,http://content6.flixster.com/movie/11/15/11/11151128_det.jpg
+1103,Rebel Without a Cause,48545,1955,http://content7.flixster.com/movie/10/87/09/10870961_det.jpg
+1104,A Streetcar Named Desire,44081,1951,http://content6.flixster.com/movie/25/45/254524_det.jpg
+1105,Children of the Corn: The Gathering,115885,1996,http://content8.flixster.com/movie/10/91/84/10918478_det.jpg
+1107,Loser,217630,2000,http://content7.flixster.com/movie/26/34/263425_det.jpg
+1111,Microcosmos: Le peuple de l'herbe,117040,1996,http://content9.flixster.com/movie/10/86/09/10860943_det.jpg
+1112,Palookaville,117284,1995,http://content7.flixster.com/movie/28/19/281993_det.jpg
+1113,The Associate,115580,1996,http://content7.flixster.com/movie/25/98/259813_det.jpg
+1114,The Funeral,116378,1996,http://content7.flixster.com/movie/28/48/284821_det.jpg
+1115,Sleepover,368975,2004,http://content6.flixster.com/movie/10/94/27/10942700_det.jpg
+1116,La fille seule,113057,1995,http://content6.flixster.com/movie/10/89/99/10899968_det.jpg
+1117,Le huitiÃ¨me jour,116581,1996,http://content6.flixster.com/movie/19/57/20/1957200_det.jpg
+1119,Punch-Drunk Love,272338,2002,http://content7.flixster.com/movie/27/01/270105_det.jpg
+1120,The People vs. Larry Flynt,117318,1996,http://content9.flixster.com/movie/27/96/279603_det.jpg
+1121,Glory Daze,116422,1995,http://content8.flixster.com/movie/28/01/280106_det.jpg
+1123,A Perfect Candidate,117320,1996,http://content7.flixster.com/movie/30/24/302417_det.jpg
+1124,On Golden Pond,82846,1981,http://content7.flixster.com/movie/26/46/264625_det.jpg
+1125,The Return of the Pink Panther,72081,1975,http://content7.flixster.com/movie/10/87/22/10872257_det.jpg
+1126,Drop Dead Fred,101775,1991,http://content7.flixster.com/movie/25/58/255809_det.jpg
+1127,The Abyss,96754,1989,http://content7.flixster.com/movie/26/41/264193_det.jpg
+1128,The Fog,432291,2005,http://content7.flixster.com/movie/25/03/250317_det.jpg
+1129,Escape from New York,82340,1981,http://content8.flixster.com/movie/27/30/273002_det.jpg
+1130,The Howling,82533,1981,http://content6.flixster.com/movie/28/39/283992_det.jpg
+1131,Jean de Florette,91288,1986,http://content8.flixster.com/movie/25/83/258318_det.jpg
+1132,Manon des sources,91480,1986,http://content6.flixster.com/movie/10/94/69/10946936_det.jpg
+1133,Kinsey,362269,2004,http://content6.flixster.com/movie/10/94/53/10945324_det.jpg
+1135,Private Benjamin,81375,1980,http://content6.flixster.com/movie/27/50/275008_det.jpg
+1136,Monty Python and the Holy Grail,71853,1975,http://content7.flixster.com/movie/26/07/260725_det.jpg
+1137,Hustler White,116587,1996,http://content7.flixster.com/movie/28/80/288093_det.jpg
+1138,Dadetown,112777,1995,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+1139,Everything Relative,116245,1996,http://content8.flixster.com/movie/10/88/06/10880662_det.jpg
+1140,Entertaining Angels: The Dorothy Day Story,116212,1996,http://content8.flixster.com/movie/35/32/07/3532074_det.jpg
+1142,Get Over It,192071,2001,http://content9.flixster.com/movie/10/87/96/10879663_det.jpg
+1143,Trois vies & une seule mort,117968,1996,http://content7.flixster.com/movie/83/72/46/8372465_det.jpg
+1144,The Line King: The Al Hirschfeld Story,116886,1996,http://content8.flixster.com/movie/10/85/81/10858174_det.jpg
+1146,Curtis's Charm,112759,1995,\N
+1147,When We Were Kings,118147,1996,http://content7.flixster.com/movie/10/92/29/10922993_det.jpg
+1148,Wallace & Gromit in The Wrong Trousers,108598,1993,http://content9.flixster.com/movie/74/28/86/7428867_det.jpg
+1149,JLG/JLG - autoportrait de dÃ©cembre,110173,1994,\N
+1150,Le retour de Martin Guerre,84589,1982,http://content9.flixster.com/movie/29/94/299491_det.jpg
+1151,Faust: Love of the Damned,223268,2000,http://content7.flixster.com/movie/10/90/86/10908669_det.jpg
+1152,He Walked by Night,40427,1948,http://content8.flixster.com/movie/10/33/53/10335338_det.jpg
+1153,Raw Deal,91828,1986,http://content7.flixster.com/movie/10/87/80/10878017_det.jpg
+1154,T-Men,39881,1947,http://content7.flixster.com/movie/34/90/10/3490101_det.jpg
+1156,I bambini ci guardano,34493,1944,http://content7.flixster.com/movie/10/93/91/10939149_det.jpg
+1157,La symphonie pastorale,39004,1946,http://content7.flixster.com/movie/10/86/41/10864137_det.jpg
+1161,Die Blechtrommel,78875,1979,http://content7.flixster.com/movie/10/86/23/10862349_det.jpg
+1162,The Ruling Class,69198,1972,http://content8.flixster.com/movie/28/04/280402_det.jpg
+1163,Mina Tannenbaum,110521,1994,http://content8.flixster.com/movie/10/54/46/10544670_det.jpg
+1164,2 ou 3 choses que je sais d'elle,60304,1967,http://content9.flixster.com/movie/55/83/45/5583455_det.jpg
+1167,Dear God,116059,1996,http://content6.flixster.com/movie/10/91/90/10919008_det.jpg
+1168,Bad Moon,115610,1996,http://content9.flixster.com/movie/27/37/273711_det.jpg
+1169,"Hollywoodism: Jews, Movies and the American Dream",141163,1998,\N
+1170,Best of the Best 3: No Turning Back,112483,1995,http://content6.flixster.com/movie/11/14/40/11144072_det.jpg
+1171,Bob Roberts,103850,1992,http://content6.flixster.com/movie/10/91/75/10917528_det.jpg
+1172,Nuovo Cinema Paradiso,95765,1988,http://content9.flixster.com/movie/11/12/58/11125855_det.jpg
+1173,The Cook the Thief His Wife & Her Lover,97108,1989,http://content6.flixster.com/movie/27/68/276824_det.jpg
+1174,Grosse fatigue,109942,1994,http://content8.flixster.com/movie/10/85/01/10850122_det.jpg
+1175,Delicatessen,101700,1991,http://content6.flixster.com/movie/21/65/51/2165516_det.jpg
+1176,La double vie de VÃ©ronique,101765,1991,http://content8.flixster.com/movie/10/94/04/10940458_det.jpg
+1177,Enchanted April,101811,1992,http://content8.flixster.com/movie/10/87/94/10879422_det.jpg
+1178,Paths of Glory,50825,1957,http://content8.flixster.com/movie/28/63/286322_det.jpg
+1179,The Grifters,99703,1990,http://content6.flixster.com/movie/28/29/282900_det.jpg
+1180,Hear My Song,102014,1991,http://content7.flixster.com/movie/44/09/73/4409737_det.jpg
+1183,The English Patient,116209,1996,http://content7.flixster.com/movie/10/88/86/10888661_det.jpg
+1184,Mediterraneo,102426,1991,http://content8.flixster.com/movie/10/05/64/10056494_det.jpg
+1185,My Left Foot: The Story of Christy Brown,97937,1989,http://content6.flixster.com/movie/14/81/63/1481632_det.jpg
+1186,"Sex, Lies, and Videotape",98724,1989,http://content7.flixster.com/movie/27/06/270617_det.jpg
+1187,Passion Fish,105107,1992,http://content6.flixster.com/movie/27/83/278392_det.jpg
+1188,Strictly Ballroom,105488,1992,http://content6.flixster.com/movie/10/84/26/10842624_det.jpg
+1189,The Thin Blue Line,96257,1988,http://content7.flixster.com/movie/29/37/293729_det.jpg
+1190,Ãtame!,101026,1990,http://content8.flixster.com/movie/11/13/35/11133522_det.gif
+1191,Madonna: Truth or Dare,102370,1991,http://content6.flixster.com/movie/26/97/269792_det.jpg
+1192,Paris Is Burning,100332,1990,http://content7.flixster.com/movie/26/93/269309_det.jpg
+1193,One Flew Over the Cuckoo's Nest,73486,1975,http://content6.flixster.com/movie/26/74/267412_det.jpg
+1194,Up in Smoke,78446,1978,http://content9.flixster.com/movie/62/26/95/6226959_det.jpg
+1196,Star Wars: Episode V - The Empire Strikes Back,80684,1980,http://content6.flixster.com/movie/10/94/47/10944712_det.jpg
+1197,The Princess Bride,93779,1987,http://content7.flixster.com/movie/10/92/26/10922677_det.png
+1198,Raiders of the Lost Ark,82971,1981,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+1199,Brazil,88846,1985,http://content8.flixster.com/movie/26/99/269902_det.jpg
+1200,Aliens,90605,1986,http://content6.flixster.com/movie/10/85/78/10857876_det.jpg
+1201,"Il buono, il brutto, il cattivo.",60196,1966,http://content9.flixster.com/movie/10/91/38/10913807_det.jpg
+1202,Withnail & I,94336,1987,http://content6.flixster.com/movie/28/74/287404_det.jpg
+1203,12 Angry Men,50083,1957,http://content8.flixster.com/movie/10/88/47/10884742_det.jpg
+1204,Lawrence of Arabia,56172,1962,http://content6.flixster.com/movie/25/53/255304_det.jpg
+1206,A Clockwork Orange,66921,1971,http://content8.flixster.com/movie/10/85/63/10856338_det.jpg
+1207,To Kill a Mockingbird,56592,1962,http://content6.flixster.com/movie/10/41/76/10417668_det.jpg
+1208,Apocalypse Now,78788,1979,http://content6.flixster.com/movie/11/12/07/11120788_det.jpg
+1209,C'era una volta il West,64116,1968,http://content9.flixster.com/movie/10/88/22/10882283_det.jpg
+1210,Star Wars: Episode VI - Return of the Jedi,86190,1983,http://content7.flixster.com/movie/10/94/47/10944709_det.jpg
+1211,Der Himmel Ã¼ber Berlin,93191,1987,http://content9.flixster.com/movie/25/46/254691_det.jpg
+1212,The Third Man,41959,1949,http://content8.flixster.com/movie/11/14/87/11148754_det.jpg
+1213,Goodfellas,99685,1990,http://content8.flixster.com/movie/10/93/19/10931922_det.jpg
+1214,Alien,78748,1979,http://content7.flixster.com/movie/10/87/47/10874757_det.jpg
+1215,Army of Darkness,106308,1992,http://content6.flixster.com/movie/10/86/53/10865344_det.jpg
+1216,Le grand bleu,95250,1988,http://content9.flixster.com/movie/10/94/57/10945723_det.jpg
+1217,Ran,89881,1985,http://content8.flixster.com/movie/10/89/37/10893702_det.jpg
+1218,Dip huet seung hung,97202,1989,http://content6.flixster.com/movie/29/00/290000_det.jpg
+1219,Psycho,54215,1960,http://content7.flixster.com/movie/68/89/78/6889781_det.jpg
+1220,The Blues Brothers,80455,1980,http://content6.flixster.com/movie/10/84/85/10848572_det.jpg
+1221,The Godfather: Part II,71562,1974,http://content9.flixster.com/movie/26/72/267219_det.jpg
+1222,Full Metal Jacket,93058,1987,http://content8.flixster.com/movie/53/08/530874_det.jpg
+1223,A Grand Day Out with Wallace and Gromit,104361,1989,http://content8.flixster.com/movie/74/28/88/7428882_det.jpg
+1224,Henry V,97499,1989,http://content9.flixster.com/movie/25/39/253911_det.jpg
+1225,Amadeus,86879,1984,http://content6.flixster.com/movie/25/50/255000_det.jpg
+1226,The Quiet Man,45061,1952,http://content8.flixster.com/movie/29/63/296314_det.jpg
+1227,Once Upon a Time in America,87843,1984,http://content7.flixster.com/movie/10/91/75/10917577_det.jpg
+1228,Raging Bull,81398,1980,http://content9.flixster.com/movie/10/93/45/10934583_det.jpg
+1230,Annie Hall,75686,1977,http://content8.flixster.com/movie/10/85/12/10851294_det.jpg
+1231,The Right Stuff,86197,1983,http://content7.flixster.com/movie/58/56/27/5856273_det.jpg
+1232,Stalker,79944,1979,http://content7.flixster.com/movie/29/43/294309_det.jpg
+1233,Das Boot,82096,1981,http://content6.flixster.com/movie/10/92/18/10921888_det.jpg
+1234,The Sting,70735,1973,http://content7.flixster.com/movie/11/11/96/11119697_det.jpg
+1235,Harold and Maude,67185,1971,http://content9.flixster.com/movie/25/38/253827_det.jpg
+1236,Trust the Man,427968,2005,http://content8.flixster.com/movie/21/37/19/2137190_det.jpg
+1237,Det sjunde inseglet,50976,1957,http://content6.flixster.com/movie/10/91/35/10913568_det.jpg
+1238,Local Hero,85859,1983,http://content8.flixster.com/movie/25/52/255294_det.jpg
+1240,Terminator Salvation,438488,2009,http://content8.flixster.com/movie/10/92/76/10927658_det.jpg
+1241,Braindead,103873,1992,http://content6.flixster.com/movie/28/59/285900_det.jpg
+1242,Glory,97441,1989,http://content7.flixster.com/movie/10/86/41/10864113_det.jpg
+1243,Rosencrantz & Guildenstern Are Dead,100519,1990,http://content9.flixster.com/movie/25/43/254319_det.jpg
+1244,Manhattan,79522,1979,http://content7.flixster.com/movie/26/79/267901_det.jpg
+1245,Miller's Crossing,100150,1990,http://content6.flixster.com/movie/26/73/267312_det.jpg
+1246,Dead Poets Society,97165,1989,http://content9.flixster.com/movie/10/58/40/10584083_det.jpg
+1247,The Graduate,61722,1967,http://content8.flixster.com/movie/27/15/271514_det.jpg
+1248,Touch of Evil,52311,1958,http://content8.flixster.com/movie/10/85/14/10851430_det.jpg
+1249,La Femme Nikita,118379,1997,\N
+1250,The Bridge on the River Kwai,50212,1957,http://content7.flixster.com/movie/10/92/73/10927333_det.jpg
+1251,8Â½,56801,1963,http://content9.flixster.com/movie/49/37/75/4937759_det.jpg
+1252,Chinatown,71315,1974,http://content7.flixster.com/movie/10/87/19/10871921_det.jpg
+1253,The Day the Earth Stood Still,43456,1951,http://content7.flixster.com/movie/10/87/31/10873109_det.jpg
+1254,The Treasure of the Sierra Madre,40897,1948,http://content8.flixster.com/movie/89/34/49/8934498_det.jpg
+1255,Bad Taste,92610,1987,http://content8.flixster.com/movie/11/14/76/11147638_det.jpg
+1256,Duck Soup,23969,1933,http://content7.flixster.com/movie/29/49/294993_det.jpg
+1257,Better Off Dead...,88794,1985,http://content7.flixster.com/movie/10/84/19/10841913_det.jpg
+1258,The Shining,81505,1980,http://content8.flixster.com/movie/10/92/96/10929678_det.jpg
+1259,Stand by Me,92005,1986,http://content9.flixster.com/movie/28/31/283115_det.jpg
+1260,M,22100,1931,http://content8.flixster.com/movie/10/85/69/10856942_det.jpg
+1261,Evil Dead II,92991,1987,http://content9.flixster.com/movie/51/02/510275_det.jpg
+1262,The Great Escape,57115,1963,http://content8.flixster.com/movie/10/85/23/10852306_det.jpg
+1263,The Deer Hunter,77416,1978,http://content6.flixster.com/movie/26/75/267592_det.jpg
+1264,Diva,82269,1981,http://content8.flixster.com/movie/10/84/36/10843630_det.jpg
+1265,Groundhog Day,107048,1993,http://content7.flixster.com/movie/26/23/262309_det.jpg
+1266,Unforgiven,105695,1992,http://content9.flixster.com/movie/10/93/21/10932195_det.jpg
+1267,The Manchurian Candidate,56218,1962,http://content7.flixster.com/movie/26/56/265601_det.jpg
+1268,Pump Up the Volume,100436,1990,http://content8.flixster.com/movie/27/20/272094_det.jpg
+1269,Arsenic and Old Lace,36613,1944,http://content8.flixster.com/movie/95/83/75/9583750_det.jpg
+1270,Back to the Future,88763,1985,http://content6.flixster.com/movie/31/17/311700_det.jpg
+1271,Fried Green Tomatoes,101921,1991,http://content7.flixster.com/movie/10/88/22/10882269_det.jpg
+1272,Patton,66206,1970,http://content7.flixster.com/movie/18/68/40/1868409_det.jpg
+1273,Down by Law,90967,1986,http://content8.flixster.com/movie/10/93/40/10934066_det.jpg
+1274,Akira,94625,1988,http://content6.flixster.com/movie/28/40/284000_det.jpg
+1275,Highlander,91203,1986,http://content7.flixster.com/movie/10/94/47/10944769_det.jpg
+1276,Cool Hand Luke,61512,1967,http://content9.flixster.com/movie/29/06/290627_det.jpg
+1277,Cyrano de Bergerac,42367,1950,http://content7.flixster.com/movie/10/93/42/10934285_det.jpg
+1278,Young Frankenstein,72431,1974,http://content6.flixster.com/movie/10/06/45/10064516_det.jpg
+1279,Night on Earth,102536,1991,http://content8.flixster.com/movie/54/92/80/5492802_det.jpg
+1280,Da hong deng long gao gao gua,101640,1991,http://content8.flixster.com/movie/10/89/42/10894258_det.jpg
+1281,The Great Dictator,32553,1940,http://content8.flixster.com/movie/10/93/78/10937802_det.jpg
+1282,Fantasia,32455,1940,http://content7.flixster.com/movie/10/88/07/10880753_det.jpg
+1283,High Noon,44706,1952,http://content7.flixster.com/movie/30/88/308893_det.jpg
+1284,The Big Sleep,38355,1946,http://content9.flixster.com/movie/10/89/25/10892543_det.jpg
+1285,Heathers,97493,1989,http://content7.flixster.com/movie/28/00/280093_det.jpg
+1286,Somewhere in Time,81534,1980,http://content7.flixster.com/movie/10/87/45/10874553_det.jpg
+1287,Ben-Hur,52618,1959,http://content9.flixster.com/movie/10/93/53/10935339_det.jpg
+1288,This Is Spinal Tap,88258,1984,http://content9.flixster.com/movie/28/14/281499_det.jpg
+1289,Koyaanisqatsi,85809,1982,http://content6.flixster.com/movie/28/60/286016_det.jpg
+1290,Some Kind of Wonderful,94006,1987,http://content8.flixster.com/movie/10/84/77/10847746_det.jpg
+1291,Indiana Jones and the Last Crusade,97576,1989,http://content7.flixster.com/movie/10/91/96/10919621_det.jpg
+1292,Being There,78841,1979,http://content6.flixster.com/movie/25/44/254496_det.jpg
+1293,Gandhi,83987,1982,http://content9.flixster.com/movie/10/85/69/10856927_det.jpg
+1295,The Unbearable Lightness of Being,96332,1988,http://content8.flixster.com/movie/27/30/273098_det.jpg
+1296,A Room with a View,91867,1985,http://content6.flixster.com/movie/28/87/288792_det.jpg
+1297,Real Genius,89886,1985,http://content6.flixster.com/movie/25/42/254292_det.jpg
+1298,Pink Floyd The Wall,84503,1982,http://content8.flixster.com/movie/10/87/16/10871678_det.jpg
+1299,The Killing Fields,87553,1984,http://content7.flixster.com/movie/26/93/269393_det.jpg
+1300,Mitt liv som hund,89606,1985,http://content6.flixster.com/movie/26/43/264304_det.jpg
+1301,Forbidden Planet,49223,1956,http://content7.flixster.com/movie/25/08/250801_det.jpg
+1302,Field of Dreams,97351,1989,http://content7.flixster.com/movie/10/84/97/10849709_det.jpg
+1303,The Man Who Would Be King,73341,1975,http://content8.flixster.com/movie/25/47/254722_det.jpg
+1304,Butch Cassidy and the Sundance Kid,64115,1969,http://content6.flixster.com/movie/10/93/10/10931056_det.jpg
+1305,"Paris, Texas",87884,1984,http://content6.flixster.com/movie/10/93/85/10938524_det.jpg
+1306,Bis ans Ende der Welt,101458,1991,http://content8.flixster.com/movie/44/43/77/4443770_det.jpg
+1307,When Harry Met Sally...,98635,1989,http://content6.flixster.com/movie/31/25/312596_det.jpg
+1310,Hype!,116589,1996,http://content6.flixster.com/movie/28/70/287012_det.jpg
+1311,Santa with Muscles,117550,1996,http://content8.flixster.com/movie/10/86/76/10867690_det.jpg
+1312,Female Perversions,116293,1996,http://content9.flixster.com/movie/10/97/76/10977687_det.jpg
+1313,Mad Dog Time,116953,1996,http://content9.flixster.com/movie/11/12/32/11123267_det.jpg
+1314,Breathing Room,1220706,2008,http://content7.flixster.com/movie/10/90/03/10900357_det.jpg
+1317,I'm Not Rappaport,116601,1996,http://content6.flixster.com/movie/26/50/265020_det.jpg
+1318,Blue Juice,112537,1995,http://content7.flixster.com/movie/27/77/277701_det.jpg
+1320,AlienÂ³,103644,1992,http://content9.flixster.com/movie/27/38/273891_det.jpg
+1321,An American Werewolf in London,82010,1981,http://content7.flixster.com/movie/28/37/283709_det.jpg
+1322,Amityville 1992: It's About Time,103678,1992,http://content6.flixster.com/movie/27/25/272500_det.jpg
+1323,Amityville 3-D,85159,1983,http://content7.flixster.com/movie/26/28/262801_det.jpg
+1324,Amityville: Dollhouse,115535,1996,http://content9.flixster.com/movie/27/32/273299_det.jpg
+1325,Amityville: A New Generation,106262,1993,http://content6.flixster.com/movie/10/88/97/10889788_det.jpg
+1326,Amityville II: The Possession,83550,1982,http://content6.flixster.com/movie/63/30/69/6330692_det.jpg
+1327,The Amityville Horror,384806,2005,http://content8.flixster.com/movie/24/97/249734_det.jpg
+1328,The Amityville Curse,99030,1990,http://content7.flixster.com/movie/55/05/10/5505101_det.jpg
+1329,Blood for Dracula,71233,1974,http://content6.flixster.com/movie/10/91/36/10913628_det.jpg
+1330,April Fool's Day,1018817,2008,http://content8.flixster.com/movie/10/92/20/10922090_det.jpg
+1331,Audrey Rose,75704,1977,http://content7.flixster.com/movie/26/14/261405_det.jpg
+1332,Believers,878652,2007,http://content9.flixster.com/movie/10/14/14/10141427_det.jpg
+1333,The Birds,56869,1963,http://content8.flixster.com/movie/10/83/82/10838298_det.jpg
+1334,The Blob,94761,1988,http://content6.flixster.com/movie/27/38/273804_det.jpg
+1335,Blood Beach,82083,1980,http://content9.flixster.com/movie/10/86/83/10868347_det.jpg
+1336,Body Parts,101492,1991,http://content9.flixster.com/movie/10/04/67/10046739_det.jpg
+1337,Invasion of the Body Snatchers,49366,1956,http://content8.flixster.com/movie/10/95/44/10954478_det.jpg
+1339,Dracula,21814,1931,http://content9.flixster.com/movie/29/22/292203_det.jpg
+1340,Bride of Frankenstein,26138,1935,http://content8.flixster.com/movie/30/28/302822_det.jpg
+1341,Burnt Offerings,74258,1976,http://content7.flixster.com/movie/25/77/257797_det.jpg
+1342,Candyman,103919,1992,http://content6.flixster.com/movie/27/80/278008_det.jpg
+1343,Cape Fear,101540,1991,http://content9.flixster.com/movie/10/93/72/10937223_det.jpg
+1344,Cape Fear,101540,1991,http://content9.flixster.com/movie/10/93/72/10937223_det.jpg
+1345,Carrie,74285,1976,http://content9.flixster.com/movie/28/14/281415_det.jpg
+1346,Cat People,83722,1982,http://content8.flixster.com/movie/28/49/284902_det.jpg
+1347,A Nightmare on Elm Street,87800,1984,http://content7.flixster.com/movie/11/12/18/11121889_det.jpg
+1348,"Nosferatu, eine Symphonie des Grauens",13442,1922,http://content9.flixster.com/movie/28/92/289207_det.jpg
+1349,Nosferatu a Venezia,91651,1988,http://content7.flixster.com/movie/10/85/60/10856093_det.jpg
+1350,The Omen,75005,1976,http://content6.flixster.com/movie/10/93/48/10934824_det.jpg
+1351,Blood and Wine,115710,1996,http://content7.flixster.com/movie/10/88/75/10887533_det.jpg
+1352,Albino Alligator,115495,1996,http://content8.flixster.com/movie/10/83/84/10838426_det.jpg
+1353,The Mirror Has Two Faces,117057,1996,http://content6.flixster.com/movie/10/92/03/10920300_det.jpg
+1354,Breaking the Waves,115751,1996,http://content9.flixster.com/movie/10/91/67/10916763_det.jpg
+1355,Nochnoy dozor,403358,2004,http://content8.flixster.com/movie/22/60/07/2260074_det.jpg
+1356,Star Trek: First Contact,117731,1996,http://content9.flixster.com/movie/10/88/85/10888599_det.jpg
+1357,Shine,117631,1996,http://content6.flixster.com/movie/10/95/41/10954120_det.jpg
+1358,Sling Blade,117666,1996,http://content7.flixster.com/movie/10/93/85/10938549_det.jpg
+1359,Jingle All the Way,116705,1996,http://content9.flixster.com/movie/25/51/255123_det.jpg
+1361,Paradise Lost: The Child Murders at Robin Hood Hills,117293,1996,http://content7.flixster.com/movie/11/14/56/11145609_det.jpg
+1363,The Preacher's Wife,117372,1996,http://content7.flixster.com/movie/10/84/31/10843145_det.jpg
+1364,KjÃ¦rlighetens kjÃ¸tere,113557,1995,http://content7.flixster.com/movie/30/86/308629_det.jpg
+1365,Ridicule,117477,1996,http://content8.flixster.com/movie/10/87/61/10876134_det.jpg
+1366,The Crucible,115988,1996,http://content9.flixster.com/movie/10/85/09/10850975_det.jpg
+1367,One Hundred and One Dalmatians,55254,1961,http://content7.flixster.com/movie/10/92/06/10920681_det.jpg
+1369,J'ai pas sommeil,110171,1994,http://content8.flixster.com/movie/10/88/71/10887118_det.jpg
+1370,Die Hard,95016,1988,http://content8.flixster.com/movie/10/93/34/10933490_det.gif
+1371,Star Trek: The Motion Picture,79945,1979,http://content9.flixster.com/movie/25/77/257795_det.jpg
+1372,Star Trek VI: The Undiscovered Country,102975,1991,http://content7.flixster.com/movie/10/88/86/10888601_det.jpg
+1373,Star Trek V: The Final Frontier,98382,1989,http://content9.flixster.com/movie/10/89/11/10891103_det.jpg
+1374,Star Trek: The Wrath of Khan,84726,1982,http://content8.flixster.com/movie/10/88/85/10888590_det.jpg
+1375,Star Trek III: The Search for Spock,88170,1984,http://content6.flixster.com/movie/10/88/86/10888604_det.jpg
+1376,Star Trek IV: The Voyage Home,92007,1986,http://content9.flixster.com/movie/10/88/86/10888603_det.jpg
+1377,Batman Returns,103776,1992,http://content7.flixster.com/movie/56/82/90/5682901_det.jpg
+1378,Young Guns,96487,1988,http://content6.flixster.com/movie/11/14/43/11144324_det.jpg
+1379,Young Guns II,100994,1990,http://content7.flixster.com/movie/11/14/43/11144321_det.jpg
+1380,Grease,77631,1978,http://content8.flixster.com/movie/55/35/45/5535450_det.jpg
+1381,Grease,77631,1978,http://content8.flixster.com/movie/55/35/45/5535450_det.jpg
+1382,Marked for Death,100114,1990,http://content8.flixster.com/movie/27/16/271606_det.jpg
+1383,Adrenalin: Fear the Rush,115471,1996,http://content9.flixster.com/movie/15/97/11/1597119_det.jpg
+1384,The Substance of Fire,117773,1996,http://content7.flixster.com/movie/28/32/283217_det.jpg
+1385,Under Siege,105690,1992,http://content9.flixster.com/movie/27/21/272191_det.jpg
+1386,Terror in a Texas Town,52287,1958,http://content9.flixster.com/movie/10/84/99/10849939_det.jpg
+1387,Jaws,73195,1975,http://content7.flixster.com/movie/10/93/72/10937249_det.jpg
+1388,Jaws,73195,1975,http://content7.flixster.com/movie/10/93/72/10937249_det.jpg
+1389,Jaws 3-D,85750,1983,http://content6.flixster.com/movie/10/93/72/10937248_det.jpg
+1390,My Fellow Americans,117119,1996,http://content6.flixster.com/movie/25/90/259092_det.jpg
+1391,Mars Attacks!,116996,1996,http://content8.flixster.com/movie/10/88/97/10889794_det.jpg
+1392,Citizen Ruth,115906,1996,http://content9.flixster.com/movie/10/89/27/10892735_det.jpg
+1393,Jerry Maguire,116695,1996,http://content9.flixster.com/movie/26/81/268123_det.jpg
+1394,Raising Arizona,93822,1987,http://content9.flixster.com/movie/99/56/74/9956747_det.jpg
+1395,Tin Men,94155,1987,http://content7.flixster.com/movie/26/96/269609_det.jpg
+1396,Sneakers,105435,1992,http://content7.flixster.com/movie/10/51/26/10512625_det.jpg
+1397,Bastard Out of Carolina,115633,1996,http://content8.flixster.com/movie/27/35/273522_det.jpg
+1398,In Love and War,116621,1996,http://content8.flixster.com/movie/26/21/262106_det.jpg
+1399,Marvin's Room,116999,1996,http://content9.flixster.com/movie/10/88/77/10887763_det.jpg
+1401,Ghosts of Mississippi,116410,1996,http://content6.flixster.com/movie/10/88/54/10885484_det.jpg
+1404,Night Falls on Manhattan,119783,1996,http://content8.flixster.com/movie/10/83/87/10838794_det.jpg
+1405,Beavis and Butt-Head Do America,115641,1996,http://content9.flixster.com/movie/25/53/255323_det.jpg
+1406,La cÃ©rÃ©monie,112769,1995,http://content8.flixster.com/movie/30/64/306422_det.jpg
+1407,Scream,117571,1996,http://content7.flixster.com/movie/10/84/96/10849637_det.jpg
+1408,The Last of the Mohicans,104691,1992,http://content6.flixster.com/movie/27/61/276124_det.jpg
+1409,Michael Clayton,465538,2007,http://content8.flixster.com/movie/99/32/72/9932722_det.jpg
+1410,The Evening Star,116240,1996,http://content8.flixster.com/movie/25/99/259926_det.jpg
+1411,Hamlet,116477,1996,http://content7.flixster.com/movie/10/94/26/10942625_det.jpg
+1412,Some Mother's Son,117690,1996,http://content8.flixster.com/movie/34/90/07/3490070_det.jpg
+1413,The Whole Wide World,118163,1996,http://content8.flixster.com/movie/25/86/258602_det.jpg
+1414,The Mother,323298,2003,http://content7.flixster.com/movie/27/51/275101_det.jpg
+1415,Les voleurs,118100,1996,http://content7.flixster.com/movie/10/19/65/10196545_det.jpg
+1416,Evita,116250,1996,http://content9.flixster.com/movie/25/44/254419_det.jpg
+1417,The Portrait of a Lady,117364,1996,http://content8.flixster.com/movie/26/56/265694_det.jpg
+1419,Walkabout,67959,1971,http://content6.flixster.com/movie/27/00/270092_det.jpg
+1420,Message to Love: The Isle of Wight Festival,117028,1997,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+1421,The Grateful Dead,76104,1977,http://content6.flixster.com/movie/10/83/90/10839040_det.jpg
+1422,Murder at 1600,119731,1997,http://content8.flixster.com/movie/10/92/33/10923346_det.jpg
+1423,Hearts and Minds,71604,1974,http://content9.flixster.com/movie/10/88/83/10888339_det.jpg
+1425,Fierce Creatures,119115,1997,http://content8.flixster.com/movie/10/89/15/10891554_det.jpg
+1426,Zeus and Roxanne,120550,1997,http://content8.flixster.com/movie/26/30/263014_det.jpg
+1427,Turbulence,120390,1997,http://content9.flixster.com/movie/10/84/08/10840899_det.jpg
+1428,Angel Baby,112362,1995,\N
+1429,Ging chaat goo si 4: Ji gaan daan yam mo,116704,1996,http://content6.flixster.com/movie/26/65/266524_det.jpg
+1430,Underworld,320691,2003,http://content9.flixster.com/movie/10/88/49/10884903_det.jpg
+1431,Beverly Hills Ninja,118708,1997,http://content9.flixster.com/movie/25/95/259519_det.jpg
+1432,Metro,119664,1997,http://content7.flixster.com/movie/62/77/83/6277833_det.jpg
+1433,The Time Machine,268695,2002,http://content6.flixster.com/movie/10/91/76/10917636_det.jpg
+1434,The Strangers,482606,2008,http://content9.flixster.com/movie/11/12/79/11127923_det.jpg
+1437,The Cement Garden,106535,1993,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+1438,Dante's Peak,118928,1997,http://content7.flixster.com/movie/10/91/66/10916621_det.jpg
+1439,Meet Wally Sparks,119644,1997,http://content6.flixster.com/movie/27/78/277828_det.jpg
+1440,Amos & Andrew,106266,1993,http://content6.flixster.com/movie/32/93/27/3293272_det.jpg
+1441,Benny & Joon,106387,1993,http://content7.flixster.com/movie/10/90/45/10904585_det.jpg
+1442,Prefontaine,119937,1997,http://content8.flixster.com/movie/25/51/255198_det.jpg
+1444,Guantanamera,109949,1995,http://content9.flixster.com/movie/10/89/29/10892915_det.jpg
+1445,McHale's Navy,119640,1997,http://content8.flixster.com/movie/25/91/259102_det.jpg
+1446,Kolja,116790,1996,http://content8.flixster.com/movie/26/24/262498_det.jpg
+1447,Gridlock'd,119225,1997,http://content7.flixster.com/movie/28/37/283717_det.jpg
+1449,Waiting for Guffman,118111,1996,http://content9.flixster.com/movie/10/87/12/10871239_det.jpg
+1450,Kavkazskiy plennik,116754,1996,http://content7.flixster.com/movie/27/46/274693_det.jpg
+1453,The Beautician and the Beast,118691,1997,http://content9.flixster.com/movie/26/00/260003_det.jpg
+1454,SubUrbia,120238,1996,http://content7.flixster.com/movie/10/87/78/10877809_det.jpg
+1455,Hotel de Love,116565,1996,http://content8.flixster.com/movie/72/14/16/7214166_det.jpg
+1456,The Pest,119887,1997,http://content8.flixster.com/movie/25/85/258526_det.jpg
+1457,Fools Rush In,119141,1997,http://content9.flixster.com/movie/31/38/313803_det.jpg
+1458,Touch,120357,1997,http://content8.flixster.com/movie/39/55/09/3955094_det.jpg
+1459,Absolute Power,118548,1997,http://content7.flixster.com/movie/55/34/87/5534877_det.jpg
+1460,That Darn Cat,120317,1997,http://content6.flixster.com/movie/10/86/44/10864404_det.jpg
+1461,Vegas Vacation,120434,1997,http://content7.flixster.com/movie/10/86/96/10869605_det.jpg
+1463,That Old Feeling,120318,1997,http://content6.flixster.com/movie/25/92/259296_det.jpg
+1464,Lost Highway,116922,1997,http://content9.flixster.com/movie/10/89/41/10894179_det.jpg
+1465,Rosewood,120036,1997,http://content7.flixster.com/movie/27/01/270117_det.jpg
+1466,Donnie Brasco,119008,1997,http://content7.flixster.com/movie/60/49/62/6049625_det.jpg
+1468,Booty Call,118750,1997,http://content9.flixster.com/movie/11/12/63/11126367_det.jpg
+1471,Boys Life 2,118762,1997,http://content6.flixster.com/movie/10/85/10/10851024_det.jpg
+1472,City of Industry,118859,1997,http://content8.flixster.com/movie/27/54/275494_det.jpg
+1473,Children of Men,206634,2006,http://content6.flixster.com/movie/27/04/67/2704676_det.jpg
+1474,Jungle 2 Jungle,119432,1997,http://content9.flixster.com/movie/25/96/259695_det.jpg
+1475,Kama Sutra: A Tale of Love,116743,1996,http://content7.flixster.com/movie/11/12/12/11121289_det.jpg
+1476,Private Parts,119951,1997,http://content7.flixster.com/movie/10/92/42/10924221_det.jpg
+1477,Love Jones,119572,1997,http://content7.flixster.com/movie/10/88/65/10886513_det.jpg
+1479,The Saint,120053,1997,http://content6.flixster.com/movie/10/86/88/10868812_det.jpg
+1480,Smilla's Sense of Snow,120152,1997,http://content7.flixster.com/movie/27/65/276509_det.jpg
+1482,Van Helsing,338526,2004,http://content8.flixster.com/movie/10/84/54/10845422_det.jpg
+1483,Crash,375679,2004,http://content7.flixster.com/movie/24/97/249717_det.jpg
+1484,The Daytrippers,116041,1996,http://content7.flixster.com/movie/28/48/284809_det.jpg
+1485,Liar Liar,119528,1997,http://content6.flixster.com/movie/26/42/264208_det.jpg
+1486,The Quiet Room,117422,1996,http://content9.flixster.com/movie/10/91/52/10915291_det.jpg
+1487,Selena,120094,1997,http://content9.flixster.com/movie/10/86/75/10867511_det.jpg
+1488,The Devil's Own,118972,1997,http://content8.flixster.com/movie/21/77/85/2177854_det.jpg
+1489,Cats Don't Dance,118829,1997,http://content9.flixster.com/movie/10/88/92/10889223_det.jpg
+1490,B*A*P*S,118663,1997,http://content6.flixster.com/movie/10/84/83/10848328_det.jpg
+1493,Love and Other Catastrophes,116931,1996,http://content9.flixster.com/movie/10/90/14/10901411_det.jpg
+1495,Turbo: A Power Rangers Movie,120389,1997,http://content7.flixster.com/movie/10/94/61/10946113_det.jpg
+1496,Anna Karenina,26071,1935,http://content7.flixster.com/movie/10/94/46/10944689_det.jpg
+1497,Double Team,119013,1997,http://content6.flixster.com/movie/10/88/96/10889692_det.jpg
+1498,Inventing the Abbotts,119381,1997,http://content6.flixster.com/movie/10/86/16/10861636_det.jpg
+1499,Anaconda,118615,1997,http://content9.flixster.com/movie/10/85/54/10855479_det.jpg
+1500,Grosse Pointe Blank,119229,1997,http://content7.flixster.com/movie/26/73/267397_det.jpg
+1501,Keys to Tulsa,116762,1996,http://content6.flixster.com/movie/10/84/01/10840164_det.jpg
+1502,KISS Meets the Phantom of the Park,77788,1978,http://content6.flixster.com/movie/31/31/313192_det.jpg
+1503,8 Heads in a Duffel Bag,118541,1997,http://content6.flixster.com/movie/10/88/92/10889240_det.jpg
+1504,Hollow Reed,113314,1996,http://content8.flixster.com/movie/10/85/78/10857874_det.jpg
+1507,Paradise Road,119859,1997,http://content7.flixster.com/movie/27/62/276221_det.jpg
+1508,The Time Traveler's Wife,452694,2009,http://content7.flixster.com/movie/10/92/43/10924397_det.jpg
+1509,Walk All Over Me,907680,2007,http://content6.flixster.com/movie/10/91/88/10918812_det.jpg
+1510,A Brother's Kiss,118783,1997,http://content7.flixster.com/movie/28/48/284813_det.jpg
+1511,Shekvarebuli kulinaris ataserti retsepti,117050,1996,http://content9.flixster.com/movie/10/87/72/10877223_det.jpg
+1513,Romy and Michele's High School Reunion,120032,1997,http://content6.flixster.com/movie/10/89/47/10894788_det.jpg
+1514,Feng yue,116295,1996,http://content7.flixster.com/movie/27/05/270517_det.jpg
+1515,Volcano,120461,1997,http://content8.flixster.com/movie/25/89/258910_det.jpg
+1516,Children of the Revolution,115886,1996,http://content9.flixster.com/movie/10/88/07/10880735_det.jpg
+1517,Austin Powers: International Man of Mystery,118655,1997,http://content7.flixster.com/movie/10/85/37/10853769_det.jpg
+1518,Mujeres al borde de un ataque de nervios,95675,1988,http://content9.flixster.com/movie/10/87/03/10870371_det.jpg
+1519,Broken English,772157,2007,http://content9.flixster.com/movie/10/88/86/10888655_det.jpg
+1520,The Ten Commandments,49833,1956,http://content9.flixster.com/movie/25/22/252211_det.jpg
+1522,Ripe,117482,1996,http://content6.flixster.com/movie/10/86/20/10862068_det.jpg
+1523,"Truth or Consequences, N.M.",120383,1997,http://content6.flixster.com/movie/28/30/283020_det.jpg
+1525,Warriors of Virtue,120479,1997,http://content8.flixster.com/movie/26/48/264814_det.jpg
+1526,Fathers' Day,119109,1997,http://content8.flixster.com/movie/24/53/74/2453742_det.jpg
+1527,The Fifth Element,119116,1997,http://content7.flixster.com/movie/10/94/16/10941677_det.jpg
+1528,Intimate Relations,116643,1996,http://content7.flixster.com/movie/10/86/21/10862101_det.jpg
+1529,Nirgendwo in Afrika,161860,2001,http://content6.flixster.com/movie/10/93/76/10937636_det.jpg
+1531,Losing Chase,116920,1996,http://content7.flixster.com/movie/63/53/00/6353009_det.jpg
+1532,Sprung,120190,1997,http://content8.flixster.com/movie/27/92/279222_det.jpg
+1533,La promesse,117398,1996,http://content9.flixster.com/movie/30/43/304311_det.jpg
+1534,Le bonheur,58985,1965,http://content6.flixster.com/movie/97/65/46/9765468_det.jpg
+1535,Love! Valour! Compassion!,119578,1997,http://content6.flixster.com/movie/27/23/272396_det.jpg
+1537,Shall we dansu?,117615,1996,http://content9.flixster.com/movie/10/91/66/10916667_det.jpg
+1538,The Second Jungle Book: Mowgli & Baloo,120087,1997,http://content6.flixster.com/movie/90/13/91/9013916_det.jpg
+1539,Twin Town,120394,1997,http://content8.flixster.com/movie/94/77/97/9477974_det.jpg
+1541,Addicted to Love,118556,1997,http://content9.flixster.com/movie/10/93/23/10932379_det.jpg
+1542,Brassed Off,115744,1996,http://content7.flixster.com/movie/10/88/35/10883553_det.jpg
+1543,The Designated Mourner,118964,1997,http://content9.flixster.com/movie/10/84/43/10844303_det.jpg
+1544,The Lost World: Jurassic Park,119567,1997,http://content9.flixster.com/movie/10/84/11/10841191_det.jpg
+1545,Ponette,117359,1996,http://content9.flixster.com/movie/29/57/295707_det.jpg
+1546,Schizopolis,117561,1996,http://content6.flixster.com/movie/10/93/41/10934148_det.jpg
+1547,Saving Shiloh,472175,2006,http://content7.flixster.com/movie/58/00/78/5800789_det.jpg
+1548,The War at Home,460692,2005,\N
+1549,Rough Magic,114303,1995,http://content9.flixster.com/movie/26/66/266691_det.jpg
+1550,Trial and Error,120373,1997,http://content6.flixster.com/movie/26/36/263612_det.jpg
+1551,Buddy,118787,1997,http://content6.flixster.com/movie/26/42/264224_det.jpg
+1552,Con Air,118880,1997,http://content9.flixster.com/movie/59/50/55/5950555_det.jpg
+1554,The Pillow Book,114134,1996,http://content9.flixster.com/movie/29/25/292599_det.jpg
+1555,En avoir (ou pas),112951,1995,\N
+1556,Speed 2: Cruise Control,120179,1997,http://content8.flixster.com/movie/26/58/265830_det.jpg
+1558,Sudden Manhattan,117775,1996,http://content6.flixster.com/movie/10/84/93/10849332_det.jpg
+1561,Wedding Bell Blues,118127,1996,http://content7.flixster.com/movie/28/16/281613_det.jpg
+1562,Batman & Robin,118688,1997,http://content7.flixster.com/movie/11/13/50/11135017_det.jpg
+1563,Dream with the Fishes,119019,1997,http://content9.flixster.com/movie/28/09/280911_det.jpg
+1564,Roseanna's Grave,120034,1997,http://content6.flixster.com/movie/10/86/08/10860840_det.jpg
+1565,Head Above Water,116502,1996,http://content8.flixster.com/movie/10/86/75/10867562_det.jpg
+1566,Hercules,119282,1997,http://content6.flixster.com/movie/25/25/252524_det.jpg
+1567,The Last Time I Committed Suicide,119502,1997,http://content8.flixster.com/movie/10/89/67/10896710_det.jpg
+1568,"Murder Me, Murder You",85975,1983,\N
+1569,My Best Friend's Wedding,119738,1997,http://content7.flixster.com/movie/55/35/54/5535541_det.jpg
+1570,Tetsuo II: Body Hammer,105569,1992,http://content9.flixster.com/movie/10/89/35/10893579_det.jpg
+1571,Chacun cherche son chat,115856,1996,http://content7.flixster.com/movie/10/88/92/10889261_det.jpg
+1572,Le mÃ©pris,57345,1963,http://content6.flixster.com/movie/10/93/40/10934024_det.jpg
+1573,Face/Off,119094,1997,http://content8.flixster.com/movie/10/85/08/10850854_det.jpg
+1574,The Fall,460791,2006,http://content9.flixster.com/movie/10/87/50/10875031_det.jpg
+1575,Gabbeh,116384,1996,http://content7.flixster.com/movie/30/24/302493_det.jpg
+1580,Men in Black,119654,1997,http://content7.flixster.com/movie/83/03/830325_det.jpg
+1581,Out to Sea,119848,1997,http://content6.flixster.com/movie/25/89/258996_det.jpg
+1582,Wild America,120512,1997,http://content9.flixster.com/movie/10/94/53/10945391_det.jpg
+1583,A Simple Wish,120133,1997,http://content6.flixster.com/movie/26/50/265012_det.jpg
+1584,Contact,118884,1997,http://content9.flixster.com/movie/25/44/254411_det.jpg
+1585,Love Serenade,116930,1996,http://content7.flixster.com/movie/28/20/282097_det.jpg
+1586,G.I. Jane,119173,1997,http://content8.flixster.com/movie/62/99/46/6299466_det.jpg
+1587,Conan the Barbarian,82198,1982,http://content8.flixster.com/movie/28/20/282010_det.jpg
+1588,George of the Jungle,119190,1997,http://content9.flixster.com/movie/25/63/256399_det.jpg
+1589,Cop Land,118887,1997,http://content6.flixster.com/movie/28/35/283596_det.jpg
+1590,Event Horizon,119081,1997,http://content6.flixster.com/movie/26/93/269324_det.jpg
+1591,Spawn,120177,1997,http://content8.flixster.com/movie/27/19/271926_det.jpg
+1592,Air Bud,118570,1997,http://content8.flixster.com/movie/25/88/258894_det.jpg
+1593,Picture Perfect,119896,1997,http://content9.flixster.com/movie/26/12/261223_det.jpg
+1594,In the Company of Men,119361,1997,http://content9.flixster.com/movie/10/86/14/10861495_det.jpg
+1595,Free Willy 3: The Rescue,119152,1997,http://content6.flixster.com/movie/31/21/312112_det.jpg
+1596,Career Girls,118818,1997,http://content7.flixster.com/movie/27/82/278213_det.jpg
+1597,Conspiracy Theory,118883,1997,http://content8.flixster.com/movie/10/88/46/10884674_det.jpg
+1598,Desperate Measures,118966,1998,http://content6.flixster.com/movie/27/79/277912_det.jpg
+1599,Steel Magnolias,98384,1989,http://content7.flixster.com/movie/10/93/46/10934665_det.jpg
+1600,She's So Lovely,120112,1997,http://content6.flixster.com/movie/10/88/14/10881400_det.jpg
+1601,Hoodlum,119311,1997,http://content9.flixster.com/movie/27/53/275303_det.jpg
+1602,Leave It to Beaver,119509,1997,http://content8.flixster.com/movie/26/58/265814_det.jpg
+1603,Mimic,119675,1997,http://content9.flixster.com/movie/55/37/43/5537439_det.jpg
+1604,Money Talks,119695,1997,\N
+1605,Excess Baggage,119086,1997,http://content9.flixster.com/movie/26/36/263699_det.jpg
+1606,Kull the Conqueror,119484,1997,http://content6.flixster.com/movie/10/93/54/10935432_det.jpg
+1608,Air Force One,118571,1997,http://content8.flixster.com/movie/11/14/67/11146758_det.jpg
+1609,One Eight Seven,118531,1997,http://content6.flixster.com/movie/27/35/273524_det.jpg
+1610,The Hunt for Red October,99810,1990,http://content9.flixster.com/movie/26/27/262727_det.jpg
+1611,My Own Private Idaho,102494,1991,http://content9.flixster.com/movie/10/93/52/10935275_det.jpg
+1612,"Kiss Me, Guido",119465,1997,http://content9.flixster.com/movie/28/21/282199_det.jpg
+1613,Star Maps,120197,1997,http://content9.flixster.com/movie/10/85/19/10851963_det.jpg
+1614,In & Out,119360,1997,http://content7.flixster.com/movie/25/58/255829_det.jpg
+1615,The Edge,119051,1997,http://content8.flixster.com/movie/26/94/269418_det.jpg
+1616,The Peacemaker,119874,1997,http://content8.flixster.com/movie/10/88/49/10884906_det.jpg
+1617,L.A. Confidential,119488,1997,http://content7.flixster.com/movie/10/89/54/10895493_det.jpg
+1619,Seven Years in Tibet,120102,1997,http://content7.flixster.com/movie/23/12/92/2312921_det.jpg
+1620,Kiss the Girls,119468,1997,http://content9.flixster.com/movie/26/95/269591_det.jpg
+1621,Soul Food,120169,1997,http://content9.flixster.com/movie/10/88/06/10880611_det.jpg
+1622,Kicked in the Head,119457,1997,http://content8.flixster.com/movie/10/88/44/10884494_det.jpg
+1623,Wishmaster,120524,1997,http://content7.flixster.com/movie/28/32/283225_det.jpg
+1624,A Thousand Acres,120323,1997,http://content9.flixster.com/movie/10/88/70/10887047_det.jpg
+1625,The Game,119174,1997,http://content9.flixster.com/movie/28/04/280403_det.jpg
+1626,Fire Down Below,119123,1997,http://content9.flixster.com/movie/27/36/273603_det.jpg
+1627,U Turn,120399,1997,http://content7.flixster.com/movie/27/09/270905_det.jpg
+1628,The Day of the Locust,72848,1975,http://content9.flixster.com/movie/27/77/277703_det.jpg
+1629,The MatchMaker,119632,1997,http://content9.flixster.com/movie/28/03/280315_det.jpg
+1631,The Assignment,118647,1997,http://content8.flixster.com/movie/27/70/277094_det.jpg
+1632,A Smile Like Yours,120151,1997,http://content9.flixster.com/movie/10/84/78/10847859_det.jpg
+1633,Ulee's Gold,120402,1997,http://content6.flixster.com/movie/27/81/278192_det.jpg
+1635,The Ice Storm,119349,1997,http://content7.flixster.com/movie/27/07/270713_det.jpg
+1636,Stag,120192,1997,http://content7.flixster.com/movie/19/57/46/1957461_det.jpg
+1639,Chasing Amy,118842,1997,http://content7.flixster.com/movie/26/82/268201_det.jpg
+1640,How to Be a Player,119326,1997,http://content8.flixster.com/movie/31/09/310922_det.jpg
+1641,The Full Monty,119164,1997,http://content7.flixster.com/movie/26/91/269101_det.jpg
+1642,Indian Summer,116631,1996,http://content7.flixster.com/movie/10/70/10/10701045_det.jpg
+1643,Mrs Brown,119280,1997,http://content6.flixster.com/movie/25/66/256624_det.jpg
+1644,I Know What You Did Last Summer,119345,1997,http://content8.flixster.com/movie/10/86/89/10868922_det.jpg
+1645,The Devil's Advocate,118971,1997,http://content6.flixster.com/movie/83/07/830796_det.jpg
+1646,RocketMan,120029,1997,http://content7.flixster.com/movie/28/06/10/2806109_det.jpg
+1647,Playing God,119906,1997,http://content9.flixster.com/movie/10/46/52/10465263_det.jpg
+1648,The House of Yes,119324,1997,http://content9.flixster.com/movie/27/35/273507_det.jpg
+1649,"Fast, Cheap & Out of Control",119107,1997,http://content7.flixster.com/movie/10/91/62/10916277_det.jpg
+1650,Washington Square,120481,1997,http://content7.flixster.com/movie/10/93/23/10932321_det.jpg
+1651,Telling Lies in America,120303,1997,http://content9.flixster.com/movie/26/46/264615_det.jpg
+1652,Year of the Horse,120539,1997,http://content9.flixster.com/movie/10/97/92/10979203_det.jpg
+1653,Gattaca,119177,1997,http://content9.flixster.com/movie/25/53/255319_det.jpg
+1654,FairyTale: A True Story,119095,1997,http://content9.flixster.com/movie/10/90/50/10905063_det.jpg
+1655,The Phantom of the Opera,293508,2004,http://content9.flixster.com/movie/35/84/18/3584187_det.jpg
+1656,Swept from the Sea,120257,1997,http://content8.flixster.com/movie/26/03/260322_det.jpg
+1657,Wonderland,335563,2003,http://content7.flixster.com/movie/26/94/269429_det.jpg
+1658,A Life Less Ordinary,119535,1997,http://content8.flixster.com/movie/38/48/02/3848022_det.jpg
+1659,The Hurricane,174856,1999,http://content8.flixster.com/movie/10/93/94/10939402_det.jpg
+1660,Eve's Bayou,119080,1997,http://content6.flixster.com/movie/10/88/76/10887660_det.jpg
+1661,Switchback,119210,1997,http://content6.flixster.com/movie/27/62/276212_det.jpg
+1662,Gang Related,118900,1997,http://content9.flixster.com/movie/27/56/275627_det.jpg
+1663,Stripes,83131,1981,http://content9.flixster.com/movie/27/68/276891_det.jpg
+1665,Bean,118689,1997,http://content6.flixster.com/movie/26/58/265816_det.jpg
+1666,Hugo Pool,119327,1997,http://content8.flixster.com/movie/11/13/80/11138030_det.jpg
+1667,Mad City,119592,1997,http://content6.flixster.com/movie/10/84/05/10840580_det.jpg
+1668,One Night Stand,119832,1997,http://content8.flixster.com/movie/11/13/59/11135922_det.jpg
+1669,The Tango Lesson,120275,1997,http://content9.flixster.com/movie/10/92/62/10926247_det.jpg
+1670,Welcome to Sarajevo,120490,1997,http://content7.flixster.com/movie/10/90/11/10901161_det.jpg
+1671,Deceiver,119527,1997,http://content7.flixster.com/movie/28/12/281297_det.jpg
+1672,The Rainmaker,119978,1997,http://content8.flixster.com/movie/10/83/79/10837982_det.jpg
+1673,Boogie Nights,118749,1997,http://content9.flixster.com/movie/10/93/70/10937063_det.jpg
+1674,Witness,90329,1985,http://content9.flixster.com/movie/27/34/273491_det.jpg
+1675,Incognito,119365,1997,http://content7.flixster.com/movie/10/88/05/10880553_det.jpg
+1676,Starship Troopers,120201,1997,http://content9.flixster.com/movie/27/11/271119_det.jpg
+1677,Critical Care,118901,1997,http://content6.flixster.com/movie/28/05/280504_det.jpg
+1678,The Joy Luck Club,107282,1993,http://content9.flixster.com/movie/10/90/37/10903727_det.jpg
+1679,Chairman of the Board,118836,1998,http://content8.flixster.com/movie/10/88/59/10885922_det.jpg
+1680,Sliding Doors,120148,1998,http://content7.flixster.com/movie/10/87/38/10873849_det.jpg
+1681,Mortal Kombat: Annihilation,119707,1997,http://content7.flixster.com/movie/52/53/89/5253893_det.png
+1682,The Truman Show,120382,1998,http://content8.flixster.com/movie/11/12/69/11126926_det.jpg
+1683,The Wings of the Dove,120520,1997,http://content9.flixster.com/movie/26/79/267919_det.jpg
+1684,Mrs Dalloway,119723,1997,http://content6.flixster.com/movie/26/63/266312_det.jpg
+1685,"I Love You, I Love You Not",116592,1996,http://content6.flixster.com/movie/10/89/38/10893844_det.jpg
+1686,Red Corner,119994,1997,http://content6.flixster.com/movie/27/70/277016_det.jpg
+1687,The Jackal,119395,1997,http://content9.flixster.com/movie/27/00/270015_det.jpg
+1688,Anastasia,118617,1997,http://content8.flixster.com/movie/10/93/87/10938762_det.jpg
+1689,The Man Who Knew Too Little,120483,1997,http://content9.flixster.com/movie/10/91/68/10916847_det.jpg
+1690,AlienÂ³,103644,1992,http://content9.flixster.com/movie/27/38/273891_det.jpg
+1692,Alien Escape,112318,1997,\N
+1693,Amistad,118607,1997,http://content6.flixster.com/movie/26/82/268208_det.jpg
+1694,The Apostle,118632,1997,http://content8.flixster.com/movie/26/41/264198_det.jpg
+1695,Artemisia,123385,1997,http://content9.flixster.com/movie/27/47/274715_det.jpg
+1696,Bent,118698,1997,http://content7.flixster.com/movie/27/12/271209_det.jpg
+1698,Les Boys,118764,1997,http://content9.flixster.com/movie/29/00/290011_det.jpg
+1699,The Butcher Boy,118804,1997,http://content9.flixster.com/movie/27/01/81/2701819_det.jpg
+1701,Deconstructing Harry,118954,1997,http://content8.flixster.com/movie/27/09/270998_det.jpg
+1702,Flubber,119137,1997,http://content7.flixster.com/movie/10/90/92/10909265_det.jpg
+1703,For Richer or Poorer,119142,1997,http://content6.flixster.com/movie/25/83/258308_det.jpg
+1704,Good Will Hunting,119217,1997,http://content6.flixster.com/movie/10/84/63/10846372_det.jpg
+1707,Home Alone 3,119303,1997,http://content7.flixster.com/movie/25/99/259909_det.jpg
+1708,Ill Gotten Gains,119352,1997,http://content6.flixster.com/movie/10/84/69/10846920_det.jpg
+1709,Legal Deceit,130073,1997,\N
+1710,Man of Her Dreams,116976,1997,http://content6.flixster.com/movie/10/88/32/10883228_det.jpg
+1711,Midnight in the Garden of Good and Evil,119668,1997,http://content8.flixster.com/movie/26/74/267414_det.jpg
+1713,Mousehunt,119715,1997,http://content9.flixster.com/movie/10/88/57/10885755_det.jpg
+1714,Never Met Picasso,117167,1996,http://content9.flixster.com/movie/10/84/99/10849911_det.jpg
+1715,Office Killer,119819,1997,http://content6.flixster.com/movie/27/94/279416_det.jpg
+1716,"Other Voices, Other Rooms",119845,1995,http://content9.flixster.com/movie/11/00/80/11008071_det.jpg
+1717,Scream 2,120082,1997,http://content8.flixster.com/movie/46/00/460098_det.jpg
+1719,The Sweet Hereafter,120255,1997,http://content7.flixster.com/movie/10/88/64/10886473_det.jpg
+1720,Time Tracers,128755,1997,\N
+1721,Titanic,120338,1997,http://content8.flixster.com/movie/16/90/53/1690530_det.jpg
+1722,Tomorrow Never Dies,120347,1997,http://content6.flixster.com/movie/10/91/35/10913520_det.jpg
+1723,Twisted,315297,2004,http://content6.flixster.com/movie/27/63/276304_det.jpg
+1725,The Education of Little Tree,119052,1997,http://content9.flixster.com/movie/10/89/69/10896995_det.jpg
+1726,The Postman,119925,1997,http://content7.flixster.com/movie/26/92/269217_det.jpg
+1727,The Horse Whisperer,119314,1998,http://content8.flixster.com/movie/10/87/81/10878142_det.jpg
+1728,The Winter Guest,120521,1997,http://content8.flixster.com/movie/27/10/271094_det.jpg
+1729,Jackie Brown,119396,1997,http://content9.flixster.com/movie/10/93/45/10934571_det.jpg
+1730,Kundun,119485,1997,http://content9.flixster.com/movie/25/61/256127_det.jpg
+1731,Mr. Magoo,119718,1997,http://content8.flixster.com/movie/10/60/67/10606782_det.jpg
+1732,The Big Lebowski,118715,1998,http://content6.flixster.com/movie/10/95/21/10952108_det.jpg
+1733,Afterglow,118566,1997,http://content7.flixster.com/movie/28/15/281593_det.jpg
+1734,Ma vie en rose,119590,1997,http://content8.flixster.com/movie/10/12/04/10120494_det.jpg
+1735,Great Expectations,119223,1998,http://content6.flixster.com/movie/26/88/268896_det.jpg
+1739,3 Ninjas: High Noon at Mega Mountain,118539,1998,http://content8.flixster.com/movie/10/88/99/10889978_det.jpg
+1740,Men of Means,119655,1999,\N
+1742,Caught Up,119988,1998,http://content6.flixster.com/movie/27/96/279600_det.jpg
+1743,Arguing the World,129758,1998,http://content9.flixster.com/movie/10/92/43/10924327_det.jpg
+1744,Firestorm,120670,1998,http://content8.flixster.com/movie/10/86/63/10866338_det.jpg
+1746,Senseless,120820,1998,http://content8.flixster.com/movie/10/95/43/10954306_det.jpg
+1747,Wag the Dog,120885,1997,http://content7.flixster.com/movie/26/87/268793_det.jpg
+1748,Dark City,118929,1998,http://content6.flixster.com/movie/10/90/16/10901660_det.jpg
+1749,The Leading Man,116845,1996,http://content7.flixster.com/movie/27/35/273509_det.jpg
+1750,Star Kid,120478,1997,http://content8.flixster.com/movie/26/54/265402_det.jpg
+1752,A Hard Rain's Gonna Fall,1216620,2008,\N
+1753,Half Baked,120693,1998,http://content8.flixster.com/movie/27/77/277702_det.jpg
+1754,Fallen,119099,1998,http://content7.flixster.com/movie/26/99/269917_det.jpg
+1755,Shooting Fish,120122,1997,http://content8.flixster.com/movie/31/37/313798_det.jpg
+1756,The Prophecy II,118643,1998,http://content7.flixster.com/movie/12/28/76/1228765_det.jpg
+1757,Duo luo tian shi,112913,1995,http://content8.flixster.com/movie/30/83/308306_det.jpg
+1759,"O Que Ã‰ Isso, Companheiro?",119815,1997,http://content6.flixster.com/movie/10/92/03/10920376_det.jpg
+1760,Spice World,120185,1997,http://content6.flixster.com/movie/10/86/70/10867012_det.jpg
+1762,Deep Rising,118956,1998,http://content6.flixster.com/movie/63/25/98/6325980_det.jpg
+1765,A Letter from Death Row,119521,1998,http://content7.flixster.com/movie/10/88/60/10886093_det.jpg
+1767,Music from Another Room,119734,1998,http://content8.flixster.com/movie/25/98/259826_det.jpg
+1769,The Replacement Killers,120008,1998,http://content9.flixster.com/movie/11/12/30/11123091_det.jpg
+1770,B. Monkey,120594,1998,http://content6.flixster.com/movie/27/29/272908_det.jpg
+1771,The Night Flier,119784,1997,http://content8.flixster.com/movie/11/12/39/11123974_det.jpg
+1772,Blues Brothers 2000,118747,1998,http://content6.flixster.com/movie/10/87/73/10877388_det.jpg
+1773,Tokyo Fist,114690,1995,http://content8.flixster.com/movie/10/33/59/10335954_det.jpg
+1774,Zardoz,70948,1974,http://content6.flixster.com/movie/26/95/269596_det.jpg
+1776,Joy Ride,206314,2001,http://content7.flixster.com/movie/27/21/272109_det.jpg
+1777,The Wedding Singer,120888,1998,http://content6.flixster.com/movie/10/87/41/10874148_det.jpg
+1779,Sphere,120184,1998,http://content8.flixster.com/movie/25/90/259018_det.jpg
+1780,Ayn Rand: A Sense of Life,118662,1997,http://content8.flixster.com/movie/29/91/299198_det.jpg
+1781,A Further Gesture,116379,1997,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+1782,Little City,119548,1997,http://content6.flixster.com/movie/27/51/275120_det.jpg
+1783,Palmetto,120782,1998,http://content6.flixster.com/movie/27/64/276420_det.jpg
+1784,As Good as It Gets,119822,1997,http://content6.flixster.com/movie/55/35/60/5535608_det.jpg
+1785,King of New York,99939,1990,http://content9.flixster.com/movie/10/92/96/10929695_det.jpg
+1788,Men with Guns,119657,1997,http://content8.flixster.com/movie/10/92/05/10920542_det.jpg
+1789,The Sadness of Sex,114322,1995,http://images.rottentomatoescdn.com/images/defaults/poster_default.gif
+1791,Twilight,1099212,2008,http://content9.flixster.com/movie/10/88/60/10886003_det.jpg
+1792,U.S. Marshals,120873,1998,http://content7.flixster.com/movie/11/14/00/11140001_det.jpg
+1793,Welcome to Woop Woop,120491,1997,http://content7.flixster.com/movie/35/59/57/3559577_det.jpg
+1794,Love and Death on Long Island,119574,1997,http://content9.flixster.com/movie/10/87/51/10875171_det.jpg
+1795,El callejÃ³n de los milagros,112619,1995,http://content8.flixster.com/movie/30/95/309506_det.jpg
+1796,In God's Hands,140282,1998,http://content9.flixster.com/movie/26/01/260191_det.jpg
+1797,Everest,120661,1998,http://content6.flixster.com/movie/28/60/286012_det.jpg
+1798,Hush,118744,1998,http://content9.flixster.com/movie/10/87/07/10870779_det.jpg
+1799,Suicide Kings,120241,1997,http://content6.flixster.com/movie/28/08/280824_det.jpg
+1801,The Man in the Iron Mask,120744,1998,http://content6.flixster.com/movie/10/89/35/10893580_det.jpg
+1804,The Newton Boys,120769,1998,http://content7.flixster.com/movie/26/03/260393_det.jpg
+1805,Where the Wild Things Are,386117,2009,http://content9.flixster.com/movie/11/15/18/11151851_det.jpg
+1806,Paulie,125454,1998,http://content9.flixster.com/movie/10/87/27/10872727_det.jpg
+1807,"A Cool, Dry Place",120642,1998,http://content8.flixster.com/movie/25/89/258906_det.jpg
+1809,Hana-bi,119250,1997,http://content8.flixster.com/movie/29/83/298330_det.jpg
+1810,Primary Colors,119942,1998,http://content6.flixster.com/movie/10/87/54/10875476_det.jpg
+1811,Niagara,46126,1953,http://content6.flixster.com/movie/10/85/38/10853848_det.jpg
+1812,Wide Awake,120510,1998,http://content6.flixster.com/movie/10/85/35/10853592_det.jpg
+1814,A Price Above Rubies,120793,1998,http://content6.flixster.com/movie/10/87/85/10878584_det.jpg
+1815,East of Eden,48028,1955,http://content7.flixster.com/movie/10/93/17/10931781_det.jpg
+1816,Two Girls and a Guy,124179,1997,http://content7.flixster.com/movie/27/64/276425_det.jpg
+1817,No Looking Back,119560,1998,http://content6.flixster.com/movie/28/15/281596_det.jpg
+1819,Storefront Hitchcock,120219,1998,http://content8.flixster.com/movie/10/89/08/10890838_det.jpg
+1820,The Proposition,421238,2005,http://content6.flixster.com/movie/31/42/314204_det.jpg
+1821,The Object of My Affection,120772,1998,http://content7.flixster.com/movie/27/37/273725_det.jpg
+1822,Meet the Deedles,120645,1998,http://content9.flixster.com/movie/10/88/97/10889707_det.jpg
+1824,Homegrown,119305,1998,http://content7.flixster.com/movie/27/28/272817_det.jpg
+1825,The Players Club,119905,1998,http://content6.flixster.com/movie/10/88/93/10889372_det.jpg
+1826,Barney's Great Adventure,120598,1998,http://content9.flixster.com/movie/10/86/99/10869943_det.jpg
+1827,Big,94737,1988,http://content9.flixster.com/movie/10/83/88/10838839_det.jpg
+1829,Chinese Box,118851,1997,http://content7.flixster.com/movie/28/39/283997_det.jpg
+1831,Lost in Space,120738,1998,http://content8.flixster.com/movie/10/89/34/10893434_det.jpg
+1832,Heaven's Burning,119272,1997,http://content7.flixster.com/movie/27/91/279197_det.jpg
+1833,Mercury Rising,120749,1998,http://content6.flixster.com/movie/10/89/22/10892240_det.jpg
+1834,The Spanish Prisoner,120176,1997,http://content8.flixster.com/movie/10/91/35/10913514_det.jpg
+1835,City of Angels,120632,1998,http://content6.flixster.com/movie/10/85/10/10851036_det.jpg
+1836,The Last Days of Disco,120728,1998,http://content6.flixster.com/movie/10/91/40/10914076_det.jpg
+1837,The Odd Couple II,120773,1998,http://content9.flixster.com/movie/11/14/28/11142855_det.jpg
+1839,My Giant,120765,1998,http://content8.flixster.com/movie/26/44/264422_det.jpg
+1840,He Got Game,124718,1998,http://content8.flixster.com/movie/60/49/75/6049754_det.jpg
+1841,The Gingerbread Man,119196,1998,http://content6.flixster.com/movie/11/14/76/11147696_det.jpg
+1842,Illtown,118229,1996,http://content9.flixster.com/movie/10/97/83/10978347_det.jpg
+1843,Slappy and the Stinkers,120213,1998,http://content7.flixster.com/movie/26/58/265805_det.jpg
+1844,Carne trÃ©mula,118819,1997,http://content9.flixster.com/movie/27/12/271215_det.jpg
+1845,Zero Effect,120906,1998,http://content7.flixster.com/movie/27/55/275597_det.jpg
+1846,Nil by Mouth,119792,1997,http://content6.flixster.com/movie/27/84/278420_det.jpg
+1848,The Borrowers,118755,1997,http://content7.flixster.com/movie/11/14/95/11149597_det.jpg
+1849,Prince Valiant,47365,1954,http://content9.flixster.com/movie/25/83/258391_det.jpg
+1850,"I Love You, Don't Touch Me!",130019,1997,http://content6.flixster.com/movie/10/85/09/10850912_det.jpg
+1851,Leather Jacket Love Story,119508,1997,http://content9.flixster.com/movie/28/90/289011_det.jpg
+1853,An Alan Smithee Film: Burn Hollywood Burn,118577,1997,http://content6.flixster.com/movie/10/91/09/10910948_det.jpg
+1854,Kissing a Fool,120723,1998,http://content7.flixster.com/movie/27/40/274009_det.jpg
+1855,Krippendorf's Tribe,120725,1998,http://content9.flixster.com/movie/26/40/264003_det.jpg
+1856,Kurt & Courtney,138563,1998,http://content8.flixster.com/movie/27/15/271522_det.jpg
+1857,The Real Blonde,119987,1997,http://content8.flixster.com/movie/27/91/279102_det.jpg
+1858,Yat goh hiu yan,117786,1997,http://content9.flixster.com/movie/11/14/69/11146999_det.jpg
+1859,Ta'm e guilass,120265,1997,http://content9.flixster.com/movie/10/87/21/10872163_det.jpg
+1860,Karakter,119448,1997,http://content8.flixster.com/movie/27/98/279814_det.jpg
+1861,Budbringeren,118785,1997,http://content7.flixster.com/movie/10/48/44/10484425_det.jpg
+1862,Species II,120841,1998,http://content7.flixster.com/movie/11/15/11/11151153_det.jpg
+1863,Major League: Back to the Minors,120742,1998,http://content6.flixster.com/movie/25/94/259400_det.jpg
+1864,Sour Grapes,120838,1998,http://content9.flixster.com/movie/27/66/276627_det.jpg
+1865,Wild Man Blues,141986,1997,http://content9.flixster.com/movie/10/97/90/10979007_det.jpg
+1866,The Big Hit,120609,1998,http://content8.flixster.com/movie/27/46/274626_det.jpg
+1867,Tarzan and the Lost City,120856,1998,http://content8.flixster.com/movie/11/14/23/11142390_det.jpg
+1869,Black Dog,120610,1998,http://content8.flixster.com/movie/10/86/90/10869030_det.jpg
+1870,"Dancer, Texas Pop. 81",118925,1998,http://content6.flixster.com/movie/10/86/95/10869540_det.jpg
+1871,Priyatel pokoynika,119952,1997,http://content9.flixster.com/movie/10/86/82/10868255_det.jpg
+1872,Slumdog Millionaire,1010048,2008,http://content9.flixster.com/movie/10/86/47/10864783_det.jpg
+1873,Les misÃ©rables,119683,1998,http://content9.flixster.com/movie/25/51/255107_det.jpg
+1874,Still Breathing,120211,1997,http://content6.flixster.com/movie/26/52/265224_det.jpg
+1875,Clockwatchers,118866,1997,http://content7.flixster.com/movie/26/35/263513_det.jpg
+1876,Deep Impact,120647,1998,http://content8.flixster.com/movie/10/88/98/10889858_det.jpg
+1877,Little Men,145048,1997,http://content7.flixster.com/movie/10/55/44/10554493_det.gif
+1878,Face/Off,119094,1997,http://content8.flixster.com/movie/10/85/08/10850854_det.jpg
+1879,The Hanging Garden,125128,1997,http://content8.flixster.com/movie/10/90/64/10906450_det.jpg
+1880,Lawn Dogs,119506,1997,http://content7.flixster.com/movie/27/69/276997_det.jpg
+1881,Quest for Camelot,120800,1998,http://content6.flixster.com/movie/10/91/52/10915264_det.jpg
+1882,Godzilla,120685,1998,http://content9.flixster.com/movie/25/99/259919_det.jpg
+1883,Bulworth,118798,1998,http://content6.flixster.com/movie/27/10/271016_det.jpg
+1884,Fear and Loathing in Las Vegas,120669,1998,http://content6.flixster.com/movie/10/88/64/10886456_det.jpg
+1885,The Opposite of Sex,120777,1998,http://content7.flixster.com/movie/27/31/273121_det.jpg
+1886,I Got the Hook Up,131436,1998,http://content9.flixster.com/movie/10/88/71/10887139_det.jpg
+1887,Almost Heroes,119053,1998,http://content8.flixster.com/movie/60/49/77/6049770_det.jpg
+1888,Hope Floats,119313,1998,http://content6.flixster.com/movie/26/48/264824_det.jpg
+1889,Insomnia,278504,2002,http://content6.flixster.com/movie/27/69/276996_det.jpg
+1890,Little Boy Blue,119547,1997,http://content9.flixster.com/movie/38/91/55/3891551_det.jpg
+1891,Coyote Ugly,200550,2000,http://content7.flixster.com/movie/25/81/258105_det.jpg
+1892,A Perfect Murder,120787,1998,http://content9.flixster.com/movie/10/91/93/10919303_det.gif
+1893,Jenseits der Stille,116692,1996,http://content7.flixster.com/movie/27/24/272409_det.jpg
+1894,Six Days Seven Nights,120828,1998,http://content9.flixster.com/movie/10/87/45/10874539_det.jpg
+1895,Can't Hardly Wait,127723,1998,http://content9.flixster.com/movie/25/65/256595_det.jpg
+1896,Cousin Bette,118894,1998,http://content8.flixster.com/movie/27/12/271294_det.jpg
+1897,High Art,139362,1998,http://content7.flixster.com/movie/10/89/19/10891985_det.jpg
+1898,The Land Girls,119494,1998,http://content7.flixster.com/movie/15/52/22/1552225_det.jpg
+1899,Passion in the Desert,125980,1997,http://content7.flixster.com/movie/10/88/55/10885545_det.jpg
+1900,Bacheha-Ye aseman,118849,1997,http://content6.flixster.com/movie/10/94/64/10946460_det.jpg
+1901,Dear Jesse,150290,1998,http://content8.flixster.com/movie/10/91/90/10919006_det.jpg
+1902,Dream for an Insomniac,116141,1996,http://content6.flixster.com/movie/27/87/278704_det.jpg
+1903,Hav Plenty,126938,1997,http://content6.flixster.com/movie/27/22/272224_det.jpg
+1904,Henry Fool,122529,1997,http://content8.flixster.com/movie/10/88/94/10889490_det.jpg
+1906,Mr. Jealousy,119717,1997,http://content7.flixster.com/movie/28/00/280097_det.jpg
+1907,Mulan,120762,1998,http://content6.flixster.com/movie/11/14/84/11148476_det.jpg
+1908,Resurrection Man,140508,1998,http://content7.flixster.com/movie/10/92/14/10921409_det.jpg
+1909,The X Files,120902,1998,http://content6.flixster.com/movie/25/49/254904_det.jpg
+1910,I Went Down,126344,1997,http://content6.flixster.com/movie/50/89/57/5089576_det.jpg
+1911,Doctor Dolittle,118998,1998,http://content6.flixster.com/movie/11/15/12/11151232_det.jpg
+1912,Out of Sight,120780,1998,http://content6.flixster.com/movie/10/88/64/10886428_det.jpg
+1913,Picnic at Hanging Rock,73540,1975,http://content9.flixster.com/movie/25/96/259615_det.jpg
+1914,Smoke Signals,120321,1998,http://content6.flixster.com/movie/25/44/254404_det.jpg
+1915,Viagem ao PrincÃ­pio do Mundo,120443,1997,http://content9.flixster.com/movie/10/94/65/10946519_det.jpg
+1916,Buffalo '66,118789,1998,http://content6.flixster.com/movie/10/87/71/10877180_det.jpg
+1917,Armageddon,120591,1998,http://content7.flixster.com/movie/55/05/68/5505685_det.jpg
+1918,Lethal Weapon 4,122151,1998,http://content7.flixster.com/movie/11/12/88/11128829_det.jpg
+1919,Madeline,123987,1998,http://content7.flixster.com/movie/25/93/259317_det.jpg
+1920,Small Soldiers,122718,1998,http://content6.flixster.com/movie/18/47/19/1847196_det.jpg
+1921,Pi,138704,1998,http://content7.flixster.com/movie/26/78/267897_det.jpg
+1922,What Ever Happened to Baby Jane?,56687,1962,http://content8.flixster.com/movie/10/93/55/10935590_det.jpg
+1923,There's Something About Mary,129387,1998,http://content7.flixster.com/movie/10/88/61/10886109_det.jpg
+1924,Plan 9 from Outer Space,52077,1958,http://content8.flixster.com/movie/10/85/09/10850926_det.jpg
+1925,Der Himmel Ã¼ber Berlin,93191,1987,http://content9.flixster.com/movie/25/46/254691_det.jpg
+1926,The Broadway Melody,19729,1929,http://content8.flixster.com/movie/11/12/95/11129594_det.jpg
+1927,All Quiet on the Western Front,20629,1930,http://content6.flixster.com/movie/66/23/12/6623120_det.jpg
+1928,Spirit: Stallion of the Cimarron,166813,2002,http://content9.flixster.com/movie/10/87/48/10874827_det.jpg
+1929,Grand Hotel,22958,1932,http://content7.flixster.com/movie/29/63/296321_det.jpg
+1930,Cavalcade,23876,1933,http://content9.flixster.com/movie/10/88/00/10880031_det.jpg
+1931,Mutiny on the Bounty,26752,1935,http://content9.flixster.com/movie/10/88/45/10884511_det.jpg
+1932,The Great Ziegfeld,27698,1936,http://content8.flixster.com/movie/30/32/303222_det.jpg
+1933,The Life of Emile Zola,29146,1937,http://content7.flixster.com/movie/10/84/90/10849013_det.jpg
+1934,You Can't Take It with You,30993,1938,http://content7.flixster.com/movie/10/91/55/10915585_det.jpg
+1935,How Green Was My Valley,33729,1941,http://content6.flixster.com/movie/30/92/309228_det.jpg
+1936,Mrs. Miniver,35093,1942,http://content8.flixster.com/movie/10/08/01/10080150_det.jpg
+1937,Going My Way,36872,1944,http://content6.flixster.com/movie/10/89/81/10898136_det.jpg
+1938,The Lost Weekend,37884,1945,http://content9.flixster.com/movie/10/95/53/10955391_det.jpg
+1939,The Best Years of Our Lives,36868,1946,http://content7.flixster.com/movie/10/17/14/10171413_det.jpg
+1940,Gentleman's Agreement,39416,1947,http://content8.flixster.com/movie/30/79/307930_det.jpg
+1941,Hamlet,116477,1996,http://content7.flixster.com/movie/10/94/26/10942625_det.jpg
+1942,All the King's Men,405676,2006,http://content6.flixster.com/movie/10/84/23/10842352_det.jpg
+1943,The Greatest Show on Earth,44672,1952,http://content6.flixster.com/movie/10/88/18/10881888_det.jpg
+1944,From Here to Eternity,45793,1953,http://content9.flixster.com/movie/29/27/292711_det.jpg
+1945,On the Waterfront,47296,1954,http://content9.flixster.com/movie/29/10/291015_det.jpg
+1946,Back to the Future,88763,1985,http://content6.flixster.com/movie/31/17/311700_det.jpg
+1947,West Side Story,55614,1961,http://content9.flixster.com/movie/10/91/74/10917475_det.jpg
+1948,Tom Jones,57590,1963,http://content9.flixster.com/movie/29/03/290315_det.jpg
+1949,A Man for All Seasons,60665,1966,http://content6.flixster.com/movie/25/08/250892_det.jpg
+1950,In the Heat of the Night,61811,1967,http://content8.flixster.com/movie/25/71/257126_det.jpg
+1951,Oliver!,63385,1968,http://content9.flixster.com/movie/11/15/34/11153479_det.jpg
+1952,Midnight Cowboy,64665,1969,http://content6.flixster.com/movie/10/88/51/10885192_det.jpg
+1953,The French Connection,67116,1971,http://content9.flixster.com/movie/10/93/21/10932163_det.jpg
+1954,Rocky,75148,1976,http://content6.flixster.com/movie/10/89/83/10898396_det.jpg
+1955,Kramer vs. Kramer,79417,1979,http://content8.flixster.com/movie/10/92/41/10924118_det.jpg
+1956,Ordinary People,81283,1980,http://content8.flixster.com/movie/26/77/267722_det.jpg
+1957,Chariots of Fire,82158,1981,http://content7.flixster.com/movie/10/93/45/10934597_det.jpg
+1958,Terms of Endearment,86425,1983,http://content6.flixster.com/movie/26/77/267716_det.jpg
+1959,Out of Africa,89755,1985,http://content9.flixster.com/movie/10/85/35/10853583_det.jpg
+1960,The Last Emperor,93389,1987,http://content8.flixster.com/movie/10/53/54/10535418_det.jpg
+1961,Rain Man,95953,1988,http://content6.flixster.com/movie/10/85/35/10853584_det.jpg
+1962,Driving Miss Daisy,97239,1989,http://content6.flixster.com/movie/26/22/262224_det.jpg
+1963,Take the Money and Run,65063,1969,http://content9.flixster.com/movie/28/30/283091_det.jpg
+1964,Klute,67309,1971,http://content6.flixster.com/movie/27/26/272620_det.jpg
+1965,Repo Man,87995,1984,http://content8.flixster.com/movie/28/26/282606_det.jpg
+1966,Metropolitan,100142,1990,http://content9.flixster.com/movie/10/88/49/10884911_det.jpg
+1967,Labyrinth,91369,1986,http://content6.flixster.com/movie/10/84/45/10844548_det.jpg
+1968,The Breakfast Club,88847,1985,http://content7.flixster.com/movie/68/89/80/6889801_det.jpg
+1969,A Nightmare on Elm Street Part 2: Freddy's Revenge,89686,1985,http://content6.flixster.com/movie/10/95/40/10954016_det.jpg
+1970,A Nightmare on Elm Street 3: Dream Warriors,93629,1987,http://content8.flixster.com/movie/10/95/40/10954014_det.jpg
+1971,A Nightmare on Elm Street 4: The Dream Master,95742,1988,http://content6.flixster.com/movie/10/95/40/10954012_det.jpg
+1972,A Nightmare on Elm Street: The Dream Child,97981,1989,http://content8.flixster.com/movie/10/95/40/10954010_det.jpg
+1973,Freddy's Dead: The Final Nightmare,101917,1991,http://content8.flixster.com/movie/10/87/87/10878798_det.jpg
+1974,Friday the 13th,80761,1980,http://content8.flixster.com/movie/10/87/23/10872306_det.jpg
+1975,Friday the 13th Part 2,82418,1981,http://content6.flixster.com/movie/10/87/23/10872308_det.jpg
+1976,Friday the 13th Part III,83972,1982,http://content9.flixster.com/movie/10/87/23/10872307_det.jpg
+1977,Friday the 13th: The Final Chapter,87298,1984,http://content7.flixster.com/movie/10/87/23/10872321_det.jpg
+1978,Friday the 13th: A New Beginning,89173,1985,http://content8.flixster.com/movie/11/14/92/11149246_det.jpg
+1979,Jason Lives: Friday the 13th Part VI,91080,1986,http://content7.flixster.com/movie/11/14/92/11149245_det.jpg
+1980,Friday the 13th Part VII: The New Blood,95179,1988,http://content6.flixster.com/movie/11/14/92/11149248_det.jpg
+1981,Friday the 13th Part VIII: Jason Takes Manhattan,97388,1989,http://content9.flixster.com/movie/11/14/92/11149247_det.jpg
+1982,Halloween,373883,2007,http://content7.flixster.com/movie/10/92/20/10922093_det.jpg
+1983,Halloween II,82495,1981,http://content9.flixster.com/movie/27/57/275791_det.jpg
+1984,Halloween III: Season of the Witch,85636,1982,http://content7.flixster.com/movie/10/87/02/10870285_det.jpg
+1985,Halloween 4: The Return of Michael Myers,95271,1988,http://content9.flixster.com/movie/28/53/285327_det.jpg
+1986,Halloween 5,97474,1989,http://content9.flixster.com/movie/26/73/267307_det.jpg
+1987,Prom Night,926129,2008,http://content9.flixster.com/movie/10/66/75/10667503_det.jpg
+1988,Hello Mary Lou: Prom Night II,93176,1987,http://content6.flixster.com/movie/20/86/04/2086048_det.jpg
+1989,Prom Night III: The Last Kiss,98136,1990,http://content8.flixster.com/movie/10/88/54/10885474_det.jpg
+1990,Prom Night IV: Deliver Us from Evil,105179,1992,http://content6.flixster.com/movie/10/89/46/10894616_det.jpg
+1991,Bride of Chucky,144120,1998,http://content7.flixster.com/movie/27/67/276717_det.jpg
+1992,Child's Play 2,99253,1990,http://content8.flixster.com/movie/27/38/273822_det.jpg
+1993,Child's Play 3,103956,1991,http://content8.flixster.com/movie/27/49/274994_det.jpg
+1994,Poltergeist,84516,1982,http://content7.flixster.com/movie/25/42/254297_det.jpg
+1995,Poltergeist II: The Other Side,91778,1986,http://content6.flixster.com/movie/10/88/23/10882352_det.jpg
+1996,Poltergeist III,95889,1988,http://content8.flixster.com/movie/10/86/93/10869346_det.jpg
+1997,The Exorcist,70047,1973,http://content9.flixster.com/movie/28/02/280219_det.jpg
+1998,Exorcist II: The Heretic,76009,1977,http://content9.flixster.com/movie/27/11/271111_det.jpg
+1999,The Exorcist III,99528,1990,http://content6.flixster.com/movie/11/15/20/11152092_det.jpg
+2000,Lethal Weapon,93409,1987,http://content9.flixster.com/movie/11/12/88/11128835_det.jpg
+2001,Lethal Weapon,93409,1987,http://content9.flixster.com/movie/11/12/88/11128835_det.jpg
+2002,Lethal Weapon 3,104714,1992,http://content9.flixster.com/movie/11/12/88/11128831_det.jpg
+2003,Gremlins,87363,1984,http://content9.flixster.com/movie/26/50/265023_det.jpg

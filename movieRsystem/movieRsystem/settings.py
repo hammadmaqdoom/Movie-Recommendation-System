@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'widget_tweaks',
     'apx',
+    'csvimport.app.CSVImportConf',
 ]
 
 MIDDLEWARE = [

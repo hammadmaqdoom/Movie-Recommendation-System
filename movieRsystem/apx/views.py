@@ -9,6 +9,8 @@ from django.contrib.auth import authenticate,login,logout
 from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from django.shortcuts import redirect
+from apx.models import UserProfileInfo, User, userMovieWatched, moviesData, moviesgenre
+
 
 
 def home(request):
@@ -39,7 +41,7 @@ def register(request):
     
 # def RegisterPage(request):
 	if request.user.is_authenticated:
-		return redirect('dashboard')
+		return redirect('apx/dashboard')
 	else:
 		form = UserForm()
 		if request.method == 'POST':
@@ -55,7 +57,7 @@ def register(request):
 
 def userlogin(request):
     if request.user.is_authenticated:
-        return redirect('dashboard')
+        return redirect('apx/dashboard')
     else:
         if request.method == 'POST':
             form = LoginForm(request.POST)
@@ -65,7 +67,7 @@ def userlogin(request):
                 user = authenticate(request,username=username,password=password)
                 if user is not None:
                     login(request,user)
-                    return redirect('dashboard')
+                    return redirect('apx/dashboard')
                 # else:
                     # messages.info(request,'Username or password is incorrect')
         # context = {}
@@ -74,24 +76,32 @@ def userlogin(request):
     
     
 
-@login_required
 def dashboard(request):
 
-    return render(request, 'dashboard.html')
+    dataPreffb = UserProfileInfo.objects.all()
 
-@login_required
-def dashboard(request):
-    if request.method == 'POST':
-        profile_form = UserProfileInfoForm(data=request.POST)
-        if profile_form.is_valid():
-            profile = profile_form.save(commit=False)
-            profile.user = user
-            profile.interest = interest
-            profile.save()
-        else:
-            print(profile_form.errors)
-    else:
-        profile_form = UserProfileInfoForm()
 
-    return render(request,'dashboard.html',
-                          {'profile_form':profile_form, 'user':user,'interest':interest,})
+
+    stu = {
+    "dataPref": dataPreffb
+    }
+
+
+    return render(request, 'dashboard.html', stu)
+
+
+# def dashboard(request):
+#     if request.method == 'POST':
+#         profile_form = UserProfileInfoForm(data=request.POST)
+#         if profile_form.is_valid():
+#             profile = profile_form.save(commit=False)
+#             profile.user = user
+#             profile.interest = interest
+#             profile.save()
+#         else:
+#             print(profile_form.errors)
+#     else:
+#         profile_form = UserProfileInfoForm()
+
+#     return render(request,'dashboard.html',
+#                           {'profile_form':profile_form, 'user':user,'interest':interest,})

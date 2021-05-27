@@ -20,3 +20,7 @@ class LoginForm(forms.ModelForm):
     class Meta():
         model = User
         fields = ('username','password')
+
+
+class InterestForm(forms.Form):
+    choice = forms.CharField(max_length=200)
