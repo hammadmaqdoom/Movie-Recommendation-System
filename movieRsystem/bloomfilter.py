@@ -30,7 +30,7 @@ class bloomfilter():
             bit = mmh3.hash(item, x) % self.bitsize
             bits.append(bit)
  
-            # set the bit True in bit_array
+            # set the bit True in bitarray
             self.bitarray[bit] = True
         self.itemsadded += 1
 
@@ -67,5 +67,5 @@ class bloomfilter():
 
         # comparing the content with other content
         # a value would be obtained which would determine the similarity of the content
-        similiararray = self.bit_array & new.bitarray
+        similiararray = self.bitarray & new.bitarray
         return (2*(similiararray.count()))/(self.bitarray.count(1) + new.bitarray.count(1))
