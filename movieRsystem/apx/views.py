@@ -43,7 +43,7 @@ def login(request):
         if user:
             if user.is_active:
                 login(request,user)
-                return HttpResponseRedirect(reverse('home.html'))
+                return HttpResponseRedirect(reverse('dashboard.html'))
             else:
                 return HttpResponse("Your account was inactive.")
         else:
