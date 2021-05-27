@@ -22,5 +22,8 @@ class LoginForm(forms.ModelForm):
         fields = ('username','password')
 
 
-class InterestForm(forms.Form):
-    choice = forms.CharField(max_length=200)
+class InterestForm(forms.ModelForm):
+    interest = forms.CharField(max_length=200)
+    class Meta():
+        model = User
+        fields = ('interest',)

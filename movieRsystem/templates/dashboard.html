@@ -17,6 +17,10 @@
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800" rel="stylesheet" />
   <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <!-- Nucleo Icons -->
   <link href="{% static './css/nucleo-icons.css' %}" rel="stylesheet" />
   <!-- CSS Files -->
@@ -89,7 +93,7 @@
             <div class="card card-plain">
               <div class="card-header">
                 <h1 class="profile-title text-left">My Preferences</h1>
-                <h5 class="text-on-back">03</h5>
+                {% comment %} <h5 class="text-on-back">03</h5> {% endcomment %}
               </div>
               <div class="card-body">
                 <form>
@@ -97,13 +101,13 @@
                     
                     <div class="col-md-6">
                       <div class="form-group">
-                        <label>Company</label>
-                        <input type="text" class="form-control" value="CreativeTim">
+                        {% comment %} <label>Company</label> {% endcomment %}
+                        <input type="text" class="form-control" value="Your Preference">
                       </div>
                     </div>
                   </div>
                   
-                  <button type="submit" class="btn btn-primary btn-round float-right" rel="tooltip" data-original-title="Can't wait for your message" data-placement="right">Send text</button>
+                  <button type="submit" class="btn btn-primary btn-round float-left" rel="tooltip" data-original-title="Can't wait for your message" data-placement="right">Add Preference</button>
                 </form>
               </div>
             </div>
@@ -148,7 +152,24 @@
       </div>
     </section>
 
-
+    <section class="section">
+ 
+    <div class="container">
+    <h2>Basic Card</h2>
+    {% for gn in genres %}
+    {% for mv in movies %}
+    <div class="card" style="width:400px">
+        <img class="card-img-top" src="{{ mv.rtPictureURL }}" alt="Card image" style="width:50%">
+            <div class="card-body">
+            <h4 class="card-title">{{ mv.title }}</h4>
+            <p class="card-text">{{ gn.genres }}</p>
+            <a href="#" class="btn btn-primary">{{ mv.year }}</a>
+        </div>
+    </div>
+    {% endfor %}
+    {% endfor %}
+    </div>
+    </section>
 
     </div>
 

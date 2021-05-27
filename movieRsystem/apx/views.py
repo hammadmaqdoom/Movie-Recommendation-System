@@ -4,9 +4,9 @@ from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import login
 from django.contrib.auth.decorators import login_required
-from apx.forms import UserForm,UserProfileInfoForm, LoginForm
+from apx.forms import UserForm,UserProfileInfoForm, LoginForm, InterestForm
 from django.contrib.auth import authenticate,login,logout
-from django.http import HttpResponseRedirect, HttpResponse
+from django.http import HttpResponseRedirect, HttpResponse, request
 from django.urls import reverse
 from django.shortcuts import redirect
 from apx.models import UserProfileInfo, User, userMovieWatched, moviesData, moviesgenre
@@ -38,36 +38,32 @@ def register(request):
     # return render(request,'register.html',
     #                       {'user_form':user_form,
     #                        'registered':registered})
+	# if request.user.is_authenticated:
+	# 	return redirect('')
+	# else:
     
-# def RegisterPage(request):
-	if request.user.is_authenticated:
-		return redirect('apx/dashboard')
-	else:
-		form = UserForm()
-		if request.method == 'POST':
-			form = UserForm(request.POST)
-			if form.is_valid():
-				form.save()
-				user = form.cleaned_data.get('username')
-				# messages = "Account was created for " + user
-				return redirect('userlogin')
+    form = UserForm()
+    if request.method == 'POST':
+        form = UserForm(request.POST)
+        if form.is_valid():
+            form.save()
+            user = form.cleaned_data.get('username')
+            # messages = "Account was created for " + user
+            return redirect('userlogin')
             
-		context = {'form':form}
-		return render(request,'register.html',context)
+    context = {'form':form}
+    return render(request,'register.html',context)
 
 def userlogin(request):
-    if request.user.is_authenticated:
-        return redirect('apx/dashboard')
-    else:
-        if request.method == 'POST':
-            form = LoginForm(request.POST)
-            if form.is_valid():
-                username =  form.cleaned_data.get('username')
-                password =  form.cleaned_data.get('password')
-                user = authenticate(request,username=username,password=password)
-                if user is not None:
-                    login(request,user)
-                    return redirect('apx/dashboard')
+    if request.method == 'POST':
+        form = LoginForm(request.POST)
+        if form.is_valid():
+            username =  form.cleaned_data.get('username')
+            password =  form.cleaned_data.get('password')
+            user = authenticate(request,username=username,password=password)
+            if user is not None:
+                login(request,user)
+                return redirect('home')
                 # else:
                     # messages.info(request,'Username or password is incorrect')
         # context = {}
@@ -79,15 +75,18 @@ def userlogin(request):
 def dashboard(request):
 
     dataPreffb = UserProfileInfo.objects.all()
+    dataa = moviesData.objects.all().order_by('?')[:20]
+    gnre = moviesgenre.objects.all().order_by('?')[:20]
+    form = InterestForm(request.POST)
+    form.save
 
 
 
-    stu = {
-    "dataPref": dataPreffb
-    }
+
+    context = {'form':form, 'preference': dataPreffb ,'movies': dataa, 'genres':gnre}
 
 
-    return render(request, 'dashboard.html', stu)
+    return render(request, 'dashboard.html', context)
 
 
 # def dashboard(request):
